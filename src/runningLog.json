@@ -1,0 +1,264 @@
+{
+  "entries": [
+    {
+      "day_name": "Senin",
+      "date_str": "8 Juni 2026",
+      "title": "Strength (Bodyweight)",
+      "date": "2026-06-08",
+      "assessment": "Ringan-pas, tidak over-exertion. DOMS besok expected.",
+      "catatan_audit": "Mual + lemes setelah latihan karena kurang minum dan gula darah rendah. Pelajaran: minum 500ml H-1 jam sebelum latihan + snack ringan.",
+      "log_text": [
+        "**Tipe:** Bodyweight (tanpa dumbell)",
+        "**Pemanasan:** Ada, sebagian dikurangi reps (capek di gerakan ke-3)",
+        "",
+        "| Gerakan | Target | Realisasi | Catatan |",
+        "|---------|--------|-----------|---------|",
+        "| Bodyweight Squat | 2×15 | 2×10 | Aman, HR 123-125 |",
+        "| Reverse Lunge | 2×10/kaki | 2×10/kaki | Aman, HR 127-133 |",
+        "| Push Up (regular) | 2×8 | 2×5 | Berat, turun |",
+        "| Plank | 2×30dtk | 20+15dtk | Core lemah, turun |",
+        "| Sit Up | 2×15 | 5 | Skip, plank lebih penting |",
+        "",
+        "**HR Data:** Pemanasan 117, Latihan 120-133",
+        "**Assessment:** Ringan-pas, tidak over-exertion. DOMS besok expected.",
+        "**Catatan audit:** Mual + lemes setelah latihan karena kurang minum dan gula darah rendah. Pelajaran: minum 500ml H-1 jam sebelum latihan + snack ringan.",
+        "",
+        "---",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Target",
+            "Realisasi",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "Bodyweight Squat",
+              "2×15",
+              "2×10",
+              "Aman, HR 123-125"
+            ],
+            [
+              "Reverse Lunge",
+              "2×10/kaki",
+              "2×10/kaki",
+              "Aman, HR 127-133"
+            ],
+            [
+              "Push Up (regular)",
+              "2×8",
+              "2×5",
+              "Berat, turun"
+            ],
+            [
+              "Plank",
+              "2×30dtk",
+              "20+15dtk",
+              "Core lemah, turun"
+            ],
+            [
+              "Sit Up",
+              "2×15",
+              "5",
+              "Skip, plank lebih penting"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Bodyweight (tanpa dumbell)",
+        "Pemanasan": "Ada, sebagian dikurangi reps (capek di gerakan ke-3)",
+        "HR Data": "Pemanasan 117, Latihan 120-133"
+      },
+      "iso_date": "2026-06-08",
+      "week_number": 1
+    },
+    {
+      "day_name": "Selasa",
+      "date_str": "9 Juni 2026",
+      "title": "Tempo A Konservatif",
+      "date": "2026-06-09",
+      "assessment": "Sesuai target. HR stabil di upper range tempo konservatif.",
+      "catatan_audit": "Km 1 HR udah langsung 163 — pemanasan kurang gradual. Km 2 terlalu agresif (6:25). Km 3 paling bagus (6:45 @ HR 161, turun). Untuk tempo berikutnya, kontrol start lebih pelan, biarkan HR naik gradual 2-4 menit pertama.",
+      "log_text": [
+        "**Target:** 20' continuous @ HR 158-163",
+        "",
+        "| Km | Pace | Avg HR | EG |",
+        "|----|------|--------|----|",
+        "| 1 | 7:11/km | 163 | 11 |",
+        "| 2 | 6:25/km | 163 | -11 |",
+        "| 3 | 6:45/km | 161 | -4 |",
+        "",
+        "**Total inti:** ~3km / ~20 menit",
+        "**Avg pace inti:** ~6:47/km",
+        "**Assessment:** Sesuai target. HR stabil di upper range tempo konservatif.",
+        "**Catatan audit:** Km 1 HR udah langsung 163 — pemanasan kurang gradual. Km 2 terlalu agresif (6:25). Km 3 paling bagus (6:45 @ HR 161, turun). Untuk tempo berikutnya, kontrol start lebih pelan, biarkan HR naik gradual 2-4 menit pertama.",
+        "",
+        "---",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "Avg HR",
+            "EG"
+          ],
+          "rows": [
+            [
+              "1",
+              "7:11/km",
+              "163",
+              "11"
+            ],
+            [
+              "2",
+              "6:25/km",
+              "163",
+              "-11"
+            ],
+            [
+              "3",
+              "6:45/km",
+              "161",
+              "-4"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "20' continuous @ HR 158-163",
+        "Total inti": "~3km / ~20 menit",
+        "Avg pace inti": "~6:47/km"
+      },
+      "iso_date": "2026-06-09",
+      "week_number": 1
+    },
+    {
+      "day_name": "Rabu",
+      "date_str": "10 Juni 2026",
+      "title": "Easy 5km",
+      "date": "2026-06-10",
+      "assessment": "Easy run textbook. Km 1 super pelan (9:06) adalah cara benar memulai easy run. Km 2 ada bukit +16 EG, pace turun ke 8:15, HR cuma 153 — controlled. Km 3-5 progresif tanpa HR naik signifikan.",
+      "catatan_audit": "Max HR 159 cuma nyentuh sebentar di tanjakan km 2, bukan masalah. Kalau easy run mulai tembus 160+ di flat, baru harus pelan.",
+      "log_text": [
+        "**Target:** 5km @ HR 145-155",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 150 bpm | 145-155 | ✅ Sempurna |",
+        "| Max HR | 159 bpm | max 155 | ⚠️ Overshoot km 2 (tanjakan) |",
+        "| Pace | 7:58/km | bebas | ✅ |",
+        "| Durasi | 40:31 | 5km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 9:06 | 138 | +8 | ✅ Pemanasan ideal |",
+        "| 2 | 8:15 | 153 | +16 | ✅ Bukit terjal, HR controlled |",
+        "| 3 | 7:35 | 154 | -1 | ✅ Turunan, pace naik natural |",
+        "| 4 | 7:28 | 154 | -14 | ✅ Masih di Z2 |",
+        "| 5 | 7:21 | 154 | -11 | ✅ Finis strong |",
+        "",
+        "**Assessment:** Easy run textbook. Km 1 super pelan (9:06) adalah cara benar memulai easy run. Km 2 ada bukit +16 EG, pace turun ke 8:15, HR cuma 153 — controlled. Km 3-5 progresif tanpa HR naik signifikan.",
+        "**Pace natural Z2:** ±7:30-8:00/km @ HR 145-155. Data ini jadi baseline progres 6 minggu ke depan.",
+        "**Catatan audit:** Max HR 159 cuma nyentuh sebentar di tanjakan km 2, bukan masalah. Kalau easy run mulai tembus 160+ di flat, baru harus pelan.",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "150 bpm",
+              "145-155",
+              "✅ Sempurna"
+            ],
+            [
+              "Max HR",
+              "159 bpm",
+              "max 155",
+              "⚠️ Overshoot km 2 (tanjakan)"
+            ],
+            [
+              "Pace",
+              "7:58/km",
+              "bebas",
+              "✅"
+            ],
+            [
+              "Durasi",
+              "40:31",
+              "5km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "9:06",
+              "138",
+              "+8",
+              "✅ Pemanasan ideal"
+            ],
+            [
+              "2",
+              "8:15",
+              "153",
+              "+16",
+              "✅ Bukit terjal, HR controlled"
+            ],
+            [
+              "3",
+              "7:35",
+              "154",
+              "-1",
+              "✅ Turunan, pace naik natural"
+            ],
+            [
+              "4",
+              "7:28",
+              "154",
+              "-14",
+              "✅ Masih di Z2"
+            ],
+            [
+              "5",
+              "7:21",
+              "154",
+              "-11",
+              "✅ Finis strong"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "5km @ HR 145-155",
+        "Split": "",
+        "Pace natural Z2": "±7:30-8:00/km @ HR 145-155. Data ini jadi baseline progres 6 minggu ke depan."
+      },
+      "iso_date": "2026-06-10",
+      "week_number": 1
+    }
+  ]
+}

@@ -1,9 +1,20 @@
 import { useEffect, useMemo, useState } from 'react';
-import type { ScheduleData, Week } from './types';
+import type { ScheduleData, Week, LogEntry, RunningLog } from './types';
 import { useProgress } from './useProgress';
 import rawData from './data.json';
+import rawLog from './runningLog.json';
 
 const data = rawData as unknown as ScheduleData;
+const logData = rawLog as unknown as RunningLog;
+
+// Build log lookup: key = "week-day" -> LogEntry
+const logLookup = new Map<string, LogEntry>();
+for (const entry of logData.entries) {
+  logLookup.set(`${entry.week_number}-${entry.day_name}`, entry);
+}
+function getLog(week: number, day: string): LogEntry | undefined {
+  return logLookup.get(`${week}-${day}`);
+}
 
 const TYPE_COLORS: Record<string, string> = {
   run: 'border-l-orange-500 bg-orange-500/5',
@@ -84,12 +95,18 @@ function WeekNav({ week, totalWeeks, onPrev, onNext }: {
   );
 }
 
-function DayCard({ day, type, emoji, label, detail, isToday, isDone, onToggle }: {
+function DayCard({ day, type, emoji, label, detail, isToday, isDone, onToggle, logEntry }: {
   day: string; type: string; emoji: string; label: string; detail: string;
-  isToday: boolean; isDone: boolean; onToggle: () => void;
+  isToday: boolean; isDone: boolean; onToggle: () => void; logEntry?: LogEntry;
 }) {
   const [expanded, setExpanded] = useState(false);
   const colorClass = TYPE_COLORS[type] || TYPE_COLORS.other;
+
+  const hasLog = !!logEntry;
+
+  const kvDisplay = logEntry ? Object.entries(logEntry.key_value).filter(
+    ([k]) => k !== 'Target' && k !== 'Pemanasan'
+  ) : [];
 
   return (
     <div className={`rounded-xl border-l-4 p-4 mb-3 transition-all duration-200 ${colorClass} ${isToday ? 'ring-1 ring-zinc-500' : ''} ${isDone ? 'opacity-40' : ''}`}>
@@ -99,19 +116,78 @@ function DayCard({ day, type, emoji, label, detail, isToday, isDone, onToggle }:
             <span className="text-xs font-medium text-zinc-500 uppercase tracking-wider">
               {day} {isToday && <span className="ml-2 text-xs text-zinc-400">• Hari ini</span>}
             </span>
+            {hasLog && <span className="text-[10px] text-emerald-400">● Log</span>}
           </div>
           <div className="flex items-center gap-2">
             <span className="text-lg">{emoji || typeIcon(type)}</span>
-            <span className="font-medium text-white text-sm leading-tight">{label}</span>
+            <span className="font-medium text-white text-sm leading-tight">
+              {logEntry?.title || label}
+            </span>
           </div>
-          {detail && expanded && (
-            <div className="mt-2 text-xs text-zinc-400 leading-relaxed ml-9 border-l border-zinc-700 pl-3">
-              {detail.split('\n').map((line, i) => <p key={i}>{line}</p>)}
-            </div>
-          )}
           {detail && !expanded && (
             <div className="text-xs text-zinc-500 ml-9 truncate mt-0.5">
               {detail.replace(/\*\*/g, '').slice(0, 60)}{detail.length > 60 ? '…' : ''}
+            </div>
+          )}
+
+          {/* Expanded log detail */}
+          {expanded && (
+            <div className="mt-3 ml-9 space-y-3">
+              {/* Schedule detail */}
+              {detail && (
+                <div className="text-xs text-zinc-400 leading-relaxed border-l border-zinc-700 pl-3">
+                  {detail.split('\n').map((line, i) => <p key={i}>{line}</p>)}
+                </div>
+              )}
+
+              {/* Log key-values */}
+              {logEntry?.key_value && Object.keys(logEntry.key_value).length > 0 && (
+                <div className="flex flex-wrap gap-x-4 gap-y-1 text-xs">
+                  {Object.entries(logEntry.key_value).map(([k, v]) => (
+                    <span key={k} className="text-zinc-400">
+                      <span className="text-zinc-500">{k}:</span> {v}
+                    </span>
+                  ))}
+                </div>
+              )}
+
+              {/* Log tables */}
+              {logEntry?.tables?.map((table, ti) => (
+                <div key={ti} className="overflow-x-auto">
+                  <table className="w-full text-[10px] text-zinc-300 border-collapse">
+                    <thead>
+                      <tr>
+                        {table.header.map((h, hi) => (
+                          <th key={hi} className="text-left text-zinc-500 font-medium px-2 py-1 border-b border-zinc-700 whitespace-nowrap">{h}</th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {table.rows.map((row, ri) => (
+                        <tr key={ri}>
+                          {row.map((cell, ci) => (
+                            <td key={ci} className="px-2 py-1 border-b border-zinc-800/50 whitespace-nowrap">{cell}</td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              ))}
+
+              {/* Assessment */}
+              {logEntry?.assessment && (
+                <div className="text-xs text-zinc-300 pl-2 border-l-2 border-emerald-500/50 italic">
+                  {logEntry.assessment}
+                </div>
+              )}
+
+              {/* Catatan audit */}
+              {logEntry?.catatan_audit && (
+                <div className="text-xs text-amber-400/80 pl-2 border-l-2 border-amber-500/50">
+                  📝 {logEntry.catatan_audit}
+                </div>
+              )}
             </div>
           )}
         </div>
@@ -122,12 +198,12 @@ function DayCard({ day, type, emoji, label, detail, isToday, isDone, onToggle }:
               : 'bg-zinc-700 text-zinc-400 active:bg-zinc-600'
           }`}
           aria-label={isDone ? 'Unmark' : 'Mark done'}
-        >{isDone ? '✓' : '○'}</button>
+        >{isDone ? '✓' : '○'}
+        </button>
       </div>
     </div>
   );
 }
-
 function WeekProgress({ done, total }: { done: number; total: number }) {
   const pct = total > 0 ? Math.round((done / total) * 100) : 0;
   return (
@@ -183,7 +259,8 @@ function WeekView({ week, todayDay, progress, onToggle }: {
           label={day.label} detail={day.detail}
           isToday={day.day === todayDay}
           isDone={progress.isDone(week.week, day.day)}
-          onToggle={() => onToggle(day.day)} />
+          onToggle={() => onToggle(day.day)}
+          logEntry={getLog(week.week, day.day)} />
       ))}
     </div>
   );

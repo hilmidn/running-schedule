@@ -30,3 +30,27 @@ export interface ScheduleData {
   phases: Phase[];
   weeks: Week[];
 }
+
+// Running log types
+export interface LogTable {
+  header: string[];
+  rows: string[][];
+}
+
+export interface LogEntry {
+  day_name: string;
+  date_str: string;
+  title: string;
+  date: string;
+  iso_date: string;
+  week_number: number;
+  assessment: string;
+  catatan_audit: string;
+  log_text: string[];
+  tables: LogTable[];
+  key_value: Record<string, string>;
+}
+
+export interface RunningLog {
+  entries: LogEntry[];
+}
