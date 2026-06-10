@@ -1,6 +1,5 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useMemo, useState } from 'react';
 import type { ScheduleData, Week, LogEntry, RunningLog } from './types';
-import { useProgress } from './useProgress';
 import rawData from './data.json';
 import rawLog from './runningLog.json';
 
@@ -14,6 +13,9 @@ for (const entry of logData.entries) {
 }
 function getLog(week: number, day: string): LogEntry | undefined {
   return logLookup.get(`${week}-${day}`);
+}
+function isDone(week: number, day: string): boolean {
+  return !!getLog(week, day);
 }
 
 const TYPE_COLORS: Record<string, string> = {
@@ -95,35 +97,29 @@ function WeekNav({ week, totalWeeks, onPrev, onNext }: {
   );
 }
 
-function DayCard({ day, type, emoji, label, detail, isToday, isDone, onToggle, logEntry }: {
+function DayCard({ day, type, emoji, label, detail, isToday, done, logEntry }: {
   day: string; type: string; emoji: string; label: string; detail: string;
-  isToday: boolean; isDone: boolean; onToggle: () => void; logEntry?: LogEntry;
+  isToday: boolean; done: boolean; logEntry?: LogEntry;
 }) {
   const [expanded, setExpanded] = useState(false);
   const colorClass = TYPE_COLORS[type] || TYPE_COLORS.other;
 
-  const hasLog = !!logEntry;
-
-  const kvDisplay = logEntry ? Object.entries(logEntry.key_value).filter(
-    ([k]) => k !== 'Target' && k !== 'Pemanasan'
-  ) : [];
-
   return (
-    <div className={`rounded-xl border-l-4 p-4 mb-3 transition-all duration-200 ${colorClass} ${isToday ? 'ring-1 ring-zinc-500' : ''} ${isDone ? 'opacity-40' : ''}`}>
+    <div className={`rounded-xl border-l-4 p-4 mb-3 transition-all duration-200 ${colorClass} ${isToday ? 'ring-1 ring-zinc-500' : ''} ${done ? 'opacity-40' : ''}`}>
       <div className="flex items-start justify-between gap-3">
         <div className="flex-1 min-w-0" onClick={() => setExpanded(!expanded)}>
           <div className="flex items-center gap-2 mb-1">
             <span className="text-xs font-medium text-zinc-500 uppercase tracking-wider">
               {day} {isToday && <span className="ml-2 text-xs text-zinc-400">• Hari ini</span>}
             </span>
-            {hasLog && <span className="text-[10px] text-emerald-400">● Log</span>}
+            {done && <span className="text-[10px] text-emerald-400">● Selesai</span>}
           </div>
           <div className="flex items-center gap-2">
             <span className="text-lg">{emoji || typeIcon(type)}</span>
-            <span className="font-medium text-white text-sm leading-tight">
-              {logEntry?.title || label}
-            </span>
+            <span className="font-medium text-white text-sm leading-tight">{logEntry?.title || label}</span>
           </div>
+
+          {/* Collapsed preview */}
           {detail && !expanded && (
             <div className="text-xs text-zinc-500 ml-9 truncate mt-0.5">
               {detail.replace(/\*\*/g, '').slice(0, 60)}{detail.length > 60 ? '…' : ''}
@@ -191,19 +187,18 @@ function DayCard({ day, type, emoji, label, detail, isToday, isDone, onToggle, l
             </div>
           )}
         </div>
-        <button onClick={(e) => { e.stopPropagation(); onToggle(); }}
-          className={`w-7 h-7 rounded-full flex-shrink-0 flex items-center justify-center text-sm transition-all duration-200 ${
-            isDone
-              ? 'bg-emerald-500 text-white shadow-lg shadow-emerald-500/20'
-              : 'bg-zinc-700 text-zinc-400 active:bg-zinc-600'
-          }`}
-          aria-label={isDone ? 'Unmark' : 'Mark done'}
-        >{isDone ? '✓' : '○'}
-        </button>
+
+        {/* Done indicator */}
+        <div className={`w-7 h-7 rounded-full flex-shrink-0 flex items-center justify-center text-sm ${
+          done ? 'bg-emerald-500/20 text-emerald-400' : 'bg-zinc-800 text-zinc-600'
+        }`}>
+          {done ? '✓' : '○'}
+        </div>
       </div>
     </div>
   );
 }
+
 function WeekProgress({ done, total }: { done: number; total: number }) {
   const pct = total > 0 ? Math.round((done / total) * 100) : 0;
   return (
@@ -230,12 +225,10 @@ function WeekNotes({ notes }: { notes: string }) {
   );
 }
 
-function WeekView({ week, todayDay, progress, onToggle }: {
-  week: Week; todayDay: string;
-  progress: ReturnType<typeof useProgress>;
-  onToggle: (day: string) => void;
-}) {
-  const { done, total } = progress.weekProgress(week.week, week.days.map(d => d.day));
+function WeekView({ week, todayDay }: { week: Week; todayDay: string }) {
+  const days = week.days.map(d => d.day);
+  const done = days.filter(d => isDone(week.week, d)).length;
+  const total = days.length;
 
   return (
     <div className="px-4 pb-4">
@@ -258,8 +251,7 @@ function WeekView({ week, todayDay, progress, onToggle }: {
         <DayCard key={day.day} day={day.day} type={day.type} emoji={day.emoji}
           label={day.label} detail={day.detail}
           isToday={day.day === todayDay}
-          isDone={progress.isDone(week.week, day.day)}
-          onToggle={() => onToggle(day.day)}
+          done={isDone(week.week, day.day)}
           logEntry={getLog(week.week, day.day)} />
       ))}
     </div>
@@ -268,33 +260,34 @@ function WeekView({ week, todayDay, progress, onToggle }: {
 
 /* ======== SUMMARY VIEW ======== */
 
-function SummaryView({ progress }: { progress: ReturnType<typeof useProgress> }) {
-  const totalDays = data.weeks.reduce((sum, w) => sum + w.days.length, 0);
-  const overall = progress.overallProgress(totalDays);
-  const overallPct = overall.total > 0 ? Math.round((overall.done / overall.total) * 100) : 0;
-
-  // Build dayOrder for streak: all "week-day" keys from week 1 to today
-  const allDayKeys: string[] = [];
+function streakCount(): number {
+  const allKeys: string[] = [];
   for (const w of data.weeks) {
     for (const d of w.days) {
-      allDayKeys.push(`${w.week}-${d.day}`);
+      allKeys.push(`${w.week}-${d.day}`);
     }
   }
-  const currentStreak = progress.streak(allDayKeys);
-
-  // All days by week
-  const daysByWeek: Record<number, string[]> = {};
-  for (const w of data.weeks) {
-    daysByWeek[w.week] = w.days.map(d => d.day);
+  let count = 0;
+  for (let i = allKeys.length - 1; i >= 0; i--) {
+    if (logLookup.has(allKeys[i])) count++;
+    else break;
   }
+  return count;
+}
 
-  // Count done by type
+function SummaryView() {
+  const totalDays = data.weeks.reduce((sum, w) => sum + w.days.length, 0);
+  const totalDone = logData.entries.length;
+  const overallPct = Math.round((totalDone / totalDays) * 100);
+  const streak = streakCount();
+
+  // Count by type
   const typeCount: Record<string, { done: number; total: number }> = {};
   for (const w of data.weeks) {
     for (const d of w.days) {
       if (!typeCount[d.type]) typeCount[d.type] = { done: 0, total: 0 };
       typeCount[d.type].total++;
-      if (progress.isDone(w.week, d.day)) typeCount[d.type].done++;
+      if (isDone(w.week, d.day)) typeCount[d.type].done++;
     }
   }
 
@@ -304,6 +297,22 @@ function SummaryView({ progress }: { progress: ReturnType<typeof useProgress> })
     mobility: { emoji: '🧘', label: 'Mobility' },
     rest: { emoji: '🛌', label: 'Istirahat' },
     race: { emoji: '🔥', label: 'Race' },
+  };
+
+  // Phase progress
+  const daysByWeek: Record<number, string[]> = {};
+  for (const w of data.weeks) {
+    daysByWeek[w.week] = w.days.map(d => d.day);
+  }
+
+  const phaseDone = (weeks: [number, number]): { done: number; total: number } => {
+    let done = 0, total = 0;
+    for (let w = weeks[0]; w <= weeks[1]; w++) {
+      const days = daysByWeek[w] || [];
+      total += days.length;
+      done += days.filter(d => isDone(w, d)).length;
+    }
+    return { done, total };
   };
 
   return (
@@ -338,16 +347,16 @@ function SummaryView({ progress }: { progress: ReturnType<typeof useProgress> })
 
       <div className="grid grid-cols-2 gap-3">
         <div className="bg-zinc-900 rounded-xl p-3 text-center">
-          <div className="text-2xl font-bold text-white">{overall.done}</div>
+          <div className="text-2xl font-bold text-white">{totalDone}</div>
           <div className="text-xs text-zinc-500">Hari selesai</div>
         </div>
         <div className="bg-zinc-900 rounded-xl p-3 text-center">
-          <div className="text-2xl font-bold text-orange-400">{overall.total - overall.done}</div>
+          <div className="text-2xl font-bold text-orange-400">{totalDays - totalDone}</div>
           <div className="text-xs text-zinc-500">Sisa hari</div>
         </div>
         <div className="bg-zinc-900 rounded-xl p-3 text-center">
           <div className="text-2xl font-bold text-amber-400">
-            {currentStreak > 0 ? `🔥 ${currentStreak}` : '—'}
+            {streak > 0 ? `🔥 ${streak}` : '—'}
           </div>
           <div className="text-xs text-zinc-500">Streak</div>
         </div>
@@ -383,7 +392,7 @@ function SummaryView({ progress }: { progress: ReturnType<typeof useProgress> })
         <h3 className="text-sm font-semibold text-zinc-300 mb-3">Per Fase</h3>
         <div className="space-y-3">
           {data.phases.map((phase) => {
-            const p = progress.phaseProgress(phase.weeks, daysByWeek);
+            const p = phaseDone(phase.weeks);
             const pct = p.total > 0 ? Math.round((p.done / p.total) * 100) : 0;
             const active = getCurrentWeek(data.start_date) >= phase.weeks[0] &&
               getCurrentWeek(data.start_date) <= phase.weeks[1];
@@ -411,14 +420,14 @@ function SummaryView({ progress }: { progress: ReturnType<typeof useProgress> })
         <h3 className="text-sm font-semibold text-zinc-300 mb-3">Per Minggu</h3>
         <div className="space-y-1.5">
           {data.weeks.map((w) => {
-            const { done, total } = progress.weekProgress(w.week, w.days.map(d => d.day));
+            const days = w.days.map(d => d.day);
+            const done = days.filter(d => isDone(w.week, d)).length;
+            const total = days.length;
             const pct = total > 0 ? Math.round((done / total) * 100) : 0;
             const curr = w.week === getCurrentWeek(data.start_date);
             return (
               <div key={w.week} className={`flex items-center gap-3 px-3 py-2 rounded-lg ${curr ? 'bg-zinc-800' : 'bg-zinc-900/50'}`}>
-                <span className={`w-7 text-center text-xs font-bold ${curr ? 'text-orange-400' : 'text-zinc-500'}`}>
-                  W{w.week}
-                </span>
+                <span className={`w-7 text-center text-xs font-bold ${curr ? 'text-orange-400' : 'text-zinc-500'}`}>W{w.week}</span>
                 <div className="flex-1">
                   <ProgressBar pct={pct} className="h-1" />
                 </div>
@@ -430,7 +439,7 @@ function SummaryView({ progress }: { progress: ReturnType<typeof useProgress> })
       </div>
 
       <div className="text-center text-xs text-zinc-600 pb-2">
-        Update otomatis • Data tersimpan di browser
+        Progress dari log latihan • Auto-sync tiap 30 menit
       </div>
     </div>
   );
@@ -443,13 +452,9 @@ export default function App() {
   const [currentWeek, setCurrentWeek] = useState(() => getCurrentWeek(startDate));
   const [tab, setTab] = useState<'schedule' | 'summary'>('schedule');
   const todayDay = useMemo(() => getTodayDayName(), []);
-  const progress = useProgress();
 
   const week = data.weeks.find(w => w.week === currentWeek);
-
-  const goToWeek = (w: number) => {
-    setCurrentWeek(Math.max(1, Math.min(data.total_weeks, w)));
-  };
+  const goToWeek = (w: number) => setCurrentWeek(Math.max(1, Math.min(data.total_weeks, w)));
 
   return (
     <div className="min-h-screen bg-zinc-950 text-white flex flex-col">
@@ -468,21 +473,19 @@ export default function App() {
                 <span key={i}
                   className={`px-2 py-0.5 rounded text-[10px] leading-tight transition-colors ${
                     active ? 'bg-orange-500/20 text-orange-300' : 'text-zinc-600'
-                  }`}
-                >F{i + 1}</span>
+                  }`}>F{i + 1}</span>
               );
             })}
           </div>
         </div>
       </header>
 
-      {/* Tab content */}
+      {/* Content */}
       <main className="flex-1 max-w-lg mx-auto w-full pt-4 overflow-y-auto">
         {tab === 'summary' ? (
-          <SummaryView progress={progress} />
+          <SummaryView />
         ) : (
           <>
-            {/* Week dots */}
             <div className="px-4 mb-2">
               <div className="flex items-center justify-center gap-1.5">
                 {Array.from({ length: data.total_weeks }, (_, i) => i + 1).map((w) => (
@@ -494,15 +497,11 @@ export default function App() {
                 ))}
               </div>
             </div>
-
             {week ? (
-              <WeekView week={week} todayDay={todayDay} progress={progress}
-                onToggle={(day) => progress.toggle(week.week, day)} />
+              <WeekView week={week} todayDay={todayDay} />
             ) : (
               <div className="text-center py-12 text-zinc-500">Data tidak ditemukan</div>
             )}
-
-            {/* Week nav */}
             <div className="px-4 py-3 border-t border-zinc-800">
               <WeekNav week={currentWeek} totalWeeks={data.total_weeks}
                 onPrev={() => goToWeek(currentWeek - 1)}
