@@ -38,7 +38,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength full ringan",
-          "detail": "Sesuai tabel strength minggu 1-2\n• Arm circles — 10× maju + 10× mundur\n• Torso twist — 10×/sisi\n• Leg swings depan-belakang — 10×/kaki\n• Leg swings samping — 10×/kaki\n• Hip circles — 10× searah + 10× lawan\n• Glute bridge — 10×\n• Bodyweight/Goblet Squat — 2×10\n• Reverse Lunge — 2×8/kaki\n• Single Arm Row / Push Up — 2×10/lengan atau push up 2×5-8\n• Plank — 2×15-30 detik\n• Quad stretch — 20 detik/kaki\n• Hamstring stretch — 20 detik/kaki\n• Calf stretch — 20 detik/kaki\n• Hip flexor stretch — 20 detik/kaki"
+          "detail": "Sesuai tabel strength minggu 1-2\n• Arm circles — 10× maju + 10× mundur\n• Torso twist — 10×/sisi\n• Leg swings depan-belakang — 10×/kaki\n• Leg swings samping — 10×/kaki\n• Hip circles — 10× searah + 10× lawan\n• Glute bridge — 10×\n• Goblet Squat — 2×10\n• Reverse Lunge — 2×8/kaki\n• Single Arm Row — 2×10/lengan\n• Plank — 2×30 detik\n• Bodyweight Squat — 2×15\n• Reverse Lunge — 2×10/kaki\n• Push Up (lutut/dada) — 2×5-8\n• Plank — 2×30 detik\n• Quad stretch — 20 detik/kaki\n• Hamstring stretch — 20 detik/kaki\n• Calf stretch — 20 detik/kaki\n• Hip flexor stretch — 20 detik/kaki"
         },
         {
           "day": "Selasa",
@@ -96,7 +96,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength full ringan",
-          "detail": "• Arm circles — 10× maju + 10× mundur\n• Torso twist — 10×/sisi\n• Leg swings depan-belakang — 10×/kaki\n• Leg swings samping — 10×/kaki\n• Hip circles — 10× searah + 10× lawan\n• Glute bridge — 10×\n• Bodyweight/Goblet Squat — 2×10\n• Reverse Lunge — 2×8/kaki\n• Single Arm Row / Push Up — 2×10/lengan atau push up 2×5-8\n• Plank — 2×15-30 detik\n• Quad stretch — 20 detik/kaki\n• Hamstring stretch — 20 detik/kaki\n• Calf stretch — 20 detik/kaki\n• Hip flexor stretch — 20 detik/kaki"
+          "detail": "• Arm circles — 10× maju + 10× mundur\n• Torso twist — 10×/sisi\n• Leg swings depan-belakang — 10×/kaki\n• Leg swings samping — 10×/kaki\n• Hip circles — 10× searah + 10× lawan\n• Glute bridge — 10×\n• Goblet Squat — 2×10\n• Reverse Lunge — 2×8/kaki\n• Single Arm Row — 2×10/lengan\n• Plank — 2×30 detik\n• Bodyweight Squat — 2×15\n• Reverse Lunge — 2×10/kaki\n• Push Up (lutut/dada) — 2×5-8\n• Plank — 2×30 detik\n• Quad stretch — 20 detik/kaki\n• Hamstring stretch — 20 detik/kaki\n• Calf stretch — 20 detik/kaki\n• Hip flexor stretch — 20 detik/kaki"
         },
         {
           "day": "Selasa",
@@ -153,7 +153,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×10\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×30-45 detik"
+          "detail": "• Goblet Squat — 3×10\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×30-45 detik\n• Bodyweight Squat — 3×15\n• Reverse Lunge — 3×10/kaki\n• Push Up (lutut/dada) — 3×6-10\n• Plank — 3×30-45 detik"
         },
         {
           "day": "Selasa",
@@ -174,7 +174,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×10\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×30-45 detik"
+          "detail": "• Goblet Squat — 3×10\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×30-45 detik\n• Bodyweight Squat — 3×15\n• Reverse Lunge — 3×10/kaki\n• Push Up (lutut/dada) — 3×6-10\n• Plank — 3×30-45 detik"
         },
         {
           "day": "Jumat",
@@ -210,7 +210,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×10\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×30-45 detik"
+          "detail": "• Goblet Squat — 3×10\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×30-45 detik\n• Bodyweight Squat — 3×15\n• Reverse Lunge — 3×10/kaki\n• Push Up (lutut/dada) — 3×6-10\n• Plank — 3×30-45 detik"
         },
         {
           "day": "Selasa",
@@ -231,7 +231,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×10\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×30-45 detik"
+          "detail": "• Goblet Squat — 3×10\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×30-45 detik\n• Bodyweight Squat — 3×15\n• Reverse Lunge — 3×10/kaki\n• Push Up (lutut/dada) — 3×6-10\n• Plank — 3×30-45 detik"
         },
         {
           "day": "Jumat",
@@ -268,7 +268,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength (minggu 5-12)",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×45 detik\n• Standing Calf Raise — 3×15"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×45 detik\n• Standing Calf Raise — 3×15\n• Bodyweight Squat — 3×18\n• Reverse Lunge — 3×10/kaki\n• Push Up (dada) — 3×8-10\n• Plank — 3×45-60 detik\n• Single Leg Calf Raise — 3×12/kaki"
         },
         {
           "day": "Selasa",
@@ -289,7 +289,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×45 detik\n• Standing Calf Raise — 3×15"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×45 detik\n• Standing Calf Raise — 3×15\n• Bodyweight Squat — 3×18\n• Reverse Lunge — 3×10/kaki\n• Push Up (dada) — 3×8-10\n• Plank — 3×45-60 detik\n• Single Leg Calf Raise — 3×12/kaki"
         },
         {
           "day": "Jumat",
@@ -325,7 +325,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×45 detik\n• Standing Calf Raise — 3×15"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×45 detik\n• Standing Calf Raise — 3×15\n• Bodyweight Squat — 3×18\n• Reverse Lunge — 3×10/kaki\n• Push Up (dada) — 3×8-10\n• Plank — 3×45-60 detik\n• Single Leg Calf Raise — 3×12/kaki"
         },
         {
           "day": "Selasa",
@@ -346,7 +346,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×45 detik\n• Standing Calf Raise — 3×15"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×8/kaki\n• Single Arm Row — 3×10/lengan\n• Plank — 3×45 detik\n• Standing Calf Raise — 3×15\n• Bodyweight Squat — 3×18\n• Reverse Lunge — 3×10/kaki\n• Push Up (dada) — 3×8-10\n• Plank — 3×45-60 detik\n• Single Leg Calf Raise — 3×12/kaki"
         },
         {
           "day": "Jumat",
@@ -382,7 +382,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Selasa",
@@ -403,7 +403,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Jumat",
@@ -439,7 +439,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength (ringan, 2 set aja)",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Selasa",
@@ -460,7 +460,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength (ringan, 2 set)",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Jumat",
@@ -497,7 +497,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Selasa",
@@ -518,7 +518,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Jumat",
@@ -555,7 +555,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Selasa",
@@ -576,7 +576,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Jumat",
@@ -612,7 +612,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength (ringan, 2 set)",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Selasa",
@@ -670,7 +670,7 @@
           "emoji": "💪",
           "type": "strength",
           "label": "Strength (2 set ringan)",
-          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi"
+          "detail": "• Goblet Squat — 3×12\n• Reverse Lunge — 3×10/kaki\n• Single Arm Row — 3×12/lengan\n• Plank with Leg Lift — 3×30 detik\n• Standing Calf Raise — 3×15\n• Side Plank — 3×20-30 detik/sisi\n• Bodyweight Squat — 3×20\n• Reverse Lunge pulsing — 3×10/kaki\n• Push Up penuh — 3×10-12\n• Plank with Leg Lift — 3×30 detik\n• Single Leg Calf Raise — 3×12/kaki\n• Side Plank — 3×20-30 detik/sisi"
         },
         {
           "day": "Selasa",
