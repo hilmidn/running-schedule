@@ -105,7 +105,7 @@ function DayCard({ day, type, emoji, label, detail, isToday, done, logEntry }: {
   const colorClass = TYPE_COLORS[type] || TYPE_COLORS.other;
 
   return (
-    <div className={`rounded-xl border-l-4 p-4 mb-3 transition-all duration-200 ${colorClass} ${isToday ? 'ring-1 ring-zinc-500' : ''}`}>
+    <div className={`rounded-xl border-l-4 p-4 mb-3 transition-all duration-200 ${colorClass} ${isToday ? 'ring-1 ring-zinc-500' : ''} ${done && !expanded ? 'opacity-40' : ''}`}>
       <div className="flex items-start justify-between gap-3">
         <div className="flex-1 min-w-0" onClick={() => setExpanded(!expanded)}>
           <div className="flex items-center gap-2 mb-1">
