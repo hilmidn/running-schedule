@@ -169,7 +169,7 @@
         "**Pace natural Z2:** ±7:30-8:00/km @ HR 145-155. Data ini jadi baseline progres 6 minggu ke depan.",
         "**Catatan audit:** Max HR 159 cuma nyentuh sebentar di tanjakan km 2, bukan masalah. Kalau easy run mulai tembus 160+ di flat, baru harus pelan.",
         "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -260,6 +260,82 @@
         "Pace natural Z2": "±7:30-8:00/km @ HR 145-155. Data ini jadi baseline progres 6 minggu ke depan."
       },
       "iso_date": "2026-06-10",
+      "week_number": 1
+    },
+    {
+      "day_name": "Kamis",
+      "date_str": "11 Juni 2026",
+      "title": "Mobility + Core Ringan",
+      "date": "2026-06-11",
+      "assessment": "Sempurna. Ini esensi mobility — badan gerak, napas santai, HR rendah, stretching di akhir. Tidak ada mual/lemes — tandanya minum & fuel sudah lebih baik dari Senin.",
+      "catatan_audit": "Mobility day on point. Besok Jumat Easy 6km — HR jangan sampai 160+. Pace bebas, santai.",
+      "log_text": [
+        "**Target:** Recovery aktif ringan",
+        "",
+        "| Gerakan | Set x Reps | HR | Catatan |",
+        "|---------|-----------|-----|---------|",
+        "| Bodyweight Squat | 1×10 | 111 | ✅ Santai |",
+        "| Reverse Lunge | 1×8/kaki | 115 | ✅ Bagus |",
+        "| Knee Push Up | 1×8 | 120 | ✅ Controlled |",
+        "| Plank | 1×15 detik | 123 | ✅ Pendek, aman |",
+        "| Stretching statis | 3 menit | — | ✅ |",
+        "",
+        "**HR Pemanasan:** 105-110 (✅ ideal)",
+        "**HR Latihan:** 111-123 (✅ zona ringan, tepat)",
+        "**Assessment:** Sempurna. Ini esensi mobility — badan gerak, napas santai, HR rendah, stretching di akhir. Tidak ada mual/lemes — tandanya minum & fuel sudah lebih baik dari Senin.",
+        "**Catatan audit:** Mobility day on point. Besok Jumat Easy 6km — HR jangan sampai 160+. Pace bebas, santai.",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set x Reps",
+            "HR",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "Bodyweight Squat",
+              "1×10",
+              "111",
+              "✅ Santai"
+            ],
+            [
+              "Reverse Lunge",
+              "1×8/kaki",
+              "115",
+              "✅ Bagus"
+            ],
+            [
+              "Knee Push Up",
+              "1×8",
+              "120",
+              "✅ Controlled"
+            ],
+            [
+              "Plank",
+              "1×15 detik",
+              "123",
+              "✅ Pendek, aman"
+            ],
+            [
+              "Stretching statis",
+              "3 menit",
+              "—",
+              "✅"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "Recovery aktif ringan",
+        "HR Pemanasan": "105-110 (✅ ideal)",
+        "HR Latihan": "111-123 (✅ zona ringan, tepat)"
+      },
+      "iso_date": "2026-06-11",
       "week_number": 1
     }
   ]
