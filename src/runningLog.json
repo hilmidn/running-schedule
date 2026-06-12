@@ -370,7 +370,7 @@
         "**Pace Z2 stabil:** ±7:45-7:55/km @ HR 150-152. Konsisten dengan baseline Rabu.",
         "**Catatan audit:** 2 easy run pertama konsisten Z2. Ini sinyal bagus. Besok Sabtu Rest. Minggu Long Run 8km — jangan start kenceng. Start 9:00-9:30/km dulu.",
         "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -468,6 +468,53 @@
         "Pace Z2 stabil": "±7:45-7:55/km @ HR 150-152. Konsisten dengan baseline Rabu."
       },
       "iso_date": "2026-06-12",
+      "week_number": 1
+    },
+    {
+      "day_name": "Sabtu",
+      "date_str": "13 Juni 2026",
+      "title": "Rest",
+      "date": "2026-06-13",
+      "assessment": "",
+      "catatan_audit": "",
+      "log_text": [
+        "",
+        "Tidak ada aktivitas. Istirahat full.",
+        "",
+        "---",
+        "",
+        "## 📊 Ringkasan Minggu 1",
+        "",
+        "| Hari | Latihan | Realisasi | HR Rata-rata | Pace |",
+        "|------|---------|-----------|------------|------|",
+        "| Senin | Strength ringan | Bodyweight ✅ | 120-133 | — |",
+        "| Selasa | Tempo 20' | 3km @ HR 161-163 ✅ | 162 | 6:47 |",
+        "| Rabu | Easy 5km | 5km @ HR 150 ✅ | 150 | 7:58 |",
+        "| Kamis | Mobility ringan | 10 menit ✅ | 111-123 | — |",
+        "| Jumat | Easy 6km | 6km @ HR 151 ✅ | 151 | 7:53 |",
+        "| Sabtu | Rest | ✅ | — | — |",
+        "",
+        "**Minggu esok:** Long run 8km — start pelan 9:00-9:30/km dulu.",
+        "",
+        "**Volume lari minggu 1:** 14km yang sudah direkam, + 8km besok = **22km**",
+        "**Volume strength:** 2 sesi (1 full bodyweight + 1 mobility)",
+        "**HR Z2 baseline:** 7:45-7:55/km @ HR 150-152",
+        "**Tempo baseline:** 6:47/km @ HR 161-163",
+        "**Overall health:** ✅ Semua latihan selesai. Mual/lemes hari pertama selesai. Adaptasi baik. Minggu 2 ready.",
+        "",
+        "",
+        ""
+      ],
+      "tables": [],
+      "key_value": {
+        "Minggu esok": "Long run 8km — start pelan 9:00-9:30/km dulu.",
+        "Volume lari minggu 1": "14km yang sudah direkam, + 8km besok = **22km**",
+        "Volume strength": "2 sesi (1 full bodyweight + 1 mobility)",
+        "HR Z2 baseline": "7:45-7:55/km @ HR 150-152",
+        "Tempo baseline": "6:47/km @ HR 161-163",
+        "Overall health": "✅ Semua latihan selesai. Mual/lemes hari pertama selesai. Adaptasi baik. Minggu 2 ready."
+      },
+      "iso_date": "2026-06-13",
       "week_number": 1
     }
   ]
