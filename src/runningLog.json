@@ -285,7 +285,7 @@
         "**Assessment:** Sempurna. Ini esensi mobility — badan gerak, napas santai, HR rendah, stretching di akhir. Tidak ada mual/lemes — tandanya minum & fuel sudah lebih baik dari Senin.",
         "**Catatan audit:** Mobility day on point. Besok Jumat Easy 6km — HR jangan sampai 160+. Pace bebas, santai.",
         "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -336,6 +336,138 @@
         "HR Latihan": "111-123 (✅ zona ringan, tepat)"
       },
       "iso_date": "2026-06-11",
+      "week_number": 1
+    },
+    {
+      "day_name": "Jumat",
+      "date_str": "12 Juni 2026",
+      "title": "Easy 6km",
+      "date": "2026-06-12",
+      "assessment": "Mirip Rabu — controlled, progresif, HR Z2 stabil. Km 2 lagi-lagi terlalu cepat di tanjakan (7:21), tapi HR tetap 154 — tandanya endurance cukup baik. Km 5-6 HR turun ke 152 meski pace naik, bagus. Km 4-5 ada EG -16/-7, pace gak ambil pusing — controlled.",
+      "catatan_audit": "2 easy run pertama konsisten Z2. Ini sinyal bagus. Besok Sabtu Rest. Minggu Long Run 8km — jangan start kenceng. Start 9:00-9:30/km dulu.",
+      "log_text": [
+        "**Target:** 6km @ HR 145-155",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 151 bpm | 145-155 | ✅ Stabil di tengah |",
+        "| Max HR | 159 bpm | max 155 | ⚠️ Overshoot km 2 (tanjakan) |",
+        "| Pace | 7:53/km | bebas | ✅ |",
+        "| Durasi | 47:11 | 6km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 8:38 | 138 | +8 | ✅ Pemanasan ideal |",
+        "| 2 | 7:21 | 154 | +16 | ⚠️ Bukit, pace terlalu cepat turun. HR controlled |",
+        "| 3 | 7:54 | 154 | +2 | ✅ Balik datar, HR stabil |",
+        "| 4 | 7:54 | 155 | -4 | ✅ Turunan ringan, pace konsisten |",
+        "| 5 | 7:45 | 152 | -16 | ✅ Turunan, malah pace tetap controlled |",
+        "| 6 | 7:41 | 152 | -7 | ✅ Finis strong |",
+        "",
+        "**Assessment:** Mirip Rabu — controlled, progresif, HR Z2 stabil. Km 2 lagi-lagi terlalu cepat di tanjakan (7:21), tapi HR tetap 154 — tandanya endurance cukup baik. Km 5-6 HR turun ke 152 meski pace naik, bagus. Km 4-5 ada EG -16/-7, pace gak ambil pusing — controlled.",
+        "**Pace Z2 stabil:** ±7:45-7:55/km @ HR 150-152. Konsisten dengan baseline Rabu.",
+        "**Catatan audit:** 2 easy run pertama konsisten Z2. Ini sinyal bagus. Besok Sabtu Rest. Minggu Long Run 8km — jangan start kenceng. Start 9:00-9:30/km dulu.",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "151 bpm",
+              "145-155",
+              "✅ Stabil di tengah"
+            ],
+            [
+              "Max HR",
+              "159 bpm",
+              "max 155",
+              "⚠️ Overshoot km 2 (tanjakan)"
+            ],
+            [
+              "Pace",
+              "7:53/km",
+              "bebas",
+              "✅"
+            ],
+            [
+              "Durasi",
+              "47:11",
+              "6km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:38",
+              "138",
+              "+8",
+              "✅ Pemanasan ideal"
+            ],
+            [
+              "2",
+              "7:21",
+              "154",
+              "+16",
+              "⚠️ Bukit, pace terlalu cepat turun. HR controlled"
+            ],
+            [
+              "3",
+              "7:54",
+              "154",
+              "+2",
+              "✅ Balik datar, HR stabil"
+            ],
+            [
+              "4",
+              "7:54",
+              "155",
+              "-4",
+              "✅ Turunan ringan, pace konsisten"
+            ],
+            [
+              "5",
+              "7:45",
+              "152",
+              "-16",
+              "✅ Turunan, malah pace tetap controlled"
+            ],
+            [
+              "6",
+              "7:41",
+              "152",
+              "-7",
+              "✅ Finis strong"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "6km @ HR 145-155",
+        "Split": "",
+        "Pace Z2 stabil": "±7:45-7:55/km @ HR 150-152. Konsisten dengan baseline Rabu."
+      },
+      "iso_date": "2026-06-12",
       "week_number": 1
     }
   ]
