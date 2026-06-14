@@ -482,6 +482,45 @@
         "Tidak ada aktivitas. Istirahat full.",
         "",
         "---",
+        ""
+      ],
+      "tables": [],
+      "key_value": {},
+      "iso_date": "2026-06-13",
+      "week_number": 1
+    },
+    {
+      "day_name": "Minggu",
+      "date_str": "14 Juni 2026",
+      "title": "Long Run 8km",
+      "date": "2026-06-14",
+      "assessment": "Long run pertama solid. Km 8 paling menarik — EG +19m (tanjakan lumayan), pace naik ke 9:03, tapi HR cuma 153. Bukan spike 160+. Ini tandanya lu gak nge-push, nyantai naik pelan. **Itu benar.** Long run bukan lomba.",
+      "catatan_audit": "Pace overall 8:18 karena banyak tanjakan. Kalau flat, baseline long run lu sekitar 7:45-7:55. Minggu depan long run 9km — start pelan lagi ya.",
+      "log_text": [
+        "**Target:** 8km @ HR 145-155",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 151 bpm | 145-155 | ✅ Stabil |",
+        "| Max HR | 158 bpm | max 155 | ⚠️ Km 8 tanjakan |",
+        "| Pace | 8:18/km | bebas | ✅ |",
+        "| Durasi | 1:06:33 | 8km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 8:52 | 136 | +8 | ✅ Start sempurna |",
+        "| 2 | 8:35 | 152 | +16 | ✅ Bukit, pace turun, HR controlled |",
+        "| 3 | 7:58 | 154 | +2 | ✅ Stabil |",
+        "| 4 | 7:58 | 154 | -4 | ✅ Stabil |",
+        "| 5 | 7:52 | 151 | -16 | ✅ Turunan, gak ambil pacuan |",
+        "| 6 | 8:08 | 154 | -7 | ✅ Pace controlled |",
+        "| 7 | 7:58 | 152 | -20 | ✅ Datar/turunan, pace terkendali |",
+        "| 8 | 9:03 | 153 | +19 | ✅ ✅ **Tanjakan curam finish, HR cuma 153! Controlled banget** |",
+        "",
+        "**Assessment:** Long run pertama solid. Km 8 paling menarik — EG +19m (tanjakan lumayan), pace naik ke 9:03, tapi HR cuma 153. Bukan spike 160+. Ini tandanya lu gak nge-push, nyantai naik pelan. **Itu benar.** Long run bukan lomba.",
+        "**Catatan audit:** Pace overall 8:18 karena banyak tanjakan. Kalau flat, baseline long run lu sekitar 7:45-7:55. Minggu depan long run 9km — start pelan lagi ya.",
         "",
         "## 📊 Ringkasan Minggu 1",
         "",
@@ -493,28 +532,130 @@
         "| Kamis | Mobility ringan | 10 menit ✅ | 111-123 | — |",
         "| Jumat | Easy 6km | 6km @ HR 151 ✅ | 151 | 7:53 |",
         "| Sabtu | Rest | ✅ | — | — |",
+        "| Minggu | **Long 8km** | **8km @ HR 151** ✅ | **151** | **8:18** |",
         "",
-        "**Minggu esok:** Long run 8km — start pelan 9:00-9:30/km dulu.",
-        "",
-        "**Volume lari minggu 1:** 14km yang sudah direkam, + 8km besok = **22km**",
+        "**Volume lari minggu 1:** 22km (termasuk long run)",
         "**Volume strength:** 2 sesi (1 full bodyweight + 1 mobility)",
-        "**HR Z2 baseline:** 7:45-7:55/km @ HR 150-152",
+        "**HR Z2 baseline:** 7:45-7:55/km @ HR 150-152 (flat)",
         "**Tempo baseline:** 6:47/km @ HR 161-163",
-        "**Overall health:** ✅ Semua latihan selesai. Mual/lemes hari pertama selesai. Adaptasi baik. Minggu 2 ready.",
+        "**Overall health:** ✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik.",
         "",
         "",
         ""
       ],
-      "tables": [],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "151 bpm",
+              "145-155",
+              "✅ Stabil"
+            ],
+            [
+              "Max HR",
+              "158 bpm",
+              "max 155",
+              "⚠️ Km 8 tanjakan"
+            ],
+            [
+              "Pace",
+              "8:18/km",
+              "bebas",
+              "✅"
+            ],
+            [
+              "Durasi",
+              "1:06:33",
+              "8km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:52",
+              "136",
+              "+8",
+              "✅ Start sempurna"
+            ],
+            [
+              "2",
+              "8:35",
+              "152",
+              "+16",
+              "✅ Bukit, pace turun, HR controlled"
+            ],
+            [
+              "3",
+              "7:58",
+              "154",
+              "+2",
+              "✅ Stabil"
+            ],
+            [
+              "4",
+              "7:58",
+              "154",
+              "-4",
+              "✅ Stabil"
+            ],
+            [
+              "5",
+              "7:52",
+              "151",
+              "-16",
+              "✅ Turunan, gak ambil pacuan"
+            ],
+            [
+              "6",
+              "8:08",
+              "154",
+              "-7",
+              "✅ Pace controlled"
+            ],
+            [
+              "7",
+              "7:58",
+              "152",
+              "-20",
+              "✅ Datar/turunan, pace terkendali"
+            ],
+            [
+              "8",
+              "9:03",
+              "153",
+              "+19",
+              "✅ ✅ **Tanjakan curam finish, HR cuma 153! Controlled banget**"
+            ]
+          ]
+        }
+      ],
       "key_value": {
-        "Minggu esok": "Long run 8km — start pelan 9:00-9:30/km dulu.",
-        "Volume lari minggu 1": "14km yang sudah direkam, + 8km besok = **22km**",
+        "Target": "8km @ HR 145-155",
+        "Split": "",
+        "Volume lari minggu 1": "22km (termasuk long run)",
         "Volume strength": "2 sesi (1 full bodyweight + 1 mobility)",
-        "HR Z2 baseline": "7:45-7:55/km @ HR 150-152",
+        "HR Z2 baseline": "7:45-7:55/km @ HR 150-152 (flat)",
         "Tempo baseline": "6:47/km @ HR 161-163",
-        "Overall health": "✅ Semua latihan selesai. Mual/lemes hari pertama selesai. Adaptasi baik. Minggu 2 ready."
+        "Overall health": "✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik."
       },
-      "iso_date": "2026-06-13",
+      "iso_date": "2026-06-14",
       "week_number": 1
     }
   ]
