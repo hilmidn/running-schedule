@@ -522,25 +522,7 @@
         "**Assessment:** Long run pertama solid. Km 8 paling menarik — EG +19m (tanjakan lumayan), pace naik ke 9:03, tapi HR cuma 153. Bukan spike 160+. Ini tandanya lu gak nge-push, nyantai naik pelan. **Itu benar.** Long run bukan lomba.",
         "**Catatan audit:** Pace overall 8:18 karena banyak tanjakan. Kalau flat, baseline long run lu sekitar 7:45-7:55. Minggu depan long run 9km — start pelan lagi ya.",
         "",
-        "## 📊 Ringkasan Minggu 1",
-        "",
-        "| Hari | Latihan | Realisasi | HR Rata-rata | Pace |",
-        "|------|---------|-----------|------------|------|",
-        "| Senin | Strength ringan | Bodyweight ✅ | 120-133 | — |",
-        "| Selasa | Tempo 20' | 3km @ HR 161-163 ✅ | 162 | 6:47 |",
-        "| Rabu | Easy 5km | 5km @ HR 150 ✅ | 150 | 7:58 |",
-        "| Kamis | Mobility ringan | 10 menit ✅ | 111-123 | — |",
-        "| Jumat | Easy 6km | 6km @ HR 151 ✅ | 151 | 7:53 |",
-        "| Sabtu | Rest | ✅ | — | — |",
-        "| Minggu | **Long 8km** | **8km @ HR 151** ✅ | **151** | **8:18** |",
-        "",
-        "**Volume lari minggu 1:** 22km (termasuk long run)",
-        "**Volume strength:** 2 sesi (1 full bodyweight + 1 mobility)",
-        "**HR Z2 baseline:** 7:45-7:55/km @ HR 150-152 (flat)",
-        "**Tempo baseline:** 6:47/km @ HR 161-163",
-        "**Overall health:** ✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik.",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -648,15 +630,104 @@
       ],
       "key_value": {
         "Target": "8km @ HR 145-155",
-        "Split": "",
+        "Split": ""
+      },
+      "iso_date": "2026-06-14",
+      "week_number": 1
+    },
+    {
+      "day_name": "Senin",
+      "date_str": "15 Juni 2026",
+      "title": "Strength Full Ringan (Minggu 2)",
+      "date": "2026-06-15",
+      "assessment": "Progress jelas dari minggu 1. Squat & lunge reps naik. Plank dari maks 20 dtk jadi 30 dtk full. Pemanasan HR lebih rendah — tubuh udah familiar. No mual berarti minum/fuel udah lebih baik.",
+      "catatan_audit": "Besok Selasa tempo 22' @ HR 158-163. DOMS mungkin dateng — kalau ngefek ke lari, start tempo pelan-pelan. HR lebih penting dari pace.",
+      "log_text": [
+        "**Tipe:** Bodyweight",
+        "",
+        "| Gerakan | Set x Reps | HR Peak | Perbandingan Minggu 1 |",
+        "|---------|-----------|---------|----------------------|",
+        "| Bodyweight Squat | 2×15 | 122-124 | ✅ **Reps naik 2×10 → 2×15** |",
+        "| Reverse Lunge | 2×10/kaki | 133-134 | ✅ **Reps naik 2×8 → 2×10** |",
+        "| Knee Push Up | 2×8 | 122-123 | ✅ **Reps naik, walau dari regular turun ke knee** |",
+        "| Plank | 2×30 dtk | 125-127 | ✅ **Durasi naik signifikan** |",
+        "",
+        "**HR Pemanasan:** 97-109 (✅ stabil, lebih rendah dari minggu 1)",
+        "**HR Latihan:** 122-134 (✅ zona ringan)",
+        "**Keluhan:** Tidak ada mual/lemes",
+        "**Assessment:** Progress jelas dari minggu 1. Squat & lunge reps naik. Plank dari maks 20 dtk jadi 30 dtk full. Pemanasan HR lebih rendah — tubuh udah familiar. No mual berarti minum/fuel udah lebih baik.",
+        "**Catatan audit:** Besok Selasa tempo 22' @ HR 158-163. DOMS mungkin dateng — kalau ngefek ke lari, start tempo pelan-pelan. HR lebih penting dari pace.",
+        "",
+        "## 📊 Ringkasan Minggu 1",
+        "",
+        "| Hari | Latihan | Realisasi | HR Rata-rata | Pace |",
+        "|------|---------|-----------|------------|------|",
+        "| Senin | Strength ringan | Bodyweight ✅ | 120-133 | — |",
+        "| Selasa | Tempo 20' | 3km @ HR 161-163 ✅ | 162 | 6:47 |",
+        "| Rabu | Easy 5km | 5km @ HR 150 ✅ | 150 | 7:58 |",
+        "| Kamis | Mobility ringan | 10 menit ✅ | 111-123 | — |",
+        "| Jumat | Easy 6km | 6km @ HR 151 ✅ | 151 | 7:53 |",
+        "| Sabtu | Rest | ✅ | — | — |",
+        "| Minggu | **Long 8km** | **8km @ HR 151** ✅ | **151** | **8:18** |",
+        "",
+        "**Volume lari minggu 1:** 22km (termasuk long run)",
+        "**Volume strength:** 2 sesi (1 full bodyweight + 1 mobility)",
+        "**HR Z2 baseline:** 7:45-7:55/km @ HR 150-152 (flat)",
+        "**Tempo baseline:** 6:47/km @ HR 161-163",
+        "**Overall health:** ✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik.",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set x Reps",
+            "HR Peak",
+            "Perbandingan Minggu 1"
+          ],
+          "rows": [
+            [
+              "Bodyweight Squat",
+              "2×15",
+              "122-124",
+              "✅ **Reps naik 2×10 → 2×15**"
+            ],
+            [
+              "Reverse Lunge",
+              "2×10/kaki",
+              "133-134",
+              "✅ **Reps naik 2×8 → 2×10**"
+            ],
+            [
+              "Knee Push Up",
+              "2×8",
+              "122-123",
+              "✅ **Reps naik, walau dari regular turun ke knee**"
+            ],
+            [
+              "Plank",
+              "2×30 dtk",
+              "125-127",
+              "✅ **Durasi naik signifikan**"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Bodyweight",
+        "HR Pemanasan": "97-109 (✅ stabil, lebih rendah dari minggu 1)",
+        "HR Latihan": "122-134 (✅ zona ringan)",
+        "Keluhan": "Tidak ada mual/lemes",
         "Volume lari minggu 1": "22km (termasuk long run)",
         "Volume strength": "2 sesi (1 full bodyweight + 1 mobility)",
         "HR Z2 baseline": "7:45-7:55/km @ HR 150-152 (flat)",
         "Tempo baseline": "6:47/km @ HR 161-163",
         "Overall health": "✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik."
       },
-      "iso_date": "2026-06-14",
-      "week_number": 1
+      "iso_date": "2026-06-15",
+      "week_number": 2
     }
   ]
 }
