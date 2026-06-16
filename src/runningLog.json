@@ -745,25 +745,7 @@
         "**Assessment:** Pace naik 14 detik/km — impressive. Tapi max HR 170 berarti overshoot. Penyebab: warmup kurang (5' jog aja, seharusnya 10'). Km 2-3 dorong pace terlalu cepat. Km 1 HR udah 159 — warmup belum cukup buat nyiapin HR. Cooldown HR juga terlalu tinggi (150, seharusnya 120-130).",
         "**Catatan audit next tempo:** Warmup 10 menit (5' jog + 5' dynamic). Start km pertama lebih pelan — target HR 155 dulu 3 menit baru naik ke 158-163. Dorong pace bukan dosa, tapi kalau max HR sampe 170 di tempo konservatif, berarti pace belum bisa lu sustain buat 22 menit.",
         "",
-        "## 📊 Ringkasan Minggu 1",
-        "",
-        "| Hari | Latihan | Realisasi | HR Rata-rata | Pace |",
-        "|------|---------|-----------|------------|------|",
-        "| Senin | Strength ringan | Bodyweight ✅ | 120-133 | — |",
-        "| Selasa | Tempo 20' | 3km @ HR 161-163 ✅ | 162 | 6:47 |",
-        "| Rabu | Easy 5km | 5km @ HR 150 ✅ | 150 | 7:58 |",
-        "| Kamis | Mobility ringan | 10 menit ✅ | 111-123 | — |",
-        "| Jumat | Easy 6km | 6km @ HR 151 ✅ | 151 | 7:53 |",
-        "| Sabtu | Rest | ✅ | — | — |",
-        "| Minggu | **Long 8km** | **8km @ HR 151** ✅ | **151** | **8:18** |",
-        "",
-        "**Volume lari minggu 1:** 22km (termasuk long run)",
-        "**Volume strength:** 2 sesi (1 full bodyweight + 1 mobility)",
-        "**HR Z2 baseline:** 7:45-7:55/km @ HR 150-152 (flat)",
-        "**Tempo baseline:** 6:47/km @ HR 161-163",
-        "**Overall health:** ✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik.",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -847,14 +829,162 @@
         "Cooldown": "5' jog (0.6km @ HR 150) + 5' static stretch",
         "Split": "",
         "Perbandingan dengan Minggu 1": "",
-        "Catatan audit next tempo": "Warmup 10 menit (5' jog + 5' dynamic). Start km pertama lebih pelan — target HR 155 dulu 3 menit baru naik ke 158-163. Dorong pace bukan dosa, tapi kalau max HR sampe 170 di tempo konservatif, berarti pace belum bisa lu sustain buat 22 menit.",
+        "Catatan audit next tempo": "Warmup 10 menit (5' jog + 5' dynamic). Start km pertama lebih pelan — target HR 155 dulu 3 menit baru naik ke 158-163. Dorong pace bukan dosa, tapi kalau max HR sampe 170 di tempo konservatif, berarti pace belum bisa lu sustain buat 22 menit."
+      },
+      "iso_date": "2026-06-16",
+      "week_number": 2
+    },
+    {
+      "day_name": "Rabu",
+      "date_str": "17 Juni 2026",
+      "title": "Easy 5km",
+      "date": "2026-06-17",
+      "assessment": "HR lebih rendah dari minggu 1 — 147 vs 150. Baik. Bisa karena masih recovery setelah tempo kemarin atau pace lebih pelan. Yang penting Z2 controlled. Km 4-5 turunan (-16/-8) pace gak turun drastis — controlled. Max 156 cuma sedikit overshoot, bukan masalah.",
+      "catatan_audit": "Besok Kamis Mobility + Core ringan.",
+      "log_text": [
+        "**Target:** 5km @ HR 145-155",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 147 bpm | 145-155 | ✅ Tengah Z2 |",
+        "| Max HR | 156 bpm | max 155 | ⚠️ Sedikit overshoot |",
+        "| Pace | 8:08/km | bebas | ✅ |",
+        "| Durasi | 40:43 | 5km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 8:58 | 134 | +8 | ✅ Start pelan |",
+        "| 2 | 8:35 | 150 | +17 | ✅ Bukit, HR controlled |",
+        "| 3 | 7:49 | 151 | 0 | ✅ Datar stabil |",
+        "| 4 | 7:43 | 150 | -16 | ✅ Turunan, gak ngegas |",
+        "| 5 | 7:37 | 151 | -8 | ✅ Finis strong |",
+        "",
+        "**Perbandingan easy run minggu 1 vs 2:**",
+        "",
+        "| Minggu | Avg HR | Max HR | Pace |",
+        "|--------|--------|--------|------|",
+        "| **Rabu minggu 1** | 150 | 159 | 7:58 |",
+        "| **Rabu minggu 2** | **147** | **156** | 8:08 |",
+        "",
+        "**Assessment:** HR lebih rendah dari minggu 1 — 147 vs 150. Baik. Bisa karena masih recovery setelah tempo kemarin atau pace lebih pelan. Yang penting Z2 controlled. Km 4-5 turunan (-16/-8) pace gak turun drastis — controlled. Max 156 cuma sedikit overshoot, bukan masalah.",
+        "**Catatan audit:** Besok Kamis Mobility + Core ringan.",
+        "",
+        "## 📊 Ringkasan Minggu 1",
+        "",
+        "| Hari | Latihan | Realisasi | HR Rata-rata | Pace |",
+        "|------|---------|-----------|------------|------|",
+        "| Senin | Strength ringan | Bodyweight ✅ | 120-133 | — |",
+        "| Selasa | Tempo 20' | 3km @ HR 161-163 ✅ | 162 | 6:47 |",
+        "| Rabu | Easy 5km | 5km @ HR 150 ✅ | 150 | 7:58 |",
+        "| Kamis | Mobility ringan | 10 menit ✅ | 111-123 | — |",
+        "| Jumat | Easy 6km | 6km @ HR 151 ✅ | 151 | 7:53 |",
+        "| Sabtu | Rest | ✅ | — | — |",
+        "| Minggu | **Long 8km** | **8km @ HR 151** ✅ | **151** | **8:18** |",
+        "",
+        "**Volume lari minggu 1:** 22km (termasuk long run)",
+        "**Volume strength:** 2 sesi (1 full bodyweight + 1 mobility)",
+        "**HR Z2 baseline:** 7:45-7:55/km @ HR 150-152 (flat)",
+        "**Tempo baseline:** 6:47/km @ HR 161-163",
+        "**Overall health:** ✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik.",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "147 bpm",
+              "145-155",
+              "✅ Tengah Z2"
+            ],
+            [
+              "Max HR",
+              "156 bpm",
+              "max 155",
+              "⚠️ Sedikit overshoot"
+            ],
+            [
+              "Pace",
+              "8:08/km",
+              "bebas",
+              "✅"
+            ],
+            [
+              "Durasi",
+              "40:43",
+              "5km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:58",
+              "134",
+              "+8",
+              "✅ Start pelan"
+            ],
+            [
+              "2",
+              "8:35",
+              "150",
+              "+17",
+              "✅ Bukit, HR controlled"
+            ],
+            [
+              "3",
+              "7:49",
+              "151",
+              "0",
+              "✅ Datar stabil"
+            ],
+            [
+              "4",
+              "7:43",
+              "150",
+              "-16",
+              "✅ Turunan, gak ngegas"
+            ],
+            [
+              "5",
+              "7:37",
+              "151",
+              "-8",
+              "✅ Finis strong"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "5km @ HR 145-155",
+        "Split": "",
+        "Perbandingan easy run minggu 1 vs 2": "",
         "Volume lari minggu 1": "22km (termasuk long run)",
         "Volume strength": "2 sesi (1 full bodyweight + 1 mobility)",
         "HR Z2 baseline": "7:45-7:55/km @ HR 150-152 (flat)",
         "Tempo baseline": "6:47/km @ HR 161-163",
         "Overall health": "✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik."
       },
-      "iso_date": "2026-06-16",
+      "iso_date": "2026-06-17",
       "week_number": 2
     }
   ]
