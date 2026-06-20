@@ -1199,6 +1199,10 @@
         "**Tempo baseline:** 6:47/km @ HR 161-163",
         "**Overall health:** ✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik.",
         "",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       "tables": [],
@@ -1210,26 +1214,6 @@
         "Overall health": "✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik."
       },
       "iso_date": "2026-06-20",
-      "week_number": 2
-    },
-    {
-      "day_name": "Minggu",
-      "date_str": "21 Juni 2026",
-      "title": "Long Run 9km",
-      "date": "2026-06-21",
-      "assessment": "",
-      "catatan_audit": "",
-      "log_text": [
-        "**Target:** 9km @ HR 145-155",
-        "",
-        "",
-        ""
-      ],
-      "tables": [],
-      "key_value": {
-        "Target": "9km @ HR 145-155"
-      },
-      "iso_date": "2026-06-21",
       "week_number": 2
     }
   ]
