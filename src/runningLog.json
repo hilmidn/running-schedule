@@ -97,7 +97,6 @@
         "**Assessment:** Sesuai target. HR stabil di upper range tempo konservatif.",
         "**Catatan audit:** Km 1 HR udah langsung 163 — pemanasan kurang gradual. Km 2 terlalu agresif (6:25). Km 3 paling bagus (6:45 @ HR 161, turun). Untuk tempo berikutnya, kontrol start lebih pelan, biarkan HR naik gradual 2-4 menit pertama.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -169,7 +168,6 @@
         "**Pace natural Z2:** ±7:30-8:00/km @ HR 145-155. Data ini jadi baseline progres 6 minggu ke depan.",
         "**Catatan audit:** Max HR 159 cuma nyentuh sebentar di tanjakan km 2, bukan masalah. Kalau easy run mulai tembus 160+ di flat, baru harus pelan.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -285,7 +283,6 @@
         "**Assessment:** Sempurna. Ini esensi mobility — badan gerak, napas santai, HR rendah, stretching di akhir. Tidak ada mual/lemes — tandanya minum & fuel sudah lebih baik dari Senin.",
         "**Catatan audit:** Mobility day on point. Besok Jumat Easy 6km — HR jangan sampai 160+. Pace bebas, santai.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -370,7 +367,6 @@
         "**Pace Z2 stabil:** ±7:45-7:55/km @ HR 150-152. Konsisten dengan baseline Rabu.",
         "**Catatan audit:** 2 easy run pertama konsisten Z2. Ini sinyal bagus. Besok Sabtu Rest. Minggu Long Run 8km — jangan start kenceng. Start 9:00-9:30/km dulu.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -481,7 +477,6 @@
         "",
         "Tidak ada aktivitas. Istirahat full.",
         "",
-        "---",
         ""
       ],
       "tables": [],
@@ -522,7 +517,6 @@
         "**Assessment:** Long run pertama solid. Km 8 paling menarik — EG +19m (tanjakan lumayan), pace naik ke 9:03, tapi HR cuma 153. Bukan spike 160+. Ini tandanya lu gak nge-push, nyantai naik pelan. **Itu benar.** Long run bukan lomba.",
         "**Catatan audit:** Pace overall 8:18 karena banyak tanjakan. Kalau flat, baseline long run lu sekitar 7:45-7:55. Minggu depan long run 9km — start pelan lagi ya.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -658,7 +652,6 @@
         "**Assessment:** Progress jelas dari minggu 1. Squat & lunge reps naik. Plank dari maks 20 dtk jadi 30 dtk full. Pemanasan HR lebih rendah — tubuh udah familiar. No mual berarti minum/fuel udah lebih baik.",
         "**Catatan audit:** Besok Selasa tempo 22' @ HR 158-163. DOMS mungkin dateng — kalau ngefek ke lari, start tempo pelan-pelan. HR lebih penting dari pace.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -745,7 +738,6 @@
         "**Assessment:** Pace naik 14 detik/km — impressive. Tapi max HR 170 berarti overshoot. Penyebab: warmup kurang (5' jog aja, seharusnya 10'). Km 2-3 dorong pace terlalu cepat. Km 1 HR udah 159 — warmup belum cukup buat nyiapin HR. Cooldown HR juga terlalu tinggi (150, seharusnya 120-130).",
         "**Catatan audit next tempo:** Warmup 10 menit (5' jog + 5' dynamic). Start km pertama lebih pelan — target HR 155 dulu 3 menit baru naik ke 158-163. Dorong pace bukan dosa, tapi kalau max HR sampe 170 di tempo konservatif, berarti pace belum bisa lu sustain buat 22 menit.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -871,7 +863,6 @@
         "**Assessment:** HR lebih rendah dari minggu 1 — 147 vs 150. Baik. Bisa karena masih recovery setelah tempo kemarin atau pace lebih pelan. Yang penting Z2 controlled. Km 4-5 turunan (-16/-8) pace gak turun drastis — controlled. Max 156 cuma sedikit overshoot, bukan masalah.",
         "**Catatan audit:** Besok Kamis Mobility + Core ringan.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -987,7 +978,6 @@
         "**Assessment:** Mobility day ke-2, konsisten. HR stabil rendah, stretching di akhir. Tidak ada keluhan. Recovery on track.",
         "**Catatan audit:** Besok Jumat Easy 6km @ HR 145-155.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -1078,7 +1068,6 @@
         "**Assessment:** Pace konsisten 7:53 sama persis dengan minggu 1. HR sedikit lebih rendah (150 vs 151). Km 5-6 turunan panjang dan pace turun cepat (7:11-7:13), tapi HR masih di 153-155. Gak ngegas, gak spike 160+. **Tanda kendali Z2 makin baik.**",
         "**Catatan audit:** Pace konsisten 2 easy run minggu 1-2 = 7:53/km. Minggu 2 selesai ✅. Besok Sabtu Rest, Minggu Long Run 9km.",
         "",
-        "---",
         ""
       ],
       "tables": [
@@ -1190,23 +1179,7 @@
         "Rest maksimal. Tidak ada aktivitas.",
         "Aktivitas berat: rebahan, scroll HP, minum air 😎",
         "",
-        "---",
-        ""
-      ],
-      "tables": [],
-      "key_value": {},
-      "iso_date": "2026-06-20",
-      "week_number": 2
-    },
-    {
-      "day_name": "Minggu",
-      "date_str": "21 Juni 2026",
-      "title": "Long Run 9km",
-      "date": "2026-06-21",
-      "assessment": "",
-      "catatan_audit": "",
-      "log_text": [
-        "**Target:** 9km @ HR 145-155",
+        "",
         "",
         "## 📊 Ringkasan Minggu 1",
         "",
@@ -1226,17 +1199,35 @@
         "**Tempo baseline:** 6:47/km @ HR 161-163",
         "**Overall health:** ✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik.",
         "",
-        "",
         ""
       ],
       "tables": [],
       "key_value": {
-        "Target": "9km @ HR 145-155",
         "Volume lari minggu 1": "22km (termasuk long run)",
         "Volume strength": "2 sesi (1 full bodyweight + 1 mobility)",
         "HR Z2 baseline": "7:45-7:55/km @ HR 150-152 (flat)",
         "Tempo baseline": "6:47/km @ HR 161-163",
         "Overall health": "✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik."
+      },
+      "iso_date": "2026-06-20",
+      "week_number": 2
+    },
+    {
+      "day_name": "Minggu",
+      "date_str": "21 Juni 2026",
+      "title": "Long Run 9km",
+      "date": "2026-06-21",
+      "assessment": "",
+      "catatan_audit": "",
+      "log_text": [
+        "**Target:** 9km @ HR 145-155",
+        "",
+        "",
+        ""
+      ],
+      "tables": [],
+      "key_value": {
+        "Target": "9km @ HR 145-155"
       },
       "iso_date": "2026-06-21",
       "week_number": 2
