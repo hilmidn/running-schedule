@@ -1177,9 +1177,57 @@
       "log_text": [
         "",
         "Rest maksimal. Tidak ada aktivitas.",
-        "Aktivitas berat: rebahan, scroll HP, minum air 😎",
         "",
+        "---",
+        ""
+      ],
+      "tables": [],
+      "key_value": {},
+      "iso_date": "2026-06-20",
+      "week_number": 2
+    },
+    {
+      "day_name": "Minggu",
+      "date_str": "21 Juni 2026",
+      "title": "Long Run 9km",
+      "date": "2026-06-21",
+      "assessment": "Pace naik 30 detik/km, HR turun 2 angka. Water break di km 6 gak ganggu ritme. Km 7 pace 7:06 masih Z2 — endurance naik. Km 8-9 tanjakan +20m, pace 8:20, HR cuma 153 — nahan diri dengan benar.",
+      "catatan_audit": "Minggu 2 tutup kuat. Volume 23km. Minggu 3 mulai besok — strength to 3 set, tempo 25', long run 10km.",
+      "log_text": [
+        "**Target:** 9km @ HR 145-155",
         "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 149 bpm | 145-155 | ✅ Tengah Z2 |",
+        "| Max HR | 159 bpm | max 155 | ⚠️ Km 9 tanjakan (153 avg) |",
+        "| Pace | 7:48/km | bebas | ✅ **Lebih cepat 30 detik dari minggu 1** |",
+        "| Durasi | 1:10:22 | 9km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 8:46 | 134 | +8 | ✅ Start pelan |",
+        "| 2 | 8:33 | 147 | +16 | ✅ Bukit, HR naik perlahan |",
+        "| 3 | 7:41 | 151 | +2 | ✅ Stabil |",
+        "| 4 | 7:22 | 154 | -4 | ✅ Pace naik natural |",
+        "| 5 | 7:11 | 153 | -16 | ✅ Turunan, gak ngegas |",
+        "| 6 | 7:21 | 152 | -7 | ✅ Stop minum, HR stabil |",
+        "| 7 | 7:06 | 151 | -19 | ✅ Turunan, pace turun tapi HR aman |",
+        "| 8 | 7:54 | 151 | +3 | ✅ Tanjakan mulai, pace turun wajar |",
+        "| 9 | 8:20 | 153 | +17 | ✅ **Tanjakan finish, HR cuma 153! Controlled** |",
+        "",
+        "**Perbandingan long run minggu 1 vs 2:**",
+        "",
+        "| Minggu | Jarak | Avg HR | Max HR | Pace |",
+        "|--------|-------|--------|--------|------|",
+        "| **Minggu 1** | 8km | 151 | 158 | 8:18 |",
+        "| **Minggu 2** | **9km** | **149** | **159** | **7:48** |",
+        "",
+        "**Assessment:** Pace naik 30 detik/km, HR turun 2 angka. Water break di km 6 gak ganggu ritme. Km 7 pace 7:06 masih Z2 — endurance naik. Km 8-9 tanjakan +20m, pace 8:20, HR cuma 153 — nahan diri dengan benar.",
+        "**Catatan audit:** Minggu 2 tutup kuat. Volume 23km. Minggu 3 mulai besok — strength to 3 set, tempo 25', long run 10km.",
+        "",
+        "---",
         "",
         "## 📊 Ringkasan Minggu 1",
         "",
@@ -1193,11 +1241,29 @@
         "| Sabtu | Rest | ✅ | — | — |",
         "| Minggu | **Long 8km** | **8km @ HR 151** ✅ | **151** | **8:18** |",
         "",
-        "**Volume lari minggu 1:** 22km (termasuk long run)",
-        "**Volume strength:** 2 sesi (1 full bodyweight + 1 mobility)",
+        "**Volume lari minggu 1:** 22km",
+        "**Strength:** 2 sesi",
         "**HR Z2 baseline:** 7:45-7:55/km @ HR 150-152 (flat)",
         "**Tempo baseline:** 6:47/km @ HR 161-163",
-        "**Overall health:** ✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik.",
+        "**Overall health:** ✅ Semua selesai. Adaptasi baik.",
+        "",
+        "---",
+        "",
+        "## 📊 Ringkasan Minggu 2",
+        "",
+        "| Hari | Latihan | Realisasi | HR Rata-rata | Pace |",
+        "|------|---------|-----------|------------|------|",
+        "| Senin | Strength ringan | Bodyweight ✅ | 122-134 | — |",
+        "| Selasa | Tempo 22' | 3.35km @ HR 163 ✅ | 163 | 6:33 |",
+        "| Rabu | Easy 5km | 5km @ HR 147 ✅ | 147 | 8:08 |",
+        "| Kamis | Mobility ringan | 10 menit ✅ | 117-126 | — |",
+        "| Jumat | Easy 6km | 6km @ HR 150 ✅ | 150 | 7:53 |",
+        "| Sabtu | Rest | ✅ | — | — |",
+        "| Minggu | **Long 9km** | **9km @ HR 149** ✅ | **149** | **7:48** |",
+        "",
+        "**Volume lari minggu 2:** 23km",
+        "**Strength:** 2 sesi",
+        "**Progress:** Pace long run 7:48 vs 8:18 (minggu 1) — ✅ +30 detik/km. HR stabil.",
         "",
         "",
         "",
@@ -1205,15 +1271,129 @@
         "",
         ""
       ],
-      "tables": [],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "149 bpm",
+              "145-155",
+              "✅ Tengah Z2"
+            ],
+            [
+              "Max HR",
+              "159 bpm",
+              "max 155",
+              "⚠️ Km 9 tanjakan (153 avg)"
+            ],
+            [
+              "Pace",
+              "7:48/km",
+              "bebas",
+              "✅ **Lebih cepat 30 detik dari minggu 1**"
+            ],
+            [
+              "Durasi",
+              "1:10:22",
+              "9km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:46",
+              "134",
+              "+8",
+              "✅ Start pelan"
+            ],
+            [
+              "2",
+              "8:33",
+              "147",
+              "+16",
+              "✅ Bukit, HR naik perlahan"
+            ],
+            [
+              "3",
+              "7:41",
+              "151",
+              "+2",
+              "✅ Stabil"
+            ],
+            [
+              "4",
+              "7:22",
+              "154",
+              "-4",
+              "✅ Pace naik natural"
+            ],
+            [
+              "5",
+              "7:11",
+              "153",
+              "-16",
+              "✅ Turunan, gak ngegas"
+            ],
+            [
+              "6",
+              "7:21",
+              "152",
+              "-7",
+              "✅ Stop minum, HR stabil"
+            ],
+            [
+              "7",
+              "7:06",
+              "151",
+              "-19",
+              "✅ Turunan, pace turun tapi HR aman"
+            ],
+            [
+              "8",
+              "7:54",
+              "151",
+              "+3",
+              "✅ Tanjakan mulai, pace turun wajar"
+            ],
+            [
+              "9",
+              "8:20",
+              "153",
+              "+17",
+              "✅ **Tanjakan finish, HR cuma 153! Controlled**"
+            ]
+          ]
+        }
+      ],
       "key_value": {
-        "Volume lari minggu 1": "22km (termasuk long run)",
-        "Volume strength": "2 sesi (1 full bodyweight + 1 mobility)",
+        "Target": "9km @ HR 145-155",
+        "Split": "",
+        "Perbandingan long run minggu 1 vs 2": "",
+        "Volume lari minggu 1": "22km",
+        "Strength": "2 sesi",
         "HR Z2 baseline": "7:45-7:55/km @ HR 150-152 (flat)",
         "Tempo baseline": "6:47/km @ HR 161-163",
-        "Overall health": "✅ Semua latihan selesai. Mual/lemes selesai. Adaptasi baik."
+        "Overall health": "✅ Semua selesai. Adaptasi baik.",
+        "Volume lari minggu 2": "23km",
+        "Progress": "Pace long run 7:48 vs 8:18 (minggu 1) — ✅ +30 detik/km. HR stabil."
       },
-      "iso_date": "2026-06-20",
+      "iso_date": "2026-06-21",
       "week_number": 2
     }
   ]
