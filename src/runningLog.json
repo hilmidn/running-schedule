@@ -1372,6 +1372,93 @@
         "**Catatan audit:** Besok Selasa Tempo 25' @ HR 160-165. Strength 3 set hari ini mungkin bikin sedikit DOMS besok — kalau ngefek, tempo start pelan dulu 2-3 menit di HR 155.",
         "",
         "---",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set × Reps",
+            "HR Peak (Set 1→2→3)",
+            "Trend dari Minggu 2"
+          ],
+          "rows": [
+            [
+              "Bodyweight Squat",
+              "3×15",
+              "122→123→127",
+              "🟢 **Set naik +1, HR stabil**"
+            ],
+            [
+              "Reverse Lunge",
+              "3×10/kaki",
+              "132→134→135",
+              "🟢 **Set naik +1, HR stabil**"
+            ],
+            [
+              "Knee Push Up",
+              "3×8",
+              "124→122→123",
+              "🟢 **Set naik +1, HR stabil**"
+            ],
+            [
+              "Plank",
+              "3×30 dtk",
+              "125→127→130",
+              "🟢 **Set naik +1, HR stabil**"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Bodyweight",
+        "HR Pemanasan": "92-105 (✅ lebih rendah dari minggu 2)",
+        "HR Latihan": "122-135 (✅ zona ringan, set 3 naik tipis — wajar)",
+        "Keluhan": "Tidak ada"
+      },
+      "iso_date": "2026-06-22",
+      "week_number": 3
+    },
+    {
+      "day_name": "Selasa",
+      "date_str": "23 Juni 2026",
+      "title": "Tempo 25' (Minggu 3)",
+      "date": "2026-06-23",
+      "assessment": "**Warmup bener-bener ngaruh.** Minggu 2 km 1 HR langsung 159 — tubuh kaget, max HR 170. Minggu 3 km 1 HR cuma 154 — start smooth, max HR 169 (lebih rendah). Meskipun durasi lebih panjang (25' vs 22') dan pace sama (6:33), HR malah lebih terkontrol. **Ini progress.** Pace stabil di 6:19-6:23 setelah warmup — tandanya tempo pace natural lu skrg sekitar 6:20-6:30/km @ HR 160-165.",
+      "catatan_audit": "Warmup lu bener-bener ngebantu. Sekarang tau kan pentingnya 5' jog dulu baru dynamic stretch. Besok Rabu Easy 5km — recovery setelah tempo. Pace bebas, HR 145-155.",
+      "log_text": [
+        "**Target:** 25' @ HR 160-165",
+        "",
+        "**Warmup:** 5' jog → 5' dynamic stretch (✅ urutan benar)",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 164 bpm | 160-165 | ✅ Upper target |",
+        "| Max HR | 169 bpm | max 165 | ⚠️ Overshoot tipis km 2-3 |",
+        "| Pace | 6:33/km | bebas | ✅ **Sama dengan minggu 2** |",
+        "| Durasi | 25:00 | 25' | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 6:48 | 154 | +18 | ✅ **Warmup bener! Start controlled, HR 154!** |",
+        "| 2 | 6:20 | 164 | +4 | ✅ Pace stabil, HR naik gradual |",
+        "| 3 | 6:19 | 165 | -17 | ✅ Turunan, gak ngegas, HR stabil |",
+        "| 4 | 6:23 | 164 | -6 | ✅ Finis strong, HR gak spike |",
+        "",
+        "**Perbandingan tempo minggu 1-2-3:**",
+        "",
+        "| Minggu | Durasi | Avg HR | Max HR | Pace | Km 1 Start HR |",
+        "|--------|--------|--------|--------|------|--------------|",
+        "| **Minggu 1** | 20' | 162 | 163 | 6:47 | **159** |",
+        "| **Minggu 2** | 22' | 163 | **170** | 6:33 | **159** |",
+        "| **Minggu 3** | **25'** | **164** | **169** | **6:33** | **154 ✅** |",
+        "",
+        "**Assessment:** **Warmup bener-bener ngaruh.** Minggu 2 km 1 HR langsung 159 — tubuh kaget, max HR 170. Minggu 3 km 1 HR cuma 154 — start smooth, max HR 169 (lebih rendah). Meskipun durasi lebih panjang (25' vs 22') dan pace sama (6:33), HR malah lebih terkontrol. **Ini progress.** Pace stabil di 6:19-6:23 setelah warmup — tandanya tempo pace natural lu skrg sekitar 6:20-6:30/km @ HR 160-165.",
+        "**Catatan audit:** Warmup lu bener-bener ngebantu. Sekarang tau kan pentingnya 5' jog dulu baru dynamic stretch. Besok Rabu Easy 5km — recovery setelah tempo. Pace bebas, HR 145-155.",
+        "",
+        "---",
         "",
         "## 📊 Ringkasan Minggu 1",
         "",
@@ -1418,44 +1505,83 @@
       "tables": [
         {
           "header": [
-            "Gerakan",
-            "Set × Reps",
-            "HR Peak (Set 1→2→3)",
-            "Trend dari Minggu 2"
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
           ],
           "rows": [
             [
-              "Bodyweight Squat",
-              "3×15",
-              "122→123→127",
-              "🟢 **Set naik +1, HR stabil**"
+              "Avg HR",
+              "164 bpm",
+              "160-165",
+              "✅ Upper target"
             ],
             [
-              "Reverse Lunge",
-              "3×10/kaki",
-              "132→134→135",
-              "🟢 **Set naik +1, HR stabil**"
+              "Max HR",
+              "169 bpm",
+              "max 165",
+              "⚠️ Overshoot tipis km 2-3"
             ],
             [
-              "Knee Push Up",
-              "3×8",
-              "124→122→123",
-              "🟢 **Set naik +1, HR stabil**"
+              "Pace",
+              "6:33/km",
+              "bebas",
+              "✅ **Sama dengan minggu 2**"
             ],
             [
-              "Plank",
-              "3×30 dtk",
-              "125→127→130",
-              "🟢 **Set naik +1, HR stabil**"
+              "Durasi",
+              "25:00",
+              "25'",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "6:48",
+              "154",
+              "+18",
+              "✅ **Warmup bener! Start controlled, HR 154!**"
+            ],
+            [
+              "2",
+              "6:20",
+              "164",
+              "+4",
+              "✅ Pace stabil, HR naik gradual"
+            ],
+            [
+              "3",
+              "6:19",
+              "165",
+              "-17",
+              "✅ Turunan, gak ngegas, HR stabil"
+            ],
+            [
+              "4",
+              "6:23",
+              "164",
+              "-6",
+              "✅ Finis strong, HR gak spike"
             ]
           ]
         }
       ],
       "key_value": {
-        "Tipe": "Bodyweight",
-        "HR Pemanasan": "92-105 (✅ lebih rendah dari minggu 2)",
-        "HR Latihan": "122-135 (✅ zona ringan, set 3 naik tipis — wajar)",
-        "Keluhan": "Tidak ada",
+        "Target": "25' @ HR 160-165",
+        "Warmup": "5' jog → 5' dynamic stretch (✅ urutan benar)",
+        "Split": "",
+        "Perbandingan tempo minggu 1-2-3": "",
         "Volume lari minggu 1": "22km",
         "Strength": "2 sesi",
         "HR Z2 baseline": "7:45-7:55/km @ HR 150-152 (flat)",
@@ -1464,7 +1590,7 @@
         "Volume lari minggu 2": "23km",
         "Progress": "Pace long run 7:48 vs 8:18 (minggu 1) — ✅ +30 detik/km. HR stabil."
       },
-      "iso_date": "2026-06-22",
+      "iso_date": "2026-06-23",
       "week_number": 3
     }
   ]
