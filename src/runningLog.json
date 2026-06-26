@@ -1702,6 +1702,87 @@
         "**Besok Jumat:** Easy 6km @ HR 145-155 🏃",
         "",
         "---",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set × Reps",
+            "HR Peak (Set 1→2)",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "Bodyweight Squat",
+              "2×15",
+              "124→129",
+              "✅"
+            ],
+            [
+              "Reverse Lunge",
+              "2×10/kaki",
+              "128→128",
+              "✅ Stabil"
+            ],
+            [
+              "Knee Push Up",
+              "2×8",
+              "122→122",
+              "✅ Stabil"
+            ],
+            [
+              "Plank",
+              "2×30 dtk",
+              "119→124",
+              "✅"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Bodyweight (2 set karena DOMS dari Senin)",
+        "HR Pemanasan": "100-115 (✅)",
+        "HR Latihan": "119-129 (✅ zona ringan)",
+        "Catatan audit minggu depan": "Kalau DOMS masih datang tiap Kamis, turunin Kamis ke mobility lagi. Strength 1× seminggu dulu cukup.",
+        "Besok Jumat": "Easy 6km @ HR 145-155 🏃"
+      },
+      "iso_date": "2026-06-25",
+      "week_number": 3
+    },
+    {
+      "day_name": "Jumat",
+      "date_str": "26 Juni 2026",
+      "title": "Easy 6km (Minggu 3)",
+      "date": "2026-06-26",
+      "assessment": "Easy run konsisten. Pace 8:02 — rerata 3 easy run minggu ini. Stabil. DOMS sisa strength udah gak ganggu.",
+      "catatan_audit": "",
+      "log_text": [
+        "**Target:** 6km @ HR 145-155",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 149 bpm | 145-155 | ✅ Z2 |",
+        "| Max HR | 157 bpm | max 155 | ⚠️ Overshoot tipis |",
+        "| Pace | 8:02/km | bebas | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 9:03 | 134 | +8 | ✅ Start pelan |",
+        "| 2 | 8:46 | 150 | +16 | ✅ Bukit, HR controlled |",
+        "| 3 | 7:56 | 152 | +2 | ✅ Stabil |",
+        "| 4 | 7:35 | 154 | -4 | ✅ Pace naik natural |",
+        "| 5 | 7:24 | 152 | -16 | ✅ Turunan, gak ngegas |",
+        "| 6 | 7:22 | 153 | -7 | ✅ Finis strong |",
+        "",
+        "**Assessment:** Easy run konsisten. Pace 8:02 — rerata 3 easy run minggu ini. Stabil. DOMS sisa strength udah gak ganggu.",
+        "",
+        "**Besok Sabtu:** Rest",
+        "**Minggu:** Long run **10km** @ HR 145-155 — sesi terpanjang sejauh ini. Start pelan, nikmati.",
+        "",
+        "---",
         "",
         "## 📊 Ringkasan Minggu 1",
         "",
@@ -1748,45 +1829,91 @@
       "tables": [
         {
           "header": [
-            "Gerakan",
-            "Set × Reps",
-            "HR Peak (Set 1→2)",
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "149 bpm",
+              "145-155",
+              "✅ Z2"
+            ],
+            [
+              "Max HR",
+              "157 bpm",
+              "max 155",
+              "⚠️ Overshoot tipis"
+            ],
+            [
+              "Pace",
+              "8:02/km",
+              "bebas",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
             "Catatan"
           ],
           "rows": [
             [
-              "Bodyweight Squat",
-              "2×15",
-              "124→129",
-              "✅"
+              "1",
+              "9:03",
+              "134",
+              "+8",
+              "✅ Start pelan"
             ],
             [
-              "Reverse Lunge",
-              "2×10/kaki",
-              "128→128",
+              "2",
+              "8:46",
+              "150",
+              "+16",
+              "✅ Bukit, HR controlled"
+            ],
+            [
+              "3",
+              "7:56",
+              "152",
+              "+2",
               "✅ Stabil"
             ],
             [
-              "Knee Push Up",
-              "2×8",
-              "122→122",
-              "✅ Stabil"
+              "4",
+              "7:35",
+              "154",
+              "-4",
+              "✅ Pace naik natural"
             ],
             [
-              "Plank",
-              "2×30 dtk",
-              "119→124",
-              "✅"
+              "5",
+              "7:24",
+              "152",
+              "-16",
+              "✅ Turunan, gak ngegas"
+            ],
+            [
+              "6",
+              "7:22",
+              "153",
+              "-7",
+              "✅ Finis strong"
             ]
           ]
         }
       ],
       "key_value": {
-        "Tipe": "Bodyweight (2 set karena DOMS dari Senin)",
-        "HR Pemanasan": "100-115 (✅)",
-        "HR Latihan": "119-129 (✅ zona ringan)",
-        "Catatan audit minggu depan": "Kalau DOMS masih datang tiap Kamis, turunin Kamis ke mobility lagi. Strength 1× seminggu dulu cukup.",
-        "Besok Jumat": "Easy 6km @ HR 145-155 🏃",
+        "Target": "6km @ HR 145-155",
+        "Split": "",
+        "Besok Sabtu": "Rest",
+        "Minggu": "Long run **10km** @ HR 145-155 — sesi terpanjang sejauh ini. Start pelan, nikmati.",
         "Volume lari minggu 1": "22km",
         "Strength": "2 sesi",
         "HR Z2 baseline": "7:45-7:55/km @ HR 150-152 (flat)",
@@ -1795,7 +1922,7 @@
         "Volume lari minggu 2": "23km",
         "Progress": "Pace long run 7:48 vs 8:18 (minggu 1) — ✅ +30 detik/km. HR stabil."
       },
-      "iso_date": "2026-06-25",
+      "iso_date": "2026-06-26",
       "week_number": 3
     }
   ]
