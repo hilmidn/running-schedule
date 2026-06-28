@@ -1779,9 +1779,6 @@
         "",
         "**Assessment:** Easy run konsisten. Pace 8:02 — rerata 3 easy run minggu ini. Stabil. DOMS sisa strength udah gak ganggu.",
         "",
-        "**Besok Sabtu:** Rest",
-        "**Minggu:** Long run **10km** @ HR 145-155 — sesi terpanjang sejauh ini. Start pelan, nikmati.",
-        "",
         "---",
         ""
       ],
@@ -1870,11 +1867,28 @@
       ],
       "key_value": {
         "Target": "6km @ HR 145-155",
-        "Split": "",
-        "Besok Sabtu": "Rest",
-        "Minggu": "Long run **10km** @ HR 145-155 — sesi terpanjang sejauh ini. Start pelan, nikmati."
+        "Split": ""
       },
       "iso_date": "2026-06-26",
+      "week_number": 3
+    },
+    {
+      "day_name": "Sabtu",
+      "date_str": "27 Juni 2026",
+      "title": "Rest",
+      "date": "2026-06-27",
+      "assessment": "",
+      "catatan_audit": "",
+      "log_text": [
+        "",
+        "Full rest. Istirahat total. Flu ringan masih ada, tapi gak butuh treatment khusus.",
+        "",
+        "---",
+        ""
+      ],
+      "tables": [],
+      "key_value": {},
+      "iso_date": "2026-06-27",
       "week_number": 3
     },
     {
@@ -1905,9 +1919,9 @@
         "| 5 | 7:30 | 154 | -16 | ✅ Turunan, gak ngegas |",
         "| 6 | 7:47 | 153 | -7 | ✅ Water stop, HR stabil |",
         "| 7 | 7:39 | 151 | -19 | ✅ Turunan, HR turun |",
-        "| 8 | **9:41** | **155** | **+42** | 🏆 **BUKIT TERJAL +42m. Pace 9:41, HR cuma 155 — controlled** |",
-        "| 9 | 7:30 | 150 | -42 | 🏆 **Turunan curam, HR turun ke 150 — excellent recovery** |",
-        "| 10 | 9:01 | 152 | +20 | ✅ **Tanjakan finish, pace 9:01, HR 152 — no panic** |",
+        "| 8 | **9:41** | **155** | **+42** | 🏆 **BUKIT TERJAL +42m** |",
+        "| 9 | 7:30 | 150 | -42 | 🏆 **Turunan curam, HR turun ke 150** |",
+        "| 10 | 9:01 | 152 | +20 | ✅ **Tanjakan finish** |",
         "",
         "**Assessment:** **Long run paling berat sejauh ini — dan paling impressive.** Km 8 EG +42m — pace naik ke 9:41, HR cuma 155. Km 9 turunan -42m, HR turun ke 150. Ditambah flu ringan, ini solid.",
         "**Catatan audit:** 10km pertama 🎉. Flu ringan mungkin bikin pace 8:15 vs 7:48 minggu 2. Tapi Z2 stabil.",
@@ -2070,21 +2084,21 @@
               "**9:41**",
               "**155**",
               "**+42**",
-              "🏆 **BUKIT TERJAL +42m. Pace 9:41, HR cuma 155 — controlled**"
+              "🏆 **BUKIT TERJAL +42m**"
             ],
             [
               "9",
               "7:30",
               "150",
               "-42",
-              "🏆 **Turunan curam, HR turun ke 150 — excellent recovery**"
+              "🏆 **Turunan curam, HR turun ke 150**"
             ],
             [
               "10",
               "9:01",
               "152",
               "+20",
-              "✅ **Tanjakan finish, pace 9:01, HR 152 — no panic**"
+              "✅ **Tanjakan finish**"
             ]
           ]
         }
