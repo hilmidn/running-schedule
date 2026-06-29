@@ -1980,10 +1980,9 @@
         "**Strength:** 2 sesi",
         "**Progress:** Pace long run 7:48 vs 8:18 (minggu 1) — ✅ +30 detik/km. HR stabil.",
         "",
+        "---",
         "",
-        "",
-        "",
-        "",
+        "## Minggu 4",
         ""
       ],
       "tables": [
@@ -2117,6 +2116,57 @@
       },
       "iso_date": "2026-06-28",
       "week_number": 3
+    },
+    {
+      "day_name": "Senin",
+      "date_str": "29 Juni 2026",
+      "title": "Strength 3 Set Full",
+      "date": "2026-06-29",
+      "assessment": "Balik ke 3 set penuh setelah Kamis lalu cuma 2 set. RPE 6 — controlled. Peak HR 145 masih Z1-Z2.",
+      "catatan_audit": "",
+      "log_text": [
+        "**Tipe:** Bodyweight (format ringkas)",
+        "",
+        "| Gerakan | Set × Reps | RPE | HR Peak |",
+        "|---------|-----------|-----|---------|",
+        "| Squat, Lunge, Push Up, Plank | 3×15, 3×10/kaki, 3×8, 3×30dtk | **6/10** | **145** |",
+        "",
+        "**Keluhan:** DOMS bahu ringan, gak ganggu lari.",
+        "**Assessment:** Balik ke 3 set penuh setelah Kamis lalu cuma 2 set. RPE 6 — controlled. Peak HR 145 masih Z1-Z2.",
+        "",
+        "**Besok Selasa:** **Tempo B — circuit 2×12' @ HR 160-165** — pertama kali format baru! Ingat: 12' lari → 3' jog recovery → 12' lari.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set × Reps",
+            "RPE",
+            "HR Peak"
+          ],
+          "rows": [
+            [
+              "Squat, Lunge, Push Up, Plank",
+              "3×15, 3×10/kaki, 3×8, 3×30dtk",
+              "**6/10**",
+              "**145**"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Bodyweight (format ringkas)",
+        "Keluhan": "DOMS bahu ringan, gak ganggu lari.",
+        "Besok Selasa": "**Tempo B — circuit 2×12' @ HR 160-165** — pertama kali format baru! Ingat: 12' lari → 3' jog recovery → 12' lari."
+      },
+      "iso_date": "2026-06-29",
+      "week_number": 4
     }
   ]
 }
