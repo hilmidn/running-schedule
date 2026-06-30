@@ -2136,10 +2136,7 @@
         "",
         "**Besok Selasa:** **Tempo B — circuit 2×12' @ HR 160-165** — pertama kali format baru! Ingat: 12' lari → 3' jog recovery → 12' lari.",
         "",
-        "",
-        "",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -2166,6 +2163,101 @@
         "Besok Selasa": "**Tempo B — circuit 2×12' @ HR 160-165** — pertama kali format baru! Ingat: 12' lari → 3' jog recovery → 12' lari."
       },
       "iso_date": "2026-06-29",
+      "week_number": 4
+    },
+    {
+      "day_name": "Selasa",
+      "date_str": "30 Juni 2026",
+      "title": "Tempo B Circuit 2×12' (Minggu 4)",
+      "date": "2026-06-30",
+      "assessment": "Circuit pertama eksperimen berhasil. Rata-rata HR 161 — lebih rendah dari continuous tempo minggu 3 (164). Tapi recovery HR cuma 145, bukan 130-140. Ini berarti: (1) 3' recovery terlalu pendek buat HR turun ke 130, atau (2) pace recovery terlalu cepat (7:30). Koreksi max HR 170 di km 4 — langsung turun ke 165, respons cepat.",
+      "catatan_audit": "",
+      "log_text": [
+        "**Target:** 12' @ HR 160-165 → 3' recovery HR 130-140 → 12' @ HR 160-165",
+        "",
+        "**Warmup:** 5' jog + 5' dynamic (✅)",
+        "**Cooldown:** 10'",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR (tempo) | 161 bpm | 160-165 | ✅ |",
+        "| Max HR | 170 bpm | max 165 | ⚠️ Km 4 overshoot, langsung dikoreksi ke 165 |",
+        "| Pace | 6:40/km | bebas | ✅ |",
+        "| Recovery HR | **145** (target: 130-140) | ⚠️ Masih agak tinggi |",
+        "",
+        "**Circuit Breakdown:**",
+        "",
+        "| Bagian | Pace | HR | Catatan |",
+        "|--------|------|-----|---------|",
+        "| **12' Rep 1** (km 1) | 6:43 | 154→162 | ✅ Start controlled, HR gradual naik |",
+        "| **3' Recovery** | 7:30 | **162→145** ⚠️ | Turun ke 145, target 130-140 — recovery mungkin terlalu cepat |",
+        "| **12' Rep 2** (km 2-3) | 6:11 | 162→165 | ✅ Stabil, malah lebih cepat |",
+        "| **Km 4 (overshoot)** | 6:02 | **170** → 165 | ⚠️ Overshoot tapi langsung dikoreksi |",
+        "",
+        "**Assessment:** Circuit pertama eksperimen berhasil. Rata-rata HR 161 — lebih rendah dari continuous tempo minggu 3 (164). Tapi recovery HR cuma 145, bukan 130-140. Ini berarti: (1) 3' recovery terlalu pendek buat HR turun ke 130, atau (2) pace recovery terlalu cepat (7:30). Koreksi max HR 170 di km 4 — langsung turun ke 165, respons cepat.",
+        "**Catatan audit minggu depan:** Recovery 3' coba jog lebih pelan (9:00-10:00 pace) biar HR turun ke 130-135, bukan dipaksa 130-140 pas.",
+        "",
+        "**Besok Rabu:** Easy 6km @ HR 145-155 🏃",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR (tempo)",
+              "161 bpm",
+              "160-165",
+              "✅"
+            ],
+            [
+              "Max HR",
+              "170 bpm",
+              "max 165",
+              "⚠️ Km 4 overshoot, langsung dikoreksi ke 165"
+            ],
+            [
+              "Pace",
+              "6:40/km",
+              "bebas",
+              "✅"
+            ],
+            [
+              "Recovery HR",
+              "**145** (target: 130-140)",
+              "⚠️ Masih agak tinggi"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "**Km 4 (overshoot)**",
+            "6:02",
+            "**170** → 165",
+            "⚠️ Overshoot tapi langsung dikoreksi"
+          ],
+          "rows": []
+        }
+      ],
+      "key_value": {
+        "Target": "12' @ HR 160-165 → 3' recovery HR 130-140 → 12' @ HR 160-165",
+        "Warmup": "5' jog + 5' dynamic (✅)",
+        "Cooldown": "10'",
+        "Circuit Breakdown": "",
+        "Catatan audit minggu depan": "Recovery 3' coba jog lebih pelan (9:00-10:00 pace) biar HR turun ke 130-135, bukan dipaksa 130-140 pas.",
+        "Besok Rabu": "Easy 6km @ HR 145-155 🏃"
+      },
+      "iso_date": "2026-06-30",
       "week_number": 4
     }
   ]
