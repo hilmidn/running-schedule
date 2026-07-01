@@ -2199,10 +2199,7 @@
         "",
         "**Besok Rabu:** Easy 6km @ HR 145-155 🏃",
         "",
-        "",
-        "",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -2258,6 +2255,145 @@
         "Besok Rabu": "Easy 6km @ HR 145-155 🏃"
       },
       "iso_date": "2026-06-30",
+      "week_number": 4
+    },
+    {
+      "day_name": "Rabu",
+      "date_str": "1 Juli 2026",
+      "title": "Easy 6km (Minggu 4)",
+      "date": "2026-07-01",
+      "assessment": "**Progresi jelas. Pace rata-rata Minggu 4 = 7:48 — tercepat dari semua easy run, tapi HR malah 148 (sama/renderah dari minggu 1).** Km 5 turunan 7:06 dengan HR 151 — controlled, gak spike. Km 6 overshoot ke 158 cuma sebentar dan user berhasil koreksi sebelum jam kasih peringatan — tanda kontrol HR sudah instingtif.",
+      "catatan_audit": "Ini easy run terbaik dari segi kontrol. 4 minggu lalu start 7:58, sekarang 7:48 di HR yang sama. Adaptasi Z2 jalan.",
+      "log_text": [
+        "**Target:** 6km @ HR 145-155",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 148 bpm | 145-155 | ✅ Z2 |",
+        "| Max HR | 158 bpm | max 155 | ⚠️ Km 6 overshoot, koreksi sebelum jam bunyi |",
+        "| Pace | 7:48/km | bebas | ✅ **Tercepat dari semua easy run** |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 8:58 | 131 | +8 | ✅ Start pelan |",
+        "| 2 | 8:23 | 149 | +16 | ✅ Bukit, HR controlled |",
+        "| 3 | 7:41 | 152 | +2 | ✅ Stabil |",
+        "| 4 | 7:32 | 154 | -4 | ✅ Stabil |",
+        "| 5 | 7:06 | 151 | -16 | ✅ Turunan, controlled |",
+        "| 6 | 7:07 | 154 | -7 | ⚠️ Overshoot tipis, koreksi cepat ✅ |",
+        "",
+        "**Perbandingan easy run Rabu tiap minggu:**",
+        "",
+        "| Minggu | Pace | Avg HR | Max HR |",
+        "|--------|------|--------|--------|",
+        "| 1 | 7:58 | 150 | 159 |",
+        "| 2 | 8:08 | 147 | 156 |",
+        "| 3 | 7:55 | 149 | 157 |",
+        "| **4** | **7:48** | **148** | **158** |",
+        "",
+        "**Assessment:** **Progresi jelas. Pace rata-rata Minggu 4 = 7:48 — tercepat dari semua easy run, tapi HR malah 148 (sama/renderah dari minggu 1).** Km 5 turunan 7:06 dengan HR 151 — controlled, gak spike. Km 6 overshoot ke 158 cuma sebentar dan user berhasil koreksi sebelum jam kasih peringatan — tanda kontrol HR sudah instingtif.",
+        "**Catatan audit:** Ini easy run terbaik dari segi kontrol. 4 minggu lalu start 7:58, sekarang 7:48 di HR yang sama. Adaptasi Z2 jalan.",
+        "",
+        "**Besok Kamis:** Strength Full 3 set (DOMS bahu cek dulu — kalau masih ganggu, 2 set aja). 💪",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "148 bpm",
+              "145-155",
+              "✅ Z2"
+            ],
+            [
+              "Max HR",
+              "158 bpm",
+              "max 155",
+              "⚠️ Km 6 overshoot, koreksi sebelum jam bunyi"
+            ],
+            [
+              "Pace",
+              "7:48/km",
+              "bebas",
+              "✅ **Tercepat dari semua easy run**"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:58",
+              "131",
+              "+8",
+              "✅ Start pelan"
+            ],
+            [
+              "2",
+              "8:23",
+              "149",
+              "+16",
+              "✅ Bukit, HR controlled"
+            ],
+            [
+              "3",
+              "7:41",
+              "152",
+              "+2",
+              "✅ Stabil"
+            ],
+            [
+              "4",
+              "7:32",
+              "154",
+              "-4",
+              "✅ Stabil"
+            ],
+            [
+              "5",
+              "7:06",
+              "151",
+              "-16",
+              "✅ Turunan, controlled"
+            ],
+            [
+              "6",
+              "7:07",
+              "154",
+              "-7",
+              "⚠️ Overshoot tipis, koreksi cepat ✅"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "6km @ HR 145-155",
+        "Split": "",
+        "Perbandingan easy run Rabu tiap minggu": "",
+        "Besok Kamis": "Strength Full 3 set (DOMS bahu cek dulu — kalau masih ganggu, 2 set aja). 💪"
+      },
+      "iso_date": "2026-07-01",
       "week_number": 4
     }
   ]
