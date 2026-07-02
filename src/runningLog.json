@@ -2296,12 +2296,7 @@
         "**Assessment:** **Progresi jelas. Pace rata-rata Minggu 4 = 7:48 — tercepat dari semua easy run, tapi HR malah 148 (sama/renderah dari minggu 1).** Km 5 turunan 7:06 dengan HR 151 — controlled, gak spike. Km 6 overshoot ke 158 cuma sebentar dan user berhasil koreksi sebelum jam kasih peringatan — tanda kontrol HR sudah instingtif.",
         "**Catatan audit:** Ini easy run terbaik dari segi kontrol. 4 minggu lalu start 7:58, sekarang 7:48 di HR yang sama. Adaptasi Z2 jalan.",
         "",
-        "**Besok Kamis:** Strength Full 3 set (DOMS bahu cek dulu — kalau masih ganggu, 2 set aja). 💪",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -2390,10 +2385,58 @@
       "key_value": {
         "Target": "6km @ HR 145-155",
         "Split": "",
-        "Perbandingan easy run Rabu tiap minggu": "",
-        "Besok Kamis": "Strength Full 3 set (DOMS bahu cek dulu — kalau masih ganggu, 2 set aja). 💪"
+        "Perbandingan easy run Rabu tiap minggu": ""
       },
       "iso_date": "2026-07-01",
+      "week_number": 4
+    },
+    {
+      "day_name": "Kamis",
+      "date_str": "2 Juli 2026",
+      "title": "Strength (Minggu 4)",
+      "date": "2026-07-02",
+      "assessment": "HR peak turun dari 145 (Senin) → 137 (Kamis). Adaptasi 3 set volume berjalan.",
+      "catatan_audit": "",
+      "log_text": [
+        "**Tipe:** Bodyweight (format ringkas)",
+        "",
+        "| Gerakan | Set × Reps | RPE | HR Peak |",
+        "|---------|-----------|-----|---------|",
+        "| Squat, Lunge, Push Up, Plank | 3×15, 3×10/kaki, 3×8, 3×30dtk | **6/10** | **137** |",
+        "",
+        "**Keluhan:** DOMS bahu ringan saat plank",
+        "**Assessment:** HR peak turun dari 145 (Senin) → 137 (Kamis). Adaptasi 3 set volume berjalan.",
+        "",
+        "**Besok Jumat:** Easy 7km @ HR 145-155 🏃",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set × Reps",
+            "RPE",
+            "HR Peak"
+          ],
+          "rows": [
+            [
+              "Squat, Lunge, Push Up, Plank",
+              "3×15, 3×10/kaki, 3×8, 3×30dtk",
+              "**6/10**",
+              "**137**"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Bodyweight (format ringkas)",
+        "Keluhan": "DOMS bahu ringan saat plank",
+        "Besok Jumat": "Easy 7km @ HR 145-155 🏃"
+      },
+      "iso_date": "2026-07-02",
       "week_number": 4
     }
   ]
