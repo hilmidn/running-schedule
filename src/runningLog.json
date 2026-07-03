@@ -2409,8 +2409,7 @@
         "",
         "**Besok Jumat:** Easy 7km @ HR 145-155 🏃",
         "",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -2437,6 +2436,153 @@
         "Besok Jumat": "Easy 7km @ HR 145-155 🏃"
       },
       "iso_date": "2026-07-02",
+      "week_number": 4
+    },
+    {
+      "day_name": "Jumat",
+      "date_str": "3 Juli 2026",
+      "title": "Easy 7km (Minggu 4)",
+      "date": "2026-07-03",
+      "assessment": "**Progress jelas.** Pace 7:53 sama dengan minggu 1-2, tapi dengan +1km dan HR lebih rendah (148 vs 150-151). Km 1 start 9:16 — pemanasan ideal. Km 5-7 progresif tanpa ngegas.",
+      "catatan_audit": "Km 7 finish tanjakan tipis, HR 151 — controlled. 7km pertama tanpa masalah. Puncak FASE 1 lari pekan dg volume 30km.",
+      "log_text": [
+        "**Target:** 7km @ HR 145-155",
+        "",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 148 bpm | 145-155 | ✅ Z2 |",
+        "| Max HR | 159 bpm | max 155 | ⚠️ Overshoot tipis di km 5-7 |",
+        "| Pace | 7:53/km | bebas | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|-----|-----|---------|",
+        "| 1 | 9:16 | 133 | +8 | ✅ Start pelan |",
+        "| 2 | 8:41 | 147 | +16 | ✅ Bukit, HR controlled |",
+        "| 3 | 7:49 | 153 | +2 | ✅ Stabil |",
+        "| 4 | 7:43 | 154 | -4 | ✅ Stabil |",
+        "| 5 | 7:07 | 152 | -16 | ✅ Turunan, controlled |",
+        "| 6 | 7:17 | 153 | -7 | ✅ Stabil |",
+        "| 7 | 7:17 | 151 | -6 | ✅ Finis strong |",
+        "",
+        "**Perbandingan Friday tiap minggu:**",
+        "",
+        "| Minggu | Jarak | Pace | Avg HR | Max HR |",
+        "|--------|-------|------|--------|--------|",
+        "| 1 | 6km | 7:53 | 151 | 159 |",
+        "| 2 | 6km | 7:53 | 150 | 157 |",
+        "| 3 | 6km | 8:02 | 149 | 157 |",
+        "| **4** | **7km** | **7:53** | **148** | **159** |",
+        "",
+        "**Assessment:** **Progress jelas.** Pace 7:53 sama dengan minggu 1-2, tapi dengan +1km dan HR lebih rendah (148 vs 150-151). Km 1 start 9:16 — pemanasan ideal. Km 5-7 progresif tanpa ngegas.",
+        "**Catatan audit:** Km 7 finish tanjakan tipis, HR 151 — controlled. 7km pertama tanpa masalah. Puncak FASE 1 lari pekan dg volume 30km.",
+        "",
+        "**Besok Sabtu:** Rest",
+        "**Minggu:** **Long 11km** @ HR 145-155 — **PR jarak baru!** 🏆",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "148 bpm",
+              "145-155",
+              "✅ Z2"
+            ],
+            [
+              "Max HR",
+              "159 bpm",
+              "max 155",
+              "⚠️ Overshoot tipis di km 5-7"
+            ],
+            [
+              "Pace",
+              "7:53/km",
+              "bebas",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "9:16",
+              "133",
+              "+8",
+              "✅ Start pelan"
+            ],
+            [
+              "2",
+              "8:41",
+              "147",
+              "+16",
+              "✅ Bukit, HR controlled"
+            ],
+            [
+              "3",
+              "7:49",
+              "153",
+              "+2",
+              "✅ Stabil"
+            ],
+            [
+              "4",
+              "7:43",
+              "154",
+              "-4",
+              "✅ Stabil"
+            ],
+            [
+              "5",
+              "7:07",
+              "152",
+              "-16",
+              "✅ Turunan, controlled"
+            ],
+            [
+              "6",
+              "7:17",
+              "153",
+              "-7",
+              "✅ Stabil"
+            ],
+            [
+              "7",
+              "7:17",
+              "151",
+              "-6",
+              "✅ Finis strong"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "7km @ HR 145-155",
+        "Split": "",
+        "Perbandingan Friday tiap minggu": "",
+        "Besok Sabtu": "Rest",
+        "Minggu": "**Long 11km** @ HR 145-155 — **PR jarak baru!** 🏆"
+      },
+      "iso_date": "2026-07-03",
       "week_number": 4
     }
   ]
