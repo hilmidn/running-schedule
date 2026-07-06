@@ -2648,8 +2648,9 @@
         "**Assessment:** **FASE 1 ditutup dengan long run terbaik. Pace 7:53 — lebih cepat 30 detik dari minggu 3 di HR yang sama.** Km 8 bukit +46m (terjal banget) dengan HR 153 — kontrol lebih baik dari minggu 3 (yang juga 153 di km 8 tapi +42m). Km 10 turunan -49m, pace 6:43 tapi HR turun ke 149 — endurance base solid. Km 4 overshoot karena traffic — bukan kesalahan pacing, gue abaikan.",
         "**Catatan audit:** FASE 1 (Minggu 1-4) selesai ✅. Volume naik dari 22→30km. VO2Max 37→40. HM target 2:15-2:45 makin masuk akal. Minggu 5-8 FASE 2 volume building — lebih keras, tapi tubuh siap.",
         "",
+        "---",
         "",
-        "",
+        "## Minggu 5 — FASE 2: Volume Build",
         ""
       ],
       "tables": [
@@ -2783,6 +2784,92 @@
       },
       "iso_date": "2026-07-05",
       "week_number": 4
+    },
+    {
+      "day_name": "Senin",
+      "date_str": "6 Juli 2026",
+      "title": "Strength 3 Set Full",
+      "date": "2026-07-06",
+      "assessment": "",
+      "catatan_audit": "",
+      "log_text": [
+        "**Tipe:** Bodyweight (pagi hari, belum sarapan)",
+        "",
+        "| Gerakan | Set × Reps | RPE | HR Peak |",
+        "|---------|-----------|-----|---------|",
+        "| Squat | 3×18 | 6/10 | 130 |",
+        "| Reverse Lunge | 3×10/kaki | 6/10 | 130 |",
+        "| Push Up | 1×8 (full) → 2×8 (knee) | — | 130 |",
+        "| Plank | 1×45 dtk + 2×35 dtk | — | 130 |",
+        "| Single Leg Calf Raise | 3×12 (BARU) | — | 130 |",
+        "",
+        "**Assessment:**",
+        "",
+        "| Item | Detail | Verdik |",
+        "|------|--------|--------|",
+        "| **Squat 18 reps** | Naik dari 15 — ✅ progres |",
+        "| **Push Up full 1×8** | First try! Belum kuat full 3 set, turun ke knee — ✅ wajar |",
+        "| **Plank 45+35+35** | Naik dari 3×30 — ✅ | ",
+        "| **Calf Raise baru** | Tambahan bagus buat running economy | ✅ |",
+        "| **Morning performance** | HR cuma 130, gerakan terasa berat — **pagi tanpa sarapan itu faktor besar** | ⚠️ |",
+        "",
+        "**Catatan pagi vs sore:** Performa pagi lebih rendah karena: (1) glycogen rendah setelah semalaman puasa, (2) core temperature belum optimal, (3) sistem saraf belum fully awake. Bukan tanda overtraining. Kalau mau latihan pagi, minimal **sarapan ringan 30-60 menit sebelumnya** (pisang + kopi/teh).",
+        "",
+        "**Besok Selasa:** **Tempo A** — 10' pemanasan → **25' @ HR 160-165** → 10' pendinginan",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set × Reps",
+            "RPE",
+            "HR Peak"
+          ],
+          "rows": [
+            [
+              "Squat",
+              "3×18",
+              "6/10",
+              "130"
+            ],
+            [
+              "Reverse Lunge",
+              "3×10/kaki",
+              "6/10",
+              "130"
+            ],
+            [
+              "Push Up",
+              "1×8 (full) → 2×8 (knee)",
+              "—",
+              "130"
+            ],
+            [
+              "Plank",
+              "1×45 dtk + 2×35 dtk",
+              "—",
+              "130"
+            ],
+            [
+              "Single Leg Calf Raise",
+              "3×12 (BARU)",
+              "—",
+              "130"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Bodyweight (pagi hari, belum sarapan)",
+        "Catatan pagi vs sore": "Performa pagi lebih rendah karena: (1) glycogen rendah setelah semalaman puasa, (2) core temperature belum optimal, (3) sistem saraf belum fully awake. Bukan tanda overtraining. Kalau mau latihan pagi, minimal **sarapan ringan 30-60 menit sebelumnya** (pisang + kopi/teh).",
+        "Besok Selasa": "**Tempo A** — 10' pemanasan → **25' @ HR 160-165** → 10' pendinginan"
+      },
+      "iso_date": "2026-07-06",
+      "week_number": 5
     }
   ]
 }
