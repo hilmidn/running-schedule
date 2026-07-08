@@ -2297,6 +2297,26 @@
         "**Catatan audit:** Ini easy run terbaik dari segi kontrol. 4 minggu lalu start 7:58, sekarang 7:48 di HR yang sama. Adaptasi Z2 jalan.",
         "",
         "---",
+        "",
+        "### Minggu 5 — Revised Schedule (Disrupted Week)",
+        "",
+        "> **Catatan:** Minggu ini disrupted karena kurang tidur + jadwal geser. Jadwal asli Senin-Jumat di-reschedule. Hanya minggu 5 saja. Week 6+ balik ke track normal.",
+        "",
+        "| Hari | Jadwal Asli | **Revised** |",
+        "|------|------------|-------------|",
+        "| Senin, 6 Jul | 💪 Strength | ✅ **Done** (jadwal normal) |",
+        "| **Selasa, 7 Jul** | 🔥 Tempo 2×15' | **🛌 Rest** — catch up sleep |",
+        "| **Rabu, 8 Jul** | 🟢 Easy 6km | **🔥 Tempo 2×15' @ HR 160-165** |",
+        "| **Kamis, 9 Jul** | 💪 Strength | **🟢 Easy 7km** @ HR 145-155 |",
+        "| **Jumat, 10 Jul** | 🟢 Easy 7km | **🟢 Easy 7km** @ HR 145-155 ✅ |",
+        "| **Sabtu, 11 Jul** | 🛌 Rest | **💪 Strength Full** |",
+        "| **Minggu, 12 Jul** | 🏃 Long 12km | **🏃 Long 12km** @ HR 145-155 ✅ |",
+        "",
+        "**Volume minggu ini:** ~6km (tempo) + 7km + 7km + 12km = **~32km** ✅ (sesuai target Week 5)",
+        "",
+        "**Syarat:** Tidur cukup Selasa malam. Tempo Rabu cuma bagus kalau recovery Rabu pagi udah pulih.",
+        "",
+        "---",
         ""
       ],
       "tables": [
@@ -2385,103 +2405,86 @@
       "key_value": {
         "Target": "6km @ HR 145-155",
         "Split": "",
-        "Perbandingan easy run Rabu tiap minggu": ""
+        "Perbandingan easy run Rabu tiap minggu": "",
+        "Catatan": "Minggu ini disrupted karena kurang tidur + jadwal geser. Jadwal asli Senin-Jumat di-reschedule. Hanya minggu 5 saja. Week 6+ balik ke track normal.",
+        "Volume minggu ini": "~6km (tempo) + 7km + 7km + 12km = **~32km** ✅ (sesuai target Week 5)",
+        "Syarat": "Tidur cukup Selasa malam. Tempo Rabu cuma bagus kalau recovery Rabu pagi udah pulih."
       },
       "iso_date": "2026-07-01",
       "week_number": 4
     },
     {
-      "day_name": "Kamis",
-      "date_str": "2 Juli 2026",
-      "title": "Strength (Minggu 4)",
-      "date": "2026-07-02",
-      "assessment": "HR peak turun dari 145 (Senin) → 137 (Kamis). Adaptasi 3 set volume berjalan.",
-      "catatan_audit": "",
+      "day_name": "Rabu",
+      "date_str": "8 Juli 2026",
+      "title": "Tempo B 2×15' (Revised Week 5)",
+      "date": "2026-07-08",
+      "assessment": "",
+      "catatan_audit": "Minggu disrupted bukan alasan buat skip quality. Tapi pace segmen 1 menunjukkan: kalau sleep debt masih ada, tubuh butuh waktu lebih buat masuk zona. Besok Easy 7km — jangan lari kenceng gara-gara senang tempo bagus. Easy = easy.",
       "log_text": [
-        "**Tipe:** Bodyweight (format ringkas)",
         "",
-        "| Gerakan | Set × Reps | RPE | HR Peak |",
-        "|---------|-----------|-----|---------|",
-        "| Squat, Lunge, Push Up, Plank | 3×15, 3×10/kaki, 3×8, 3×30dtk | **6/10** | **137** |",
+        "**Target:** 2×15' @ HR 160-165 (rec: jog sampai HR turun ke 130)",
         "",
-        "**Keluhan:** DOMS bahu ringan saat plank",
-        "**Assessment:** HR peak turun dari 145 (Senin) → 137 (Kamis). Adaptasi 3 set volume berjalan.",
-        "",
-        "**Besok Jumat:** Easy 7km @ HR 145-155 🏃",
-        "",
-        "---",
-        ""
-      ],
-      "tables": [
-        {
-          "header": [
-            "Gerakan",
-            "Set × Reps",
-            "RPE",
-            "HR Peak"
-          ],
-          "rows": [
-            [
-              "Squat, Lunge, Push Up, Plank",
-              "3×15, 3×10/kaki, 3×8, 3×30dtk",
-              "**6/10**",
-              "**137**"
-            ]
-          ]
-        }
-      ],
-      "key_value": {
-        "Tipe": "Bodyweight (format ringkas)",
-        "Keluhan": "DOMS bahu ringan saat plank",
-        "Besok Jumat": "Easy 7km @ HR 145-155 🏃"
-      },
-      "iso_date": "2026-07-02",
-      "week_number": 4
-    },
-    {
-      "day_name": "Jumat",
-      "date_str": "3 Juli 2026",
-      "title": "Easy 7km (Minggu 4)",
-      "date": "2026-07-03",
-      "assessment": "**Progress jelas.** Pace 7:53 sama dengan minggu 1-2, tapi dengan +1km dan HR lebih rendah (148 vs 150-151). Km 1 start 9:16 — pemanasan ideal. Km 5-7 progresif tanpa ngegas.",
-      "catatan_audit": "Km 7 finish tanjakan tipis, HR 151 — controlled. 7km pertama tanpa masalah. Puncak FASE 1 lari pekan dg volume 30km.",
-      "log_text": [
-        "**Target:** 7km @ HR 145-155",
-        "",
+        "**Ringkasan:**",
         "| Metrik | Realisasi | Target | Verdik |",
         "|--------|-----------|--------|--------|",
-        "| Avg HR | 148 bpm | 145-155 | ✅ Z2 |",
-        "| Max HR | 159 bpm | max 155 | ⚠️ Overshoot tipis di km 5-7 |",
-        "| Pace | 7:53/km | bebas | ✅ |",
+        "| Durasi tempo total | 30:03 | 2×15' | ✅ |",
+        "| Total durasi | 42:55 (incl. warmup/cooldown) | — | ✅ |",
+        "| Jarak tempo | 4.86km | — | ✅ |",
+        "| Avg HR | 158 bpm | 160-165 | ⚠️ Segmen 1 nge-drop |",
+        "| Max HR | 169 bpm | 165 | ⚠️ Km 4 overshoot tipis |",
         "",
-        "**Split:**",
+        "**Split per segmen:**",
         "",
-        "| Km | Pace | HR | EG | Catatan |",
-        "|----|------|-----|-----|---------|",
-        "| 1 | 9:16 | 133 | +8 | ✅ Start pelan |",
-        "| 2 | 8:41 | 147 | +16 | ✅ Bukit, HR controlled |",
-        "| 3 | 7:49 | 153 | +2 | ✅ Stabil |",
-        "| 4 | 7:43 | 154 | -4 | ✅ Stabil |",
-        "| 5 | 7:07 | 152 | -16 | ✅ Turunan, controlled |",
-        "| 6 | 7:17 | 153 | -7 | ✅ Stabil |",
-        "| 7 | 7:17 | 151 | -6 | ✅ Finis strong |",
+        "| Segmen | Durasi | Jarak | Pace | Avg HR | Catatan |",
+        "|--------|--------|-------|------|--------|---------|",
+        "| 1 — Tempo | 15:01 | 2.17km | 6:56 | 156 | ⚠️ HR di bawah target |",
+        "| 2 — Recovery | 3:07 | 0.30km | 10:36 | 143 | ✅ Jog sampai HR turun |",
+        "| 3 — Tempo | 15:02 | 2.40km | 6:15 | 161 | ✅ **In the zone** |",
         "",
-        "**Perbandingan Friday tiap minggu:**",
+        "**Split per km:**",
         "",
-        "| Minggu | Jarak | Pace | Avg HR | Max HR |",
-        "|--------|-------|------|--------|--------|",
-        "| 1 | 6km | 7:53 | 151 | 159 |",
-        "| 2 | 6km | 7:53 | 150 | 157 |",
-        "| 3 | 6km | 8:02 | 149 | 157 |",
-        "| **4** | **7km** | **7:53** | **148** | **159** |",
+        "| Km | Pace | EG | HR | Catatan |",
+        "|----|------|----|----|---------|",
+        "| 1 | 6:47 | +7m | 150 | ⚠️ HR belum masuk zona |",
+        "| 2 | 6:57 | +17m | 162 | ⚠️ Bukit +17m, HR naik ke zona |",
+        "| — | — | — | — | *Recovery jog* |",
+        "| 3 | 7:32 | -7m | 153 | ⚠️ Segmen 2 baru mulai, HR masih ngejar |",
+        "| 4 | 6:09 | -18m | 163 | ✅ Turunan, pace agresif, HR di zona |",
+        "| 0.8 | 6:23 | -11m | 164 | ✅ Finis strong |",
         "",
-        "**Assessment:** **Progress jelas.** Pace 7:53 sama dengan minggu 1-2, tapi dengan +1km dan HR lebih rendah (148 vs 150-151). Km 1 start 9:16 — pemanasan ideal. Km 5-7 progresif tanpa ngegas.",
-        "**Catatan audit:** Km 7 finish tanjakan tipis, HR 151 — controlled. 7km pertama tanpa masalah. Puncak FASE 1 lari pekan dg volume 30km.",
+        "**Perbandingan segmen:**",
         "",
-        "**Besok Sabtu:** Rest",
-        "**Minggu:** **Long 11km** @ HR 145-155 — **PR jarak baru!** 🏆",
+        "| | Segmen 1 | Segmen 2 | Delta |",
+        "|--|----------|----------|-------|",
+        "| Pace | 6:56 | 6:15 | **-41 detik** |",
+        "| Avg HR | 156 | 161 | +5 bpm |",
+        "| Jarak | 2.17km | 2.40km | +230m |",
         "",
-        "---",
+        "**Assessment:**",
+        "**Split signifikan — Segmen 1 vs 2 beda 41 detik.** Ini wajar untuk minggu disrupted (kurang tidur Selasa, baru tidur cukup Rabu pagi). Tubuh butuh 15 menit buat \"wake up\" — HR cuma 156 di segmen 1, 4 bpm di bawah target. Tapi segmen 2 langsung ngebut ke 6:15 @ HR 161 — **di zona target.** Tanda: base udah kuat, cuma perlu waktu adaptasi di awal.",
+        "",
+        "**Max HR 169** di km 4 pace 6:09 — turunan -18m, pace terlalu agresif. HR overshoot tipis (4 bpm). Bukan masalah serius karena cuma sebentar, tapi next time jangan ke-trigger pace downhill.",
+        "",
+        "**Recovery jog sampai HR 130** — lebih baik dari fixed 3' timer. User udah mulai listen to body, bukan cuma ngikutin jam.",
+        "",
+        "**Progression tempo pace:**",
+        "",
+        "| Minggu | Format | Durasi | Pace | Avg HR | Max HR |",
+        "|--------|--------|--------|------|--------|--------|",
+        "| 1 | A (cont. 20') | 20' | 6:47 | 162 | 163 |",
+        "| 2 | A (cont. 22') | 22' | 6:33 | 163 | 170 |",
+        "| 4 | B (2×12') | 24' | 6:33 | 161 | 170 |",
+        "| **5** | **B (2×15')** | **30'** | **6:46** | **158** | **169** |",
+        "",
+        "> Pace 6:46 tertinggi karena segmen 1 konservatif. **Segmen 2 pace 6:15 — best tempo pace yang pernah dicatat.** Volume naik 24'→30'. Progress nyata meski minggu disrupted.",
+        "",
+        "**Catatan audit:** Minggu disrupted bukan alasan buat skip quality. Tapi pace segmen 1 menunjukkan: kalau sleep debt masih ada, tubuh butuh waktu lebih buat masuk zona. Besok Easy 7km — jangan lari kenceng gara-gara senang tempo bagus. Easy = easy.",
+        "",
+        "**Besok Kamis:** Easy 7km @ HR 145-155 🟢",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       "tables": [
@@ -2494,22 +2497,34 @@
           ],
           "rows": [
             [
+              "Durasi tempo total",
+              "30:03",
+              "2×15'",
+              "✅"
+            ],
+            [
+              "Total durasi",
+              "42:55 (incl. warmup/cooldown)",
+              "—",
+              "✅"
+            ],
+            [
+              "Jarak tempo",
+              "4.86km",
+              "—",
+              "✅"
+            ],
+            [
               "Avg HR",
-              "148 bpm",
-              "145-155",
-              "✅ Z2"
+              "158 bpm",
+              "160-165",
+              "⚠️ Segmen 1 nge-drop"
             ],
             [
               "Max HR",
-              "159 bpm",
-              "max 155",
-              "⚠️ Overshoot tipis di km 5-7"
-            ],
-            [
-              "Pace",
-              "7:53/km",
-              "bebas",
-              "✅"
+              "169 bpm",
+              "165",
+              "⚠️ Km 4 overshoot tipis"
             ]
           ]
         },
@@ -2517,358 +2532,66 @@
           "header": [
             "Km",
             "Pace",
-            "HR",
             "EG",
+            "HR",
             "Catatan"
           ],
           "rows": [
             [
               "1",
-              "9:16",
-              "133",
-              "+8",
-              "✅ Start pelan"
+              "6:47",
+              "+7m",
+              "150",
+              "⚠️ HR belum masuk zona"
             ],
             [
               "2",
-              "8:41",
-              "147",
-              "+16",
-              "✅ Bukit, HR controlled"
+              "6:57",
+              "+17m",
+              "162",
+              "⚠️ Bukit +17m, HR naik ke zona"
+            ],
+            [
+              "—",
+              "—",
+              "—",
+              "—",
+              "*Recovery jog*"
             ],
             [
               "3",
-              "7:49",
+              "7:32",
+              "-7m",
               "153",
-              "+2",
-              "✅ Stabil"
+              "⚠️ Segmen 2 baru mulai, HR masih ngejar"
             ],
             [
               "4",
-              "7:43",
-              "154",
-              "-4",
-              "✅ Stabil"
+              "6:09",
+              "-18m",
+              "163",
+              "✅ Turunan, pace agresif, HR di zona"
             ],
             [
-              "5",
-              "7:07",
-              "152",
-              "-16",
-              "✅ Turunan, controlled"
-            ],
-            [
-              "6",
-              "7:17",
-              "153",
-              "-7",
-              "✅ Stabil"
-            ],
-            [
-              "7",
-              "7:17",
-              "151",
-              "-6",
+              "0.8",
+              "6:23",
+              "-11m",
+              "164",
               "✅ Finis strong"
             ]
           ]
         }
       ],
       "key_value": {
-        "Target": "7km @ HR 145-155",
-        "Split": "",
-        "Perbandingan Friday tiap minggu": "",
-        "Besok Sabtu": "Rest",
-        "Minggu": "**Long 11km** @ HR 145-155 — **PR jarak baru!** 🏆"
+        "Target": "2×15' @ HR 160-165 (rec: jog sampai HR turun ke 130)",
+        "Ringkasan": "",
+        "Split per segmen": "",
+        "Split per km": "",
+        "Perbandingan segmen": "",
+        "Progression tempo pace": "",
+        "Besok Kamis": "Easy 7km @ HR 145-155 🟢"
       },
-      "iso_date": "2026-07-03",
-      "week_number": 4
-    },
-    {
-      "day_name": "Sabtu",
-      "date_str": "4 Juli 2026",
-      "title": "Rest",
-      "date": "2026-07-04",
-      "assessment": "",
-      "catatan_audit": "",
-      "log_text": [
-        "",
-        "Full rest. Istirahat total.",
-        "",
-        "---",
-        ""
-      ],
-      "tables": [],
-      "key_value": {},
-      "iso_date": "2026-07-04",
-      "week_number": 4
-    },
-    {
-      "day_name": "Minggu",
-      "date_str": "5 Juli 2026",
-      "title": "Long Run 11km (Minggu 4)",
-      "date": "2026-07-05",
-      "assessment": "**FASE 1 ditutup dengan long run terbaik. Pace 7:53 — lebih cepat 30 detik dari minggu 3 di HR yang sama.** Km 8 bukit +46m (terjal banget) dengan HR 153 — kontrol lebih baik dari minggu 3 (yang juga 153 di km 8 tapi +42m). Km 10 turunan -49m, pace 6:43 tapi HR turun ke 149 — endurance base solid. Km 4 overshoot karena traffic — bukan kesalahan pacing, gue abaikan.",
-      "catatan_audit": "FASE 1 (Minggu 1-4) selesai ✅. Volume naik dari 22→30km. VO2Max 37→40. HM target 2:15-2:45 makin masuk akal. Minggu 5-8 FASE 2 volume building — lebih keras, tapi tubuh siap.",
-      "log_text": [
-        "**Target:** 11km @ HR 145-155",
-        "",
-        "| Metrik | Realisasi | Target | Verdik |",
-        "|--------|-----------|--------|--------|",
-        "| Avg HR | 150 bpm | 145-155 | ✅ Z2 |",
-        "| Max HR | 161 bpm | max 155 | ⚠️ Km 8 tanjakan +46m |",
-        "| Pace | 7:53/km | bebas | ✅ **+30 detik lebih cepat dari minggu 3 (8:15)** |",
-        "| Durasi | 1:27:10 | 11km ✅ | **PR Jarak!** |",
-        "",
-        "**Split:**",
-        "",
-        "| Km | Pace | HR | EG | Catatan |",
-        "|----|------|-----|-----|---------|",
-        "| 1 | 8:41 | 131 | +8 | ✅ Start sempurna |",
-        "| 2 | 8:30 | 147 | +16 | ✅ Bukit, HR controlled |",
-        "| 3 | 7:22 | 153 | +2 | ✅ Stabil |",
-        "| 4 | 6:57 | **157** | -4 | ⚠️ Traffic, pace kepaksa, overshoot minor (sadar & lapor ✅) |",
-        "| 5 | 7:11 | 154 | -16 | ✅ Turunan, controlled |",
-        "| 6 | 7:06 | 153 | -7 | ✅ Stabil |",
-        "| 7 | 7:22 | 151 | -19 | ✅ Turunan, HR turun |",
-        "| 8 | **9:45** | **153** | **+46** | 🏆 **BUKIT +46m! Pace 9:45, HR cuma 153 — brilliant control** |",
-        "| 9 | 8:58 | 153 | +3 | ✅ Stabil pasca bukit |",
-        "| 10 | **6:43** | **149** | **-49** | ✅ Turunan curam, HR turun ke 149 — kontrol |",
-        "| 11 | 8:10 | 153 | +20 | ✅ Tanjakan finish, HR terkendali |",
-        "",
-        "**Perbandingan Long Run tiap minggu:**",
-        "",
-        "| Minggu | Jarak | Pace | Avg HR | Max HR | Catatan |",
-        "|--------|-------|------|--------|--------|---------|",
-        "| 1 | 8km | 8:18 | 151 | 158 | — |",
-        "| 2 | 9km | 7:48 | 149 | 159 | — |",
-        "| 3 | 10km | 8:15 | 150 | 161 | Flu ringan |",
-        "| **4** | **11km** | **7:53** | **150** | **161** | **✅ PR! Pace tercepat ke-2, HR stabil** |",
-        "",
-        "**Assessment:** **FASE 1 ditutup dengan long run terbaik. Pace 7:53 — lebih cepat 30 detik dari minggu 3 di HR yang sama.** Km 8 bukit +46m (terjal banget) dengan HR 153 — kontrol lebih baik dari minggu 3 (yang juga 153 di km 8 tapi +42m). Km 10 turunan -49m, pace 6:43 tapi HR turun ke 149 — endurance base solid. Km 4 overshoot karena traffic — bukan kesalahan pacing, gue abaikan.",
-        "**Catatan audit:** FASE 1 (Minggu 1-4) selesai ✅. Volume naik dari 22→30km. VO2Max 37→40. HM target 2:15-2:45 makin masuk akal. Minggu 5-8 FASE 2 volume building — lebih keras, tapi tubuh siap.",
-        "",
-        "---",
-        "",
-        "## Minggu 5 — FASE 2: Volume Build",
-        ""
-      ],
-      "tables": [
-        {
-          "header": [
-            "Metrik",
-            "Realisasi",
-            "Target",
-            "Verdik"
-          ],
-          "rows": [
-            [
-              "Avg HR",
-              "150 bpm",
-              "145-155",
-              "✅ Z2"
-            ],
-            [
-              "Max HR",
-              "161 bpm",
-              "max 155",
-              "⚠️ Km 8 tanjakan +46m"
-            ],
-            [
-              "Pace",
-              "7:53/km",
-              "bebas",
-              "✅ **+30 detik lebih cepat dari minggu 3 (8:15)**"
-            ],
-            [
-              "Durasi",
-              "1:27:10",
-              "11km ✅",
-              "**PR Jarak!**"
-            ]
-          ]
-        },
-        {
-          "header": [
-            "Km",
-            "Pace",
-            "HR",
-            "EG",
-            "Catatan"
-          ],
-          "rows": [
-            [
-              "1",
-              "8:41",
-              "131",
-              "+8",
-              "✅ Start sempurna"
-            ],
-            [
-              "2",
-              "8:30",
-              "147",
-              "+16",
-              "✅ Bukit, HR controlled"
-            ],
-            [
-              "3",
-              "7:22",
-              "153",
-              "+2",
-              "✅ Stabil"
-            ],
-            [
-              "4",
-              "6:57",
-              "**157**",
-              "-4",
-              "⚠️ Traffic, pace kepaksa, overshoot minor (sadar & lapor ✅)"
-            ],
-            [
-              "5",
-              "7:11",
-              "154",
-              "-16",
-              "✅ Turunan, controlled"
-            ],
-            [
-              "6",
-              "7:06",
-              "153",
-              "-7",
-              "✅ Stabil"
-            ],
-            [
-              "7",
-              "7:22",
-              "151",
-              "-19",
-              "✅ Turunan, HR turun"
-            ],
-            [
-              "8",
-              "**9:45**",
-              "**153**",
-              "**+46**",
-              "🏆 **BUKIT +46m! Pace 9:45, HR cuma 153 — brilliant control**"
-            ],
-            [
-              "9",
-              "8:58",
-              "153",
-              "+3",
-              "✅ Stabil pasca bukit"
-            ],
-            [
-              "10",
-              "**6:43**",
-              "**149**",
-              "**-49**",
-              "✅ Turunan curam, HR turun ke 149 — kontrol"
-            ],
-            [
-              "11",
-              "8:10",
-              "153",
-              "+20",
-              "✅ Tanjakan finish, HR terkendali"
-            ]
-          ]
-        }
-      ],
-      "key_value": {
-        "Target": "11km @ HR 145-155",
-        "Split": "",
-        "Perbandingan Long Run tiap minggu": ""
-      },
-      "iso_date": "2026-07-05",
-      "week_number": 4
-    },
-    {
-      "day_name": "Senin",
-      "date_str": "6 Juli 2026",
-      "title": "Strength 3 Set Full",
-      "date": "2026-07-06",
-      "assessment": "",
-      "catatan_audit": "",
-      "log_text": [
-        "**Tipe:** Bodyweight (pagi hari, belum sarapan)",
-        "",
-        "| Gerakan | Set × Reps | RPE | HR Peak |",
-        "|---------|-----------|-----|---------|",
-        "| Squat | 3×18 | 6/10 | 130 |",
-        "| Reverse Lunge | 3×10/kaki | 6/10 | 130 |",
-        "| Push Up | 1×8 (full) → 2×8 (knee) | — | 130 |",
-        "| Plank | 1×45 dtk + 2×35 dtk | — | 130 |",
-        "| Single Leg Calf Raise | 3×12 (BARU) | — | 130 |",
-        "",
-        "**Assessment:**",
-        "",
-        "| Item | Detail | Verdik |",
-        "|------|--------|--------|",
-        "| **Squat 18 reps** | Naik dari 15 — ✅ progres |",
-        "| **Push Up full 1×8** | First try! Belum kuat full 3 set, turun ke knee — ✅ wajar |",
-        "| **Plank 45+35+35** | Naik dari 3×30 — ✅ | ",
-        "| **Calf Raise baru** | Tambahan bagus buat running economy | ✅ |",
-        "| **Morning performance** | HR cuma 130, gerakan terasa berat — **pagi tanpa sarapan itu faktor besar** | ⚠️ |",
-        "",
-        "**Catatan pagi vs sore:** Performa pagi lebih rendah karena: (1) glycogen rendah setelah semalaman puasa, (2) core temperature belum optimal, (3) sistem saraf belum fully awake. Bukan tanda overtraining. Kalau mau latihan pagi, minimal **sarapan ringan 30-60 menit sebelumnya** (pisang + kopi/teh).",
-        "",
-        "**Besok Selasa:** **Tempo A** — 10' pemanasan → **25' @ HR 160-165** → 10' pendinginan",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "tables": [
-        {
-          "header": [
-            "Gerakan",
-            "Set × Reps",
-            "RPE",
-            "HR Peak"
-          ],
-          "rows": [
-            [
-              "Squat",
-              "3×18",
-              "6/10",
-              "130"
-            ],
-            [
-              "Reverse Lunge",
-              "3×10/kaki",
-              "6/10",
-              "130"
-            ],
-            [
-              "Push Up",
-              "1×8 (full) → 2×8 (knee)",
-              "—",
-              "130"
-            ],
-            [
-              "Plank",
-              "1×45 dtk + 2×35 dtk",
-              "—",
-              "130"
-            ],
-            [
-              "Single Leg Calf Raise",
-              "3×12 (BARU)",
-              "—",
-              "130"
-            ]
-          ]
-        }
-      ],
-      "key_value": {
-        "Tipe": "Bodyweight (pagi hari, belum sarapan)",
-        "Catatan pagi vs sore": "Performa pagi lebih rendah karena: (1) glycogen rendah setelah semalaman puasa, (2) core temperature belum optimal, (3) sistem saraf belum fully awake. Bukan tanda overtraining. Kalau mau latihan pagi, minimal **sarapan ringan 30-60 menit sebelumnya** (pisang + kopi/teh).",
-        "Besok Selasa": "**Tempo A** — 10' pemanasan → **25' @ HR 160-165** → 10' pendinginan"
-      },
-      "iso_date": "2026-07-06",
+      "iso_date": "2026-07-08",
       "week_number": 5
     }
   ]
