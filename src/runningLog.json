@@ -2771,18 +2771,27 @@
       "date_str": "9 Juli 2026",
       "title": "Sore: Bodyweight Strength (Swap dari Sabtu)",
       "date": "2026-07-09",
-      "assessment": "",
+      "assessment": "5 gerakan × 3 set full, RPE 7, HR puncak cuma 137. Ini strength yang solid — challenging tapi gak over-exertion. Push Up knee 3×10 stabil (dari minggu awal yg cuma 2×5 regular push up — progress 3× lipat). Calf Raise gerakan baru, gak ada masalah.",
       "catatan_audit": "",
       "log_text": [
         "",
         "**Gerakan:** Bodyweight Standard Minggu 5-6",
         "| Gerakan | Set x Reps | Catatan |",
         "|---------|-----------|---------|",
-        "| Bodyweight Squat | 3×18 | ✅ |",
-        "| Reverse Lunge | 3×10/kaki | ✅ |",
-        "| Push Up (dada) | 3×8-10 | ✅ |",
-        "| Plank | 3×45-60 dtk | ✅ |",
-        "| Single Leg Calf Raise | 3×12/kaki | ✅ |",
+        "| Bodyweight Squat | 3×18 | ✅ Completed |",
+        "| Reverse Lunge | 3×10/kaki | ✅ Completed |",
+        "| Push Up (knee) | 3×10 | ✅ Completed |",
+        "| Plank | 3×45 dtk | ✅ Completed |",
+        "| Single Leg Calf Raise | 3×12/kaki | ✅ Completed |",
+        "",
+        "**Data:**",
+        "| Metrik | Nilai |",
+        "|--------|-------|",
+        "| RPE | 7/10 |",
+        "| Peak HR | 137 bpm |",
+        "| Keluhan | Tidak ada |",
+        "",
+        "**Assessment:** 5 gerakan × 3 set full, RPE 7, HR puncak cuma 137. Ini strength yang solid — challenging tapi gak over-exertion. Push Up knee 3×10 stabil (dari minggu awal yg cuma 2×5 regular push up — progress 3× lipat). Calf Raise gerakan baru, gak ada masalah.",
         "",
         "**Catatan:** Sesi ini swap dari Sabtu. Sabtu jadi rest full.",
         "",
@@ -2800,33 +2809,54 @@
             [
               "Bodyweight Squat",
               "3×18",
-              "✅"
+              "✅ Completed"
             ],
             [
               "Reverse Lunge",
               "3×10/kaki",
-              "✅"
+              "✅ Completed"
             ],
             [
-              "Push Up (dada)",
-              "3×8-10",
-              "✅"
+              "Push Up (knee)",
+              "3×10",
+              "✅ Completed"
             ],
             [
               "Plank",
-              "3×45-60 dtk",
-              "✅"
+              "3×45 dtk",
+              "✅ Completed"
             ],
             [
               "Single Leg Calf Raise",
               "3×12/kaki",
-              "✅"
+              "✅ Completed"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Metrik",
+            "Nilai"
+          ],
+          "rows": [
+            [
+              "RPE",
+              "7/10"
+            ],
+            [
+              "Peak HR",
+              "137 bpm"
+            ],
+            [
+              "Keluhan",
+              "Tidak ada"
             ]
           ]
         }
       ],
       "key_value": {
         "Gerakan": "Bodyweight Standard Minggu 5-6",
+        "Data": "",
         "Catatan": "Sesi ini swap dari Sabtu. Sabtu jadi rest full."
       },
       "iso_date": "2026-07-09",
