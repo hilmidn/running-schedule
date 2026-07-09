@@ -2595,9 +2595,9 @@
     {
       "day_name": "Kamis",
       "date_str": "9 Juli 2026",
-      "title": "Easy 7km (Revised Week 5)",
+      "title": "Pagi: Easy 7km (Revised Week 5) | Sore: Bodyweight Strength",
       "date": "2026-07-09",
-      "assessment": "",
+      "assessment": "5 gerakan × 3 set full, RPE 7, HR puncak cuma 137. Ini strength yang solid — challenging tapi gak over-exertion. Push Up knee 3×10 stabil (dari minggu awal yg cuma 2×5 regular push up — progress 3× lipat). Calf Raise gerakan baru, gak ada masalah.",
       "catatan_audit": "Easy run 7km + tempo kemarin + strength sabtu + long run minggu = 32km on track. Tapi pace easy sekarang udah mendekati easy minggu 2 tempo pace. Adaptasi jalan. Jangan kaget Sabtu strength tambah berat — base udah naik.",
       "log_text": [
         "",
@@ -2653,7 +2653,29 @@
         "",
         "**Catatan audit:** Easy run 7km + tempo kemarin + strength sabtu + long run minggu = 32km on track. Tapi pace easy sekarang udah mendekati easy minggu 2 tempo pace. Adaptasi jalan. Jangan kaget Sabtu strength tambah berat — base udah naik.",
         "",
-        "**Lusa Jumat:** Easy 7km @ HR 145-155 🟢",
+        "---",
+        "",
+        "**🗓️ Sore — Bodyweight Strength (Swap dari Sabtu)**",
+        "",
+        "**Gerakan:** Bodyweight Standard Minggu 5-6",
+        "| Gerakan | Set x Reps | Catatan |",
+        "|---------|-----------|---------|",
+        "| Bodyweight Squat | 3×18 | ✅ Completed |",
+        "| Reverse Lunge | 3×10/kaki | ✅ Completed |",
+        "| Push Up (knee) | 3×10 | ✅ Completed |",
+        "| Plank | 3×45 dtk | ✅ Completed |",
+        "| Single Leg Calf Raise | 3×12/kaki | ✅ Completed |",
+        "",
+        "**Data:**",
+        "| Metrik | Nilai |",
+        "|--------|-------|",
+        "| RPE | 7/10 |",
+        "| Peak HR | 137 bpm |",
+        "| Keluhan | Tidak ada |",
+        "",
+        "**Assessment:** 5 gerakan × 3 set full, RPE 7, HR puncak cuma 137. Ini strength yang solid — challenging tapi gak over-exertion. Push Up knee 3×10 stabil (dari minggu awal yg cuma 2×5 regular push up — progress 3× lipat). Calf Raise gerakan baru, gak ada masalah.",
+        "",
+        "**Catatan:** Sesi ini swap dari Sabtu. Sabtu jadi rest full.",
         "",
         "---",
         ""
@@ -2752,53 +2774,7 @@
               "✅ Finis strong, HR malah turun"
             ]
           ]
-        }
-      ],
-      "key_value": {
-        "Target": "7km @ HR 145-155",
-        "Ringkasan": "",
-        "Split": "",
-        "Perbandingan easy run di hari yang sama (Rabo/Kamis)": "",
-        "Progresi pace easy per minggu": "",
-        "Lompatan M4→M5 ini sebagian karena route effect (banyak turunan di km 5-6": "pace 7:00. Tapi HR cuma 152-153 — tandanya kontrol bukan keberuntungan. Kalo HR naik ke 158+ di pace 7:00, baru berarti overshoot.)",
-        "Lusa Jumat": "Easy 7km @ HR 145-155 🟢"
-      },
-      "iso_date": "2026-07-09",
-      "week_number": 5
-    },
-    {
-      "day_name": "Kamis",
-      "date_str": "9 Juli 2026",
-      "title": "Sore: Bodyweight Strength (Swap dari Sabtu)",
-      "date": "2026-07-09",
-      "assessment": "5 gerakan × 3 set full, RPE 7, HR puncak cuma 137. Ini strength yang solid — challenging tapi gak over-exertion. Push Up knee 3×10 stabil (dari minggu awal yg cuma 2×5 regular push up — progress 3× lipat). Calf Raise gerakan baru, gak ada masalah.",
-      "catatan_audit": "",
-      "log_text": [
-        "",
-        "**Gerakan:** Bodyweight Standard Minggu 5-6",
-        "| Gerakan | Set x Reps | Catatan |",
-        "|---------|-----------|---------|",
-        "| Bodyweight Squat | 3×18 | ✅ Completed |",
-        "| Reverse Lunge | 3×10/kaki | ✅ Completed |",
-        "| Push Up (knee) | 3×10 | ✅ Completed |",
-        "| Plank | 3×45 dtk | ✅ Completed |",
-        "| Single Leg Calf Raise | 3×12/kaki | ✅ Completed |",
-        "",
-        "**Data:**",
-        "| Metrik | Nilai |",
-        "|--------|-------|",
-        "| RPE | 7/10 |",
-        "| Peak HR | 137 bpm |",
-        "| Keluhan | Tidak ada |",
-        "",
-        "**Assessment:** 5 gerakan × 3 set full, RPE 7, HR puncak cuma 137. Ini strength yang solid — challenging tapi gak over-exertion. Push Up knee 3×10 stabil (dari minggu awal yg cuma 2×5 regular push up — progress 3× lipat). Calf Raise gerakan baru, gak ada masalah.",
-        "",
-        "**Catatan:** Sesi ini swap dari Sabtu. Sabtu jadi rest full.",
-        "",
-        "---",
-        ""
-      ],
-      "tables": [
+        },
         {
           "header": [
             "Gerakan",
@@ -2855,6 +2831,12 @@
         }
       ],
       "key_value": {
+        "Target": "7km @ HR 145-155",
+        "Ringkasan": "",
+        "Split": "",
+        "Perbandingan easy run di hari yang sama (Rabo/Kamis)": "",
+        "Progresi pace easy per minggu": "",
+        "Lompatan M4→M5 ini sebagian karena route effect (banyak turunan di km 5-6": "pace 7:00. Tapi HR cuma 152-153 — tandanya kontrol bukan keberuntungan. Kalo HR naik ke 158+ di pace 7:00, baru berarti overshoot.)",
         "Gerakan": "Bodyweight Standard Minggu 5-6",
         "Data": "",
         "Catatan": "Sesi ini swap dari Sabtu. Sabtu jadi rest full."
