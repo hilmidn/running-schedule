@@ -2891,6 +2891,25 @@
       "week_number": 5
     },
     {
+      "day_name": "Selasa",
+      "date_str": "7 Juli 2026",
+      "title": "Rest (Revised Week 5)",
+      "date": "2026-07-07",
+      "assessment": "",
+      "catatan_audit": "",
+      "log_text": [
+        "",
+        "Rest total. Catch up sleep — prioritas recovery setelah kurang tidur.",
+        "",
+        "---",
+        ""
+      ],
+      "tables": [],
+      "key_value": {},
+      "iso_date": "2026-07-07",
+      "week_number": 5
+    },
+    {
       "day_name": "Rabu",
       "date_str": "8 Juli 2026",
       "title": "Tempo B 2×15' (Revised Week 5)",
