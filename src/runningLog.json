@@ -3339,6 +3339,161 @@
       },
       "iso_date": "2026-07-09",
       "week_number": 5
+    },
+    {
+      "day_name": "Jumat",
+      "date_str": "10 Juli 2026",
+      "title": "Easy 7km Recovery",
+      "date": "2026-07-10",
+      "assessment": "",
+      "catatan_audit": "",
+      "log_text": [
+        "",
+        "**Target:** 7km @ HR 140-150 (recovery)",
+        "",
+        "**Ringkasan:**",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 147 bpm | 140-150 | ✅ **Tepat di zona recovery** |",
+        "| Max HR | 156 bpm | <150 | ⚠️ Km 2 bukit overshoot |",
+        "| Pace | 7:40/km | bebas | ✅ Recovery pace — terkendali |",
+        "| Durasi | 53:50 | 7km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|----|----|---------|",
+        "| 1 | 8:33 | 131 | +8 | ✅ Start sempurna |",
+        "| 2 | 8:15 | 147 | +16 | ✅ Bukit, HR pas di batas atas recovery |",
+        "| 3 | 7:32 | 151 | +2 | ⚠️ Overshoot tipis (1 bpm) |",
+        "| 4 | 7:17 | 152 | -4 | ⚠️ Masih di atas 150, stabil |",
+        "| 5 | 7:11 | 150 | -16 | ✅ Turunan, tepat di batas |",
+        "| 6 | 7:17 | 151 | -7 | ⚠️ Overshoot tipis (1 bpm) |",
+        "| 7 | 7:32 | 150 | -1 | ✅ Finis pas di batas |",
+        "",
+        "**Assessment:**",
+        "",
+        "**Recovery run on point.** Avg HR 147 — tepat di zona recovery. Km 5-7 pace 7:11-7:32 dgn HR 150-151 — controlled, bukan ngejar pace. Perbandingan back-to-back:",
+        "",
+        "| Hari | Pace | Avg HR |",
+        "|------|------|--------|",
+        "| Kamis | 7:27 | 148 |",
+        "| **Jumat** | **7:40** | **147** |",
+        "",
+        "+13 detik lebih lambat, HR nyaris sama — recovery, bukan loss fitness. Setelah bodyweight kemarin sore, ini expected.",
+        "",
+        "**Volume minggu ini:** Tempo ~6km + Easy 7km + Easy 7km + Long 12km = **~32km ✅** — target Week 5 on track.",
+        "",
+        "**Besok Sabtu:** Rest full.",
+        "**Minggu:** Long 12km @ HR 145-155 — kunci minggu. 🔥",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "147 bpm",
+              "140-150",
+              "✅ **Tepat di zona recovery**"
+            ],
+            [
+              "Max HR",
+              "156 bpm",
+              "<150",
+              "⚠️ Km 2 bukit overshoot"
+            ],
+            [
+              "Pace",
+              "7:40/km",
+              "bebas",
+              "✅ Recovery pace — terkendali"
+            ],
+            [
+              "Durasi",
+              "53:50",
+              "7km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:33",
+              "131",
+              "+8",
+              "✅ Start sempurna"
+            ],
+            [
+              "2",
+              "8:15",
+              "147",
+              "+16",
+              "✅ Bukit, HR pas di batas atas recovery"
+            ],
+            [
+              "3",
+              "7:32",
+              "151",
+              "+2",
+              "⚠️ Overshoot tipis (1 bpm)"
+            ],
+            [
+              "4",
+              "7:17",
+              "152",
+              "-4",
+              "⚠️ Masih di atas 150, stabil"
+            ],
+            [
+              "5",
+              "7:11",
+              "150",
+              "-16",
+              "✅ Turunan, tepat di batas"
+            ],
+            [
+              "6",
+              "7:17",
+              "151",
+              "-7",
+              "⚠️ Overshoot tipis (1 bpm)"
+            ],
+            [
+              "7",
+              "7:32",
+              "150",
+              "-1",
+              "✅ Finis pas di batas"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "7km @ HR 140-150 (recovery)",
+        "Ringkasan": "",
+        "Split": "",
+        "Volume minggu ini": "Tempo ~6km + Easy 7km + Easy 7km + Long 12km = **~32km ✅** — target Week 5 on track.",
+        "Besok Sabtu": "Rest full.",
+        "Minggu": "Long 12km @ HR 145-155 — kunci minggu. 🔥"
+      },
+      "iso_date": "2026-07-10",
+      "week_number": 5
     }
   ]
 }
