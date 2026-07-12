@@ -3386,6 +3386,8 @@
         "",
         "**Besok Sabtu:** Rest full.",
         "**Minggu:** Long 12km @ HR 145-155 — kunci minggu. 🔥",
+        "",
+        "---",
         ""
       ],
       "tables": [
@@ -3493,6 +3495,227 @@
         "Minggu": "Long 12km @ HR 145-155 — kunci minggu. 🔥"
       },
       "iso_date": "2026-07-10",
+      "week_number": 5
+    },
+    {
+      "day_name": "Minggu",
+      "date_str": "12 Juli 2026",
+      "title": "Long Run 12km (Week 5, Disrupted Revised)",
+      "date": "2026-07-12",
+      "assessment": "",
+      "catatan_audit": "Minggu 5 disrupted (tidur, jadwal geser) selesai dengan long run terbaik. Volume 32km tercapai. FASE 2 mulai dengan solid. Week 6 balik ke track normal: Tempo A 25', Easy 6km, Easy 7km, Long 13km.",
+      "log_text": [
+        "",
+        "**Target:** 12km @ HR 145-155",
+        "",
+        "**Ringkasan:**",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 151 bpm | 145-155 | ✅ Z2 sempurna |",
+        "| Max HR | 160 bpm | max 155 | ⚠️ Km 11 bukit +20m overshoot |",
+        "| Pace | 7:28/km | bebas | ✅ **25 detik lebih cepat dari Week 4** |",
+        "| Durasi | 1:30:00 | 12km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|----|----|---------|",
+        "| 1 | 8:41 | 137 | +8 | ✅ Start ideal |",
+        "| 2 | 8:35 | 145 | +16 | ✅ Bukit, masuk Z2 |",
+        "| 3 | 7:24 | 150 | +2 | ✅ Stabil di Z2 |",
+        "| 4 | 7:04 | 155 | -4 | ✅ Turunan, HR pas batas atas |",
+        "| 5 | 6:53 | 151 | -16 | ✅ Turunan, HR malah turun |",
+        "| 6 | 7:00 | 152 | -7 | ✅ Stabil |",
+        "| 7 | 6:38 | 153 | -20 | ✅ Turunan, HR stabil |",
+        "| 8 | 6:52 | 152 | -21 | ✅ Turunan curam, HR stabil |",
+        "| 9 | 6:47 | 152 | -26 | ✅ Turunan -26m, HR tetap 152 |",
+        "| 10 | 7:32 | 155 | +23 | ✅ Bukit +23m, HR terkendali |",
+        "| 11 | 8:03 | 156 | +20 | ⚠️ Bukit +20m, max 160 overshoot |",
+        "| 12 | 8:01 | 154 | +20 | ✅ Finis strong, HR turun lagi |",
+        "",
+        "**Perbandingan Long Run tiap minggu:**",
+        "",
+        "| Minggu | Jarak | Pace | Avg HR | Max HR | Catatan |",
+        "|--------|-------|------|--------|--------|---------|",
+        "| 1 | 8km | 8:18 | 151 | 158 | Baseline |",
+        "| 2 | 9km | 7:48 | 149 | 159 | -30 detik, -2 bpm |",
+        "| 3 | 10km | 8:15 | 150 | 161 | Flu ringan |",
+        "| 4 | 11km | 7:53 | 150 | 161 | PR 11km |",
+        "| **5** | **12km** | **7:28** | **151** | **160** | **PR Jarak + Pace 🏆** |",
+        "",
+        "**Assessment:**",
+        "",
+        "**Long run terbaik sepanjang program.** Minggu 4→5: +1km, -25 detik, +1 bpm. Itu progres bersih.",
+        "",
+        "**Pola rute dan HR:**",
+        "",
+        "```",
+        "Km 1-2:  uphill (+8 → +16m)  → pace 8:35-8:41, HR 137-145 — warmup sempurna",
+        "Km 3-5:  plateau/turunan       → pace 6:53-7:24, HR 150-155",
+        "Km 6-9:  downhill curam (-7 → -26m) → pace 6:38-7:00, HR 152-153 — LOCKED IN Z2",
+        "Km 10-12: uphill return (+20-23m)  → pace 7:32-8:03, HR 154-156",
+        "```",
+        "",
+        "**Yang paling impressive: Km 6-9.** Elevasi curam (-20, -21, -26m) — pace 6:38-6:52, tapi HR **terkunci di 152-153.** Gak naik walau pace tembus 6:38. Ini tanda **efisiensi aerobik udah naik level.** Sistem kardio gak perlu bekerja lebih keras meski pace lebih cepat — tubuh udah bisa handle pace sub-7:00 di Z2 di downhill.",
+        "",
+        "**Km 10-12 uphill return** — pace 7:32-8:03, HR 154-156. Bukit +20-23m, tapi HR cuma overshoot ke 160 sekali di km 11. Finis di km 12 HR malah turun ke 154 — finishing controlled.",
+        "",
+        "**Caveat:** Pace 7:28 partially route-assisted (banyak turunan di km 6-9). Tapi HR tetap stabil — berarti bukan cuma gravity, aerobik beneran handling pace itu.",
+        "",
+        "**Vs Week 4 long run:**",
+        "",
+        "| | Week 4 (11km) | Week 5 (12km) | Delta |",
+        "|--|--------------|---------------|-------|",
+        "| Pace | 7:53 | 7:28 | -25 detik |",
+        "| Avg HR | 150 | 151 | +1 bpm |",
+        "| Max HR | 161 (bukit +46m) | 160 (bukit +20m) | -1 bpm |",
+        "",
+        "+1km, -25 detik, +1 bpm. Fair comparison karena Week 4 juga ada downhill section. Progress real.",
+        "",
+        "**Catatan audit:** Minggu 5 disrupted (tidur, jadwal geser) selesai dengan long run terbaik. Volume 32km tercapai. FASE 2 mulai dengan solid. Week 6 balik ke track normal: Tempo A 25', Easy 6km, Easy 7km, Long 13km.",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "151 bpm",
+              "145-155",
+              "✅ Z2 sempurna"
+            ],
+            [
+              "Max HR",
+              "160 bpm",
+              "max 155",
+              "⚠️ Km 11 bukit +20m overshoot"
+            ],
+            [
+              "Pace",
+              "7:28/km",
+              "bebas",
+              "✅ **25 detik lebih cepat dari Week 4**"
+            ],
+            [
+              "Durasi",
+              "1:30:00",
+              "12km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:41",
+              "137",
+              "+8",
+              "✅ Start ideal"
+            ],
+            [
+              "2",
+              "8:35",
+              "145",
+              "+16",
+              "✅ Bukit, masuk Z2"
+            ],
+            [
+              "3",
+              "7:24",
+              "150",
+              "+2",
+              "✅ Stabil di Z2"
+            ],
+            [
+              "4",
+              "7:04",
+              "155",
+              "-4",
+              "✅ Turunan, HR pas batas atas"
+            ],
+            [
+              "5",
+              "6:53",
+              "151",
+              "-16",
+              "✅ Turunan, HR malah turun"
+            ],
+            [
+              "6",
+              "7:00",
+              "152",
+              "-7",
+              "✅ Stabil"
+            ],
+            [
+              "7",
+              "6:38",
+              "153",
+              "-20",
+              "✅ Turunan, HR stabil"
+            ],
+            [
+              "8",
+              "6:52",
+              "152",
+              "-21",
+              "✅ Turunan curam, HR stabil"
+            ],
+            [
+              "9",
+              "6:47",
+              "152",
+              "-26",
+              "✅ Turunan -26m, HR tetap 152"
+            ],
+            [
+              "10",
+              "7:32",
+              "155",
+              "+23",
+              "✅ Bukit +23m, HR terkendali"
+            ],
+            [
+              "11",
+              "8:03",
+              "156",
+              "+20",
+              "⚠️ Bukit +20m, max 160 overshoot"
+            ],
+            [
+              "12",
+              "8:01",
+              "154",
+              "+20",
+              "✅ Finis strong, HR turun lagi"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "12km @ HR 145-155",
+        "Ringkasan": "",
+        "Split": "",
+        "Perbandingan Long Run tiap minggu": "",
+        "Pola rute dan HR": "",
+        "Caveat": "Pace 7:28 partially route-assisted (banyak turunan di km 6-9). Tapi HR tetap stabil — berarti bukan cuma gravity, aerobik beneran handling pace itu.",
+        "Vs Week 4 long run": ""
+      },
+      "iso_date": "2026-07-12",
       "week_number": 5
     }
   ]
