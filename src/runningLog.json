@@ -3717,6 +3717,103 @@
       },
       "iso_date": "2026-07-12",
       "week_number": 5
+    },
+    {
+      "day_name": "Senin",
+      "date_str": "13 Juli 2026",
+      "title": "Strength Full (Minggu 6)",
+      "date": "2026-07-13",
+      "assessment": "Consistency sempurna. 5 minggu berturut-turut dengan pattern yang sama: 5 gerakan × 3 set, RPE 7, HR peak 137-138. Tubuh udah fully adapted ke volume strength bodyweight. Push Up knee 3×10 stabil — zero regression.",
+      "catatan_audit": "",
+      "log_text": [
+        "",
+        "**Gerakan:** Bodyweight Standard Minggu 5-12",
+        "",
+        "| Gerakan | Set × Reps | Status |",
+        "|---------|-----------|--------|",
+        "| Bodyweight Squat | 3 × 18 | ✅ |",
+        "| Reverse Lunge | 3 × 10/kaki | ✅ |",
+        "| Push Up (knee) | 3 × 10 | ✅ |",
+        "| Plank | 3 × 45 dtk | ✅ |",
+        "| Single Leg Calf Raise | 3 × 12/kaki | ✅ |",
+        "",
+        "**Data:**",
+        "| Metrik | Nilai |",
+        "|--------|-------|",
+        "| RPE | 7/10 |",
+        "| Peak HR | 138 bpm |",
+        "| Keluhan | Tidak ada |",
+        "",
+        "**Assessment:** Consistency sempurna. 5 minggu berturut-turut dengan pattern yang sama: 5 gerakan × 3 set, RPE 7, HR peak 137-138. Tubuh udah fully adapted ke volume strength bodyweight. Push Up knee 3×10 stabil — zero regression. ",
+        "",
+        "**Catatan:** Minggu 6 balik normal. Ini sesi pertama setelah Week 5 disrupted. No DOMS expected — tanda adaptasi. Besok Selasa Tempo A 25' @ HR 160-165. Siapin mental. 🔥",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set × Reps",
+            "Status"
+          ],
+          "rows": [
+            [
+              "Bodyweight Squat",
+              "3 × 18",
+              "✅"
+            ],
+            [
+              "Reverse Lunge",
+              "3 × 10/kaki",
+              "✅"
+            ],
+            [
+              "Push Up (knee)",
+              "3 × 10",
+              "✅"
+            ],
+            [
+              "Plank",
+              "3 × 45 dtk",
+              "✅"
+            ],
+            [
+              "Single Leg Calf Raise",
+              "3 × 12/kaki",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Metrik",
+            "Nilai"
+          ],
+          "rows": [
+            [
+              "RPE",
+              "7/10"
+            ],
+            [
+              "Peak HR",
+              "138 bpm"
+            ],
+            [
+              "Keluhan",
+              "Tidak ada"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Gerakan": "Bodyweight Standard Minggu 5-12",
+        "Data": "",
+        "Catatan": "Minggu 6 balik normal. Ini sesi pertama setelah Week 5 disrupted. No DOMS expected — tanda adaptasi. Besok Selasa Tempo A 25' @ HR 160-165. Siapin mental. 🔥"
+      },
+      "iso_date": "2026-07-13",
+      "week_number": 6
     }
   ]
 }
