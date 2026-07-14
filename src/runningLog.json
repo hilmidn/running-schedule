@@ -3748,7 +3748,7 @@
         "",
         "**Catatan:** Minggu 6 balik normal. Ini sesi pertama setelah Week 5 disrupted. No DOMS expected — tanda adaptasi. Besok Selasa Tempo A 25' @ HR 160-165. Siapin mental. 🔥",
         "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -3813,6 +3813,166 @@
         "Catatan": "Minggu 6 balik normal. Ini sesi pertama setelah Week 5 disrupted. No DOMS expected — tanda adaptasi. Besok Selasa Tempo A 25' @ HR 160-165. Siapin mental. 🔥"
       },
       "iso_date": "2026-07-13",
+      "week_number": 6
+    },
+    {
+      "day_name": "Selasa",
+      "date_str": "14 Juli 2026",
+      "title": "Tempo A 25' (Minggu 6)",
+      "date": "2026-07-14",
+      "assessment": "",
+      "catatan_audit": "Sub-6 tempo pace di Week 6 dengan HR 163 adalah milestone. Ini means HM pace 6:15-6:25 possible di race — konservatif. Dengan 6 minggu lagi, sub-6:10/km even possible. Tapi reminder: jangan max effort di setiap tempo. 85-90% effort. Simpan PR buat race day.",
+      "log_text": [
+        "",
+        "**Target:** 25' continuous @ HR 160-165",
+        "",
+        "**Ringkasan:**",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Durasi | 25:00 | 25' | ✅ |",
+        "| Jarak | 3.91km | — | ✅ |",
+        "| Avg HR | 158 bpm | 160-165 | ⚠️ Km 1 nge-drop HR |",
+        "| Max HR | 170 bpm | 165 | ⚠️ Bukit +17m overshoot |",
+        "| Pace | 6:22/km | bebas | ✅ **PR tempo pace** |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | EG | HR | Catatan |",
+        "|----|------|----|----|---------|",
+        "| 1 | 7:07 | +7 | 146 | ⚠️ Warmup masih jalan |",
+        "| 2 | 6:31 | +17 | 162 | ✅ Bukit +17m, HR masuk zona |",
+        "| 3 | 5:55 | -15 | 163 | ✅ **Sub-6!** Turunan, di zona |",
+        "| 0.91 | 5:55 | -12 | 163 | ✅ Locked di 5:55 |",
+        "",
+        "**Progresi Tempo A (continuous):**",
+        "",
+        "| Minggu | Hari | Durasi | Pace | Avg HR | Max HR | Format |",
+        "|--------|------|--------|------|--------|--------|--------|",
+        "| 1 | Selasa | 20' | 6:47 | 162 | 163 | A — 20' |",
+        "| 2 | Selasa | 22' | 6:33 | 163 | 170 | A — 22' |",
+        "| 3 | Selasa | 25' | ±6:40 | ~161 | — | A — 25' |",
+        "| **6** | **Selasa** | **25'** | **6:22** | **158** | **170** | **A — 25'** ⬆️ |",
+        "",
+        "**Assessment:**",
+        "",
+        "**Pace 6:22 — PR tempo pace sepanjang program.** Dari Week 3 ke Week 6: durasi sama (25'), pace turun 18 detik, HR **lebih rendah** (158 vs ~161). Artinya: efisiensi aerobik naik — lebih cepat di HR lebih rendah.",
+        "",
+        "**Sub-6 unlocked.** Km 3 dan sisa tembus 5:55. Ini pertama kali pace 5:xx dicapai dalam sesi tempo sepanjang program. Meskipun route-assisted (turunan -12, -15m), HR 163 — tepat di zona target. Bukan overshoot.",
+        "",
+        "**Km 1 HR 146:** start konservatif — smart move setelah Week 5 disrupted. Tapi HR baru masuk zona di km 2. Next continuous tempo bisa start sedikit lebih agresif di km 1 biar HR target tercapai lebih awal.",
+        "",
+        "**Max HR 170:** di km 2 bukit +17m. Overshoot 5 bpm dari target — tapi km 3 langsung stabil di 163. Respons cepat, bukan drift.",
+        "",
+        "**VO2Max update:** 40 → **41.** Naik setelah long run Week 5. VO2Max 41 di Week 6 puts lu on track buat target HM 2:12-2:20.",
+        "",
+        "**Progresi 6 minggu:**",
+        "```",
+        "Tempo pace: 6:47 → 6:33 → 6:40 → 6:46 (circuit) → 6:22 (PR)",
+        "Long run pace: 8:18 → 7:48 → 8:15 → 7:53 → 7:28 (PR)",
+        "Easy pace: 7:58 → 8:08 → 7:55 → 7:48 → 7:27 (PR)",
+        "VO2Max: 37 → 41",
+        "```",
+        "",
+        "**Catatan audit:** Sub-6 tempo pace di Week 6 dengan HR 163 adalah milestone. Ini means HM pace 6:15-6:25 possible di race — konservatif. Dengan 6 minggu lagi, sub-6:10/km even possible. Tapi reminder: jangan max effort di setiap tempo. 85-90% effort. Simpan PR buat race day.",
+        "",
+        "**Besok Rabu:** Easy 6km @ HR 145-155 🟢",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Durasi",
+              "25:00",
+              "25'",
+              "✅"
+            ],
+            [
+              "Jarak",
+              "3.91km",
+              "—",
+              "✅"
+            ],
+            [
+              "Avg HR",
+              "158 bpm",
+              "160-165",
+              "⚠️ Km 1 nge-drop HR"
+            ],
+            [
+              "Max HR",
+              "170 bpm",
+              "165",
+              "⚠️ Bukit +17m overshoot"
+            ],
+            [
+              "Pace",
+              "6:22/km",
+              "bebas",
+              "✅ **PR tempo pace**"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "EG",
+            "HR",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "7:07",
+              "+7",
+              "146",
+              "⚠️ Warmup masih jalan"
+            ],
+            [
+              "2",
+              "6:31",
+              "+17",
+              "162",
+              "✅ Bukit +17m, HR masuk zona"
+            ],
+            [
+              "3",
+              "5:55",
+              "-15",
+              "163",
+              "✅ **Sub-6!** Turunan, di zona"
+            ],
+            [
+              "0.91",
+              "5:55",
+              "-12",
+              "163",
+              "✅ Locked di 5:55"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "25' continuous @ HR 160-165",
+        "Ringkasan": "",
+        "Split": "",
+        "Progresi Tempo A (continuous)": "",
+        "Km 1 HR 146": "start konservatif — smart move setelah Week 5 disrupted. Tapi HR baru masuk zona di km 2. Next continuous tempo bisa start sedikit lebih agresif di km 1 biar HR target tercapai lebih awal.",
+        "Max HR 170": "di km 2 bukit +17m. Overshoot 5 bpm dari target — tapi km 3 langsung stabil di 163. Respons cepat, bukan drift.",
+        "VO2Max update": "40 → **41.** Naik setelah long run Week 5. VO2Max 41 di Week 6 puts lu on track buat target HM 2:12-2:20.",
+        "Progresi 6 minggu": "",
+        "Besok Rabu": "Easy 6km @ HR 145-155 🟢"
+      },
+      "iso_date": "2026-07-14",
       "week_number": 6
     }
   ]
