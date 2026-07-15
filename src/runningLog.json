@@ -3877,7 +3877,7 @@
         "",
         "**Besok Rabu:** Easy 6km @ HR 145-155 🟢",
         "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -3973,6 +3973,167 @@
         "Besok Rabu": "Easy 6km @ HR 145-155 🟢"
       },
       "iso_date": "2026-07-14",
+      "week_number": 6
+    },
+    {
+      "day_name": "Rabu",
+      "date_str": "15 Juli 2026",
+      "title": "Easy 6km (Minggu 6)",
+      "date": "2026-07-15",
+      "assessment": "",
+      "catatan_audit": "Tempo kemarin sub-6 di km 3, easy hari ini balik ke 7:58 dengan HR 143 — **discipline split antara hard session dan easy session.** Ini tanda lu udah paham: easy = easy, hard = hard. Jangan tergoda narik pace di easy day.",
+      "log_text": [
+        "",
+        "**Target:** 6km @ HR 145-155 — user set alert di 148",
+        "",
+        "**Ringkasan:**",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 143 bpm | 145-155 | ✅ Recovery Z1-Z2 |",
+        "| Max HR | 151 bpm | <148 | ⚠️ Overshoot sesaat, gak kena alert |",
+        "| Pace | 7:58/km | bebas | ✅ Recovery pace ideal |",
+        "| Durasi | 48:01 | 6km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|----|----|---------|",
+        "| 1 | 8:33 | 132 | +8 | ✅ Start di Z1 |",
+        "| 2 | 8:46 | 145 | +16 | ✅ Bukit +16m, masuk Z2 pelan |",
+        "| 3 | 8:05 | 146 | +2 | ✅ Stabil |",
+        "| 4 | 7:39 | 148 | -4 | ✅ Turunan, HR di batas atas |",
+        "| 5 | 7:21 | 146 | -16 | ✅ Turunan -16m, HR turun! |",
+        "| 6 | 7:24 | 146 | -7 | ✅ Finis strong, HR stabil |",
+        "",
+        "**Assessment:**",
+        "",
+        "**Recovery on point.** Ini easy run paling \"easy\" dari semua setelah lompatan pace di minggu 5. 7:58 — kembali ke baseline Week 1 pace, tapi HR cuma 143 (Week 1: 7:58 @ HR 150). Artinya: tubuh butuh 8:00/km di HR 143 untuk recovery. 7 bpm lebih rendah di pace yang sama = efisiensi naik.",
+        "",
+        "**Km 2 bukit +16m:** pace 8:46, HR cuma 145 — controlled. Dulu Week 1 bukit yang sama HR 153. Adaptasi jelas.",
+        "",
+        "**Km 5-6:** pace 7:21-7:24, HR malah turun ke 146 di downhill. Tandanya gak ada fatigue carry-over dari tempo kemarin.",
+        "",
+        "**Perbandingan easy Rabu:**",
+        "",
+        "| Minggu | Pace | Avg HR | Max HR |",
+        "|--------|------|--------|--------|",
+        "| 1 | 7:58 | 150 | 159 |",
+        "| 2 | 8:08 | 147 | 156 |",
+        "| 3 | 7:55 | 149 | 157 |",
+        "| 4 | 7:48 | 148 | 158 |",
+        "| 5 | — | — | — |",
+        "| **6** | **7:58** | **143** | **151** |",
+        "",
+        "Pace 7:58 sama dengan Week 1, tapi HR 7 bpm lebih rendah. **Different athlete.** Week 1 HR 150, Week 6 HR 143 di pace yang sama.",
+        "",
+        "**Catatan audit:** Tempo kemarin sub-6 di km 3, easy hari ini balik ke 7:58 dengan HR 143 — **discipline split antara hard session dan easy session.** Ini tanda lu udah paham: easy = easy, hard = hard. Jangan tergoda narik pace di easy day.",
+        "",
+        "**Besok Kamis:** Strength Full 💪",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "143 bpm",
+              "145-155",
+              "✅ Recovery Z1-Z2"
+            ],
+            [
+              "Max HR",
+              "151 bpm",
+              "<148",
+              "⚠️ Overshoot sesaat, gak kena alert"
+            ],
+            [
+              "Pace",
+              "7:58/km",
+              "bebas",
+              "✅ Recovery pace ideal"
+            ],
+            [
+              "Durasi",
+              "48:01",
+              "6km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:33",
+              "132",
+              "+8",
+              "✅ Start di Z1"
+            ],
+            [
+              "2",
+              "8:46",
+              "145",
+              "+16",
+              "✅ Bukit +16m, masuk Z2 pelan"
+            ],
+            [
+              "3",
+              "8:05",
+              "146",
+              "+2",
+              "✅ Stabil"
+            ],
+            [
+              "4",
+              "7:39",
+              "148",
+              "-4",
+              "✅ Turunan, HR di batas atas"
+            ],
+            [
+              "5",
+              "7:21",
+              "146",
+              "-16",
+              "✅ Turunan -16m, HR turun!"
+            ],
+            [
+              "6",
+              "7:24",
+              "146",
+              "-7",
+              "✅ Finis strong, HR stabil"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "6km @ HR 145-155 — user set alert di 148",
+        "Ringkasan": "",
+        "Split": "",
+        "Km 2 bukit +16m": "pace 8:46, HR cuma 145 — controlled. Dulu Week 1 bukit yang sama HR 153. Adaptasi jelas.",
+        "Km 5-6": "pace 7:21-7:24, HR malah turun ke 146 di downhill. Tandanya gak ada fatigue carry-over dari tempo kemarin.",
+        "Perbandingan easy Rabu": "",
+        "Besok Kamis": "Strength Full 💪"
+      },
+      "iso_date": "2026-07-15",
       "week_number": 6
     }
   ]
