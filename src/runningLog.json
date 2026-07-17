@@ -4172,9 +4172,7 @@
         "",
         "**Besok Jumat:** Easy 7km @ HR 145-155 🟢",
         "",
-        "",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -4245,6 +4243,171 @@
         "Besok Jumat": "Easy 7km @ HR 145-155 🟢"
       },
       "iso_date": "2026-07-16",
+      "week_number": 6
+    },
+    {
+      "day_name": "Jumat",
+      "date_str": "17 Juli 2026",
+      "title": "Easy 7km (Minggu 6)",
+      "date": "2026-07-17",
+      "assessment": "",
+      "catatan_audit": "Week 6 selesai 100% — 2 strength + 3 running (Tempo 6:22 PR, Easy 6km, Easy 7km). Volume: ~34km sesuai target. VO2Max 41. HM trajectory solid.",
+      "log_text": [
+        "",
+        "**Target:** 7km @ HR 145-155",
+        "",
+        "**Ringkasan:**",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 149 bpm | 145-155 | ✅ Z2 |",
+        "| Max HR | 160 bpm | max 155 | ⚠️ Km 7 overshoot sesaat |",
+        "| Pace | 7:26/km | bebas | ✅ |",
+        "| Durasi | 50:25 | 7km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|----|----|---------|",
+        "| 1 | 8:13 | 133 | +8 | ✅ Start pelan |",
+        "| 2 | 7:47 | 150 | +16 | ✅ Bukit, masuk Z2 |",
+        "| 3 | 7:45 | 153 | +2 | ✅ Stabil |",
+        "| 4 | 7:30 | 153 | -4 | ✅ Turunan, HR stabil |",
+        "| 5 | 7:00 | 152 | -16 | ✅ Turunan, controlled |",
+        "| 6 | 6:38 | 150 | -14 | ✅ Pace agresif, HR tetap rendah |",
+        "| 7 | 7:02 | 152 | +6 | ⚠️ Overshoot 160, dikoreksi <1 menit |",
+        "",
+        "**Perbandingan Easy 7km (Week 5 vs 6):**",
+        "",
+        "| | Week 5 (Kamis) | Week 6 (Jumat) |",
+        "|--|----------------|----------------|",
+        "| Pace | 7:27 | 7:26 |",
+        "| Avg HR | 148 | 149 |",
+        "| Max HR | 159 | 160 |",
+        "",
+        "Identik. Pace 7:26 stabil, HR 149 — metabolic efficiency udah konsisten di level baru.",
+        "",
+        "**Assessment:**",
+        "",
+        "**Week 6 penutup dengan easy run terkontrol.** Avg HR 149, pace 7:26 — sama dengan Week 5. Km 6 pace 6:38 dgn HR 150 — efisiensi aerobik mengagumkan: turunan -14m, pace tembus 6:38, tapi HR malah turun ke 150. Sistem kardio gak ikut ngebut.",
+        "",
+        "**Km 7 overshoot 160:** lu sadar, langsung turunin pace, <1 menit. HR balik ke 152. Ini self-correction instingtif — tanda kontrol HR udah jadi habit, bukan cuma ngikutin jam. Good.",
+        "",
+        "**Catatan audit:** Week 6 selesai 100% — 2 strength + 3 running (Tempo 6:22 PR, Easy 6km, Easy 7km). Volume: ~34km sesuai target. VO2Max 41. HM trajectory solid.",
+        "",
+        "**Besok Sabtu:** Rest.",
+        "**Minggu:** Long 13km @ HR 145-155 — naik dari 12km. 🏃",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "149 bpm",
+              "145-155",
+              "✅ Z2"
+            ],
+            [
+              "Max HR",
+              "160 bpm",
+              "max 155",
+              "⚠️ Km 7 overshoot sesaat"
+            ],
+            [
+              "Pace",
+              "7:26/km",
+              "bebas",
+              "✅"
+            ],
+            [
+              "Durasi",
+              "50:25",
+              "7km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:13",
+              "133",
+              "+8",
+              "✅ Start pelan"
+            ],
+            [
+              "2",
+              "7:47",
+              "150",
+              "+16",
+              "✅ Bukit, masuk Z2"
+            ],
+            [
+              "3",
+              "7:45",
+              "153",
+              "+2",
+              "✅ Stabil"
+            ],
+            [
+              "4",
+              "7:30",
+              "153",
+              "-4",
+              "✅ Turunan, HR stabil"
+            ],
+            [
+              "5",
+              "7:00",
+              "152",
+              "-16",
+              "✅ Turunan, controlled"
+            ],
+            [
+              "6",
+              "6:38",
+              "150",
+              "-14",
+              "✅ Pace agresif, HR tetap rendah"
+            ],
+            [
+              "7",
+              "7:02",
+              "152",
+              "+6",
+              "⚠️ Overshoot 160, dikoreksi <1 menit"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "7km @ HR 145-155",
+        "Ringkasan": "",
+        "Split": "",
+        "Perbandingan Easy 7km (Week 5 vs 6)": "",
+        "Km 7 overshoot 160": "lu sadar, langsung turunin pace, <1 menit. HR balik ke 152. Ini self-correction instingtif — tanda kontrol HR udah jadi habit, bukan cuma ngikutin jam. Good.",
+        "Besok Sabtu": "Rest.",
+        "Minggu": "Long 13km @ HR 145-155 — naik dari 12km. 🏃"
+      },
+      "iso_date": "2026-07-17",
       "week_number": 6
     }
   ]
