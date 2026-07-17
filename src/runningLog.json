@@ -4030,9 +4030,7 @@
         "",
         "**Besok Kamis:** Strength Full 💪",
         "",
-        "",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -4134,6 +4132,119 @@
         "Besok Kamis": "Strength Full 💪"
       },
       "iso_date": "2026-07-15",
+      "week_number": 6
+    },
+    {
+      "day_name": "Kamis",
+      "date_str": "16 Juli 2026",
+      "title": "Strength Full (Minggu 6)",
+      "date": "2026-07-16",
+      "assessment": "RPE turun dari 7 → 6. Padahal gerakan dan volume identik. Artinya sistem neuromuskular udah mulai \"bored\" — adaptasi penuh ke bodyweight strength. Peak HR 142 sedikit lebih tinggi dari Senin (138), tapi RPE lebih rendah — perceived effort makin enteng.",
+      "catatan_audit": "",
+      "log_text": [
+        "",
+        "**Gerakan:** Bodyweight Standard Minggu 5-12",
+        "",
+        "| Gerakan | Set × Reps | Status |",
+        "|---------|-----------|--------|",
+        "| Bodyweight Squat | 3 × 18 | ✅ |",
+        "| Reverse Lunge | 3 × 10/kaki | ✅ |",
+        "| Push Up (knee) | 3 × 10 | ✅ |",
+        "| Plank | 3 × 45 dtk | ✅ |",
+        "| Single Leg Calf Raise | 3 × 12/kaki | ✅ |",
+        "",
+        "**Data:**",
+        "| Metrik | Nilai | Sebelumnya |",
+        "|--------|-------|-----------|",
+        "| RPE | 6/10 | 7 (Senin) |",
+        "| Peak HR | 142 bpm | 138 (Senin) |",
+        "| Keluhan | Tidak ada | — |",
+        "",
+        "**Assessment:** RPE turun dari 7 → 6. Padahal gerakan dan volume identik. Artinya sistem neuromuskular udah mulai \"bored\" — adaptasi penuh ke bodyweight strength. Peak HR 142 sedikit lebih tinggi dari Senin (138), tapi RPE lebih rendah — perceived effort makin enteng. ",
+        "",
+        "**What this means:** Volume strength bodyweight udah mencapai ceiling. Untuk progress lebih lanjut nanti, bisa consider:",
+        "- Tambah gerakan (Side Plank, Bulgarian Split Squat) — sesuai program Minggu 7-12",
+        "- Atau switch ke dumbbell untuk squat & lunge",
+        "",
+        "Tapi untuk sekarang — jalanin aja. Minggu 7 baru upgrade.",
+        "",
+        "**Catatan:** Sesi strength ke-2 Week 6. Konsistensi 100%.",
+        "",
+        "**Besok Jumat:** Easy 7km @ HR 145-155 🟢",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Set × Reps",
+            "Status"
+          ],
+          "rows": [
+            [
+              "Bodyweight Squat",
+              "3 × 18",
+              "✅"
+            ],
+            [
+              "Reverse Lunge",
+              "3 × 10/kaki",
+              "✅"
+            ],
+            [
+              "Push Up (knee)",
+              "3 × 10",
+              "✅"
+            ],
+            [
+              "Plank",
+              "3 × 45 dtk",
+              "✅"
+            ],
+            [
+              "Single Leg Calf Raise",
+              "3 × 12/kaki",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Metrik",
+            "Nilai",
+            "Sebelumnya"
+          ],
+          "rows": [
+            [
+              "RPE",
+              "6/10",
+              "7 (Senin)"
+            ],
+            [
+              "Peak HR",
+              "142 bpm",
+              "138 (Senin)"
+            ],
+            [
+              "Keluhan",
+              "Tidak ada",
+              "—"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Gerakan": "Bodyweight Standard Minggu 5-12",
+        "Data": "",
+        "What this means": "Volume strength bodyweight udah mencapai ceiling. Untuk progress lebih lanjut nanti, bisa consider:",
+        "Catatan": "Sesi strength ke-2 Week 6. Konsistensi 100%.",
+        "Besok Jumat": "Easy 7km @ HR 145-155 🟢"
+      },
+      "iso_date": "2026-07-16",
       "week_number": 6
     }
   ]
