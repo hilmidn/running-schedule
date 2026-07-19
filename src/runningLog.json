@@ -4297,9 +4297,7 @@
         "**Besok Sabtu:** Rest.",
         "**Minggu:** Long 13km @ HR 145-155 — naik dari 12km. 🏃",
         "",
-        "",
-        "",
-        "",
+        "---",
         ""
       ],
       "tables": [
@@ -4408,6 +4406,231 @@
         "Minggu": "Long 13km @ HR 145-155 — naik dari 12km. 🏃"
       },
       "iso_date": "2026-07-17",
+      "week_number": 6
+    },
+    {
+      "day_name": "Minggu",
+      "date_str": "19 Juli 2026",
+      "title": "Long Run 13km (Minggu 6)",
+      "date": "2026-07-19",
+      "assessment": "",
+      "catatan_audit": "Week 6 selesai sempurna. 2 strength + 3 running + 1 long = 6/6 sesi. Volume 34km. FASE 2 on track. Week 7 naik lagi: Tempo B 2×15' @ HR 162-167, Long 14km.",
+      "log_text": [
+        "",
+        "**Target:** 13km @ HR 145-155",
+        "",
+        "**Ringkasan:**",
+        "| Metrik | Realisasi | Target | Verdik |",
+        "|--------|-----------|--------|--------|",
+        "| Avg HR | 152 bpm | 145-155 | ✅ Z2 |",
+        "| Max HR | 160 bpm | max 155 | ⚠️ Overshoot beberapa km |",
+        "| Pace | 7:28/km | bebas | ✅ Konsisten |",
+        "| Durasi | 1:39:36 | 13km | ✅ |",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | HR | EG | Catatan |",
+        "|----|------|----|----|---------|",
+        "| 1 | 8:01 | 138 | +8 | ✅ Warmup ideal |",
+        "| 2 | 8:05 | 150 | +16 | ✅ Bukit, masuk Z2 |",
+        "| 3 | 7:22 | 154 | +2 | ✅ Stabil |",
+        "| 4 | 7:26 | 154 | -4 | ✅ Turunan, HR stabil |",
+        "| 5 | 7:06 | 153 | -16 | ✅ Turunan, controlled |",
+        "| 6 | 7:09 | 156 | -7 | ⚠️ Overshoot tipis |",
+        "| 7 | 7:28 | 155 | +8 | ✅ Kembali ke batas |",
+        "| 8 | 7:56 | 156 | +16 | ⚠️ Bukit +16m, overshoot |",
+        "| 9 | 7:37 | 152 | +2 | ✅ Stabil lagi |",
+        "| 10 | 7:15 | 155 | -4 | ✅ Turunan, pas batas |",
+        "| 11 | 7:11 | 152 | -16 | ✅ Turunan, controlled |",
+        "| 12 | 7:15 | 150 | -7 | ✅ HR turun — finis strong |",
+        "| 13 | 6:52 | 152 | -11 | 🔥 Last km ngebut — enak banget lari |",
+        "",
+        "**Perbandingan Long Run:**",
+        "",
+        "| Minggu | Jarak | Pace | Avg HR | Max HR |",
+        "|--------|-------|------|--------|--------|",
+        "| 1 | 8km | 8:18 | 151 | 158 |",
+        "| 2 | 9km | 7:48 | 149 | 159 |",
+        "| 3 | 10km | 8:15 | 150 | 161 |",
+        "| 4 | 11km | 7:53 | 150 | 161 |",
+        "| 5 | 12km | 7:28 | 151 | 160 |",
+        "| **6** | **13km** | **7:28** | **152** | **160** |",
+        "",
+        "**Assessment:**",
+        "",
+        "**+1km, pace sama (7:28), HR +1 bpm.** Konsisten. Long run udah \"cruise control\" — 13km di 7:28 tanpa breakdown.",
+        "",
+        "**Overshoot pattern:** Km 6 (156), Km 8 (156) — pas di bukit atau pas lu \"enak banget lari\" (kata lu). Tapi HR gak pernah tembus 160 lebih dari sebentar. Max 160 cuma sekilas di km 8. Bukan drift — cuma momentary spike dari overexcitement.",
+        "",
+        "**Km 13 pace 6:52** — lu bilang \"lagi enak banget buat lari.\" That's the trap. 😏 Long run finish strong itu bagus, tapi ngebut di km terakhir nunjukin lu masih punya fuel — berarti pace 7:28 kemaren kemaren TERLALU KONSERVATIF. Next long run coba start 5-10 detik lebih cepet, lihat apakah HR tetap di 150-155.",
+        "",
+        "**Yang bagus:** Km 9-12 HR turun 155→152→150→152. Finishing controlled, gak bonk. Adaptasi Z2 udah solid buat 13km.",
+        "",
+        "**Progresi 6 minggu:**",
+        "```",
+        "8km @ 8:18 → 13km @ 7:28",
+        "+5km jarak, -50 detik pace",
+        "VO2Max: 37 → 41",
+        "```",
+        "",
+        "**Catatan audit:** Week 6 selesai sempurna. 2 strength + 3 running + 1 long = 6/6 sesi. Volume 34km. FASE 2 on track. Week 7 naik lagi: Tempo B 2×15' @ HR 162-167, Long 14km.",
+        "",
+        "**Besok Senin:** Strength Full (Minggu 7) 💪",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Metrik",
+            "Realisasi",
+            "Target",
+            "Verdik"
+          ],
+          "rows": [
+            [
+              "Avg HR",
+              "152 bpm",
+              "145-155",
+              "✅ Z2"
+            ],
+            [
+              "Max HR",
+              "160 bpm",
+              "max 155",
+              "⚠️ Overshoot beberapa km"
+            ],
+            [
+              "Pace",
+              "7:28/km",
+              "bebas",
+              "✅ Konsisten"
+            ],
+            [
+              "Durasi",
+              "1:39:36",
+              "13km",
+              "✅"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "HR",
+            "EG",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:01",
+              "138",
+              "+8",
+              "✅ Warmup ideal"
+            ],
+            [
+              "2",
+              "8:05",
+              "150",
+              "+16",
+              "✅ Bukit, masuk Z2"
+            ],
+            [
+              "3",
+              "7:22",
+              "154",
+              "+2",
+              "✅ Stabil"
+            ],
+            [
+              "4",
+              "7:26",
+              "154",
+              "-4",
+              "✅ Turunan, HR stabil"
+            ],
+            [
+              "5",
+              "7:06",
+              "153",
+              "-16",
+              "✅ Turunan, controlled"
+            ],
+            [
+              "6",
+              "7:09",
+              "156",
+              "-7",
+              "⚠️ Overshoot tipis"
+            ],
+            [
+              "7",
+              "7:28",
+              "155",
+              "+8",
+              "✅ Kembali ke batas"
+            ],
+            [
+              "8",
+              "7:56",
+              "156",
+              "+16",
+              "⚠️ Bukit +16m, overshoot"
+            ],
+            [
+              "9",
+              "7:37",
+              "152",
+              "+2",
+              "✅ Stabil lagi"
+            ],
+            [
+              "10",
+              "7:15",
+              "155",
+              "-4",
+              "✅ Turunan, pas batas"
+            ],
+            [
+              "11",
+              "7:11",
+              "152",
+              "-16",
+              "✅ Turunan, controlled"
+            ],
+            [
+              "12",
+              "7:15",
+              "150",
+              "-7",
+              "✅ HR turun — finis strong"
+            ],
+            [
+              "13",
+              "6:52",
+              "152",
+              "-11",
+              "🔥 Last km ngebut — enak banget lari"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Target": "13km @ HR 145-155",
+        "Ringkasan": "",
+        "Split": "",
+        "Perbandingan Long Run": "",
+        "Overshoot pattern": "Km 6 (156), Km 8 (156) — pas di bukit atau pas lu \"enak banget lari\" (kata lu). Tapi HR gak pernah tembus 160 lebih dari sebentar. Max 160 cuma sekilas di km 8. Bukan drift — cuma momentary spike dari overexcitement.",
+        "Yang bagus": "Km 9-12 HR turun 155→152→150→152. Finishing controlled, gak bonk. Adaptasi Z2 udah solid buat 13km.",
+        "Progresi 6 minggu": "",
+        "Besok Senin": "Strength Full (Minggu 7) 💪"
+      },
+      "iso_date": "2026-07-19",
       "week_number": 6
     }
   ]
