@@ -4867,6 +4867,127 @@
           ]
         }
       ]
+    },
+    {
+      "day_name": "Selasa",
+      "date_str": "21 Juli 2026",
+      "title": "Tempo Run 5km (Minggu 7)",
+      "date": "2026-07-21",
+      "assessment": "Broken tempo 2×15' dengan negative split segmen tempo (6:29 → 5:58). Segmen-2 partly terrain-aided (net downhill). HR avg 160, max 169. Solid tempo day.",
+      "catatan_audit": "Broken format jaga form di pace lebih cepat. Segmen-2 5:58 di downhill, flat-estimated ~6:10-6:15. Max HR 169 di tail = sprint finish, acceptable.",
+      "log_text": [
+        "**Tipe:** Tempo Run (Broken: 2×15' + 3' recovery)",
+        "**Durasi:** 42:55 total (33:00 tempo)",
+        "**Jarak:** 5.14km (tempo)",
+        "",
+        "**HR Data:** Avg 160, Max 169",
+        "**Pace:** 6:25/km (overall tempo)",
+        "",
+        "**Split Tempo (per km):**",
+        "",
+        "| Km | Pace | EG | HR |",
+        "|----|------|----|----|",
+        "| 1 | 6:32/km | +7 | 151 |",
+        "| 2 | 6:25/km | +17 | 166 |",
+        "| 3 | 7:21/km | -2 | 154 |",
+        "| 4 | 6:00/km | -10 | 164 |",
+        "| 5 | 5:50/km | -15 | 164 |",
+        "| 0.14 | 6:25/km | +1 | 168 |",
+        "",
+        "**Tempo Segments:**",
+        "",
+        "| Segmen | Durasi | Jarak | Pace | HR |",
+        "|--------|--------|-------|------|----|",
+        "| 1 | 15:04 | 2.32km | 6:29 | 158 |",
+        "| Recovery | 03:00 | 0.28km | 10:35 | 142 |",
+        "| 2 | 15:01 | 2.53km | 5:58 | 162 |",
+        "",
+        "**Assessment:** Broken tempo dengan negative split di segmen tempo. Segmen-2 lebih cepat (5:58 vs 6:29) — sebagian karena net downhill (EG negatif), tapi HR juga naik proper (162 vs 158) jadi effort beneran lebih tinggi. Km 3 (recovery) jelas keliatan di pace turun + HR drop ke 154. Segmen-2 uphill-adjusted pace kemungkinan ~6:10-6:15, masih faster dari segmen-1.",
+        "**Catatan audit:** Tempo broken jadi bagus buat jaga form di pace lebih cepat. Segmen-2 di 5:58 di terrain net downhill = effort tempo moderat-keras. Kalo flat, estimasi pace ~6:10-6:15. HR 169 max di tail 0.14km = sprint finish, fine buat tempo day.",
+        "",
+        "---",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "EG",
+            "HR"
+          ],
+          "rows": [
+            [
+              "1",
+              "6:32/km",
+              "+7",
+              "151"
+            ],
+            [
+              "2",
+              "6:25/km",
+              "+17",
+              "166"
+            ],
+            [
+              "3",
+              "7:21/km",
+              "-2",
+              "154"
+            ],
+            [
+              "4",
+              "6:00/km",
+              "-10",
+              "164"
+            ],
+            [
+              "5",
+              "5:50/km",
+              "-15",
+              "164"
+            ],
+            [
+              "0.14",
+              "6:25/km",
+              "+1",
+              "168"
+            ]
+          ]
+        },
+        {
+          "header": [
+            "Segmen",
+            "Durasi",
+            "Jarak",
+            "Pace",
+            "HR"
+          ],
+          "rows": [
+            [
+              "1",
+              "15:04",
+              "2.32km",
+              "6:29",
+              "158"
+            ],
+            [
+              "Recovery",
+              "03:00",
+              "0.28km",
+              "10:35",
+              "142"
+            ],
+            [
+              "2",
+              "15:01",
+              "2.53km",
+              "5:58",
+              "162"
+            ]
+          ]
+        }
+      ]
     }
   ]
 }
