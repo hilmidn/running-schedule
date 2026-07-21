@@ -4413,8 +4413,8 @@
       "date_str": "19 Juli 2026",
       "title": "Long Run 13km (Minggu 6)",
       "date": "2026-07-19",
-      "assessment": "Broken tempo dengan negative split di segmen tempo. Segmen-2 lebih cepat (5:58 vs 6:29) — sebagian karena net downhill (EG negatif), tapi HR juga naik proper (162 vs 158) jadi effort beneran lebih tinggi. Km 3 (recovery) jelas keliatan di pace turun + HR drop ke 154. Segmen-2 uphill-adjusted pace kemungkinan ~6:10-6:15, masih faster dari segmen-1.",
-      "catatan_audit": "Tempo broken jadi bagus buat jaga form di pace lebih cepat. Segmen-2 di 5:58 di terrain net downhill = effort tempo moderat-keras. Kalo flat, estimasi pace ~6:10-6:15. HR 169 max di tail 0.14km = sprint finish, fine buat tempo day.",
+      "assessment": "",
+      "catatan_audit": "Week 6 selesai sempurna. 2 strength + 3 running + 1 long = 6/6 sesi. Volume 34km. FASE 2 on track. Week 7 naik lagi: Tempo B 2×15' @ HR 162-167, Long 14km.",
       "log_text": [
         "",
         "**Target:** 13km @ HR 145-155",
@@ -4481,61 +4481,6 @@
         "",
         "",
         "",
-        "",
-        "## 20 Juli 2026 — Strength Full (Minggu 7)",
-        "",
-        "**Tipe:** Bodyweight Full Body (3 set)",
-        "**Pemanasan:** -",
-        "",
-        "| Gerakan | Target | Realisasi | Catatan |",
-        "|---------|--------|-----------|---------|",
-        "| Squat | 3×20 | 3×20 | Aman |",
-        "| Reverse Lunge Pulse | 3×10/kaki | 1×10/kaki (per-kaki) + 2 set bergantian | Set-1 pakai teknik pulse per-kaki (kaki tdk turun), terlalu berat → set 2-3 revert ke bergantian kanan-kiri |",
-        "| Push Up | 3×11 | 3×11 (3 regular + 8 knee) | Aman |",
-        "| Plank with Lift | 3×30dtk | 3×30dtk | Aman |",
-        "| Single Leg Calf Raise | 3×12/kaki | 3×12/kaki | Aman |",
-        "| Side Plank | 3×20dtk | 3×20dtk | Aman |",
-        "",
-        "**HR Data:** Peak 140",
-        "**RPE:** 8",
-        "**Keluhan:** -",
-        "**Catatan audit:** Reverse lunge pulse per-kaki (versi yt: angkat kaki ke belakang → lunge → pulse → angkat, kaki tdk mendarat) cuma kuat 1 set. Progres nyata vs versi bergantian (easy mode) yg sblmnya. Belum adaptasi ke load per-kaki. Next: pertahankan 1 set per-kaki di awal, sisa set bergantian sampai adaptasi.",
-        "",
-        "---",
-        "",
-        "",
-        "## 21 Juli 2026 — Tempo Run 5km (Minggu 7)",
-        "",
-        "**Tipe:** Tempo Run (Broken: 2×15' + 3' recovery)",
-        "**Durasi:** 42:55 total (33:00 tempo)",
-        "**Jarak:** 5.14km (tempo)",
-        "",
-        "**HR Data:** Avg 160, Max 169",
-        "**Pace:** 6:25/km (overall tempo)",
-        "",
-        "**Split Tempo (per km):**",
-        "",
-        "| Km | Pace | EG | HR |",
-        "|----|------|----|----|",
-        "| 1 | 6:32/km | +7 | 151 |",
-        "| 2 | 6:25/km | +17 | 166 |",
-        "| 3 | 7:21/km | -2 | 154 |",
-        "| 4 | 6:00/km | -10 | 164 |",
-        "| 5 | 5:50/km | -15 | 164 |",
-        "| 0.14 | 6:25/km | +1 | 168 |",
-        "",
-        "**Tempo Segments:**",
-        "",
-        "| Segmen | Durasi | Jarak | Pace | HR |",
-        "|--------|--------|-------|------|----|",
-        "| 1 | 15:04 | 2.32km | 6:29 | 158 |",
-        "| Recovery | 03:00 | 0.28km | 10:35 | 142 |",
-        "| 2 | 15:01 | 2.53km | 5:58 | 162 |",
-        "",
-        "**Assessment:** Broken tempo dengan negative split di segmen tempo. Segmen-2 lebih cepat (5:58 vs 6:29) — sebagian karena net downhill (EG negatif), tapi HR juga naik proper (162 vs 158) jadi effort beneran lebih tinggi. Km 3 (recovery) jelas keliatan di pace turun + HR drop ke 154. Segmen-2 uphill-adjusted pace kemungkinan ~6:10-6:15, masih faster dari segmen-1.",
-        "**Catatan audit:** Tempo broken jadi bagus buat jaga form di pace lebih cepat. Segmen-2 di 5:58 di terrain net downhill = effort tempo moderat-keras. Kalo flat, estimasi pace ~6:10-6:15. HR 169 max di tail 0.14km = sprint finish, fine buat tempo day.",
-        "",
-        "---",
         ""
       ],
       "tables": [
@@ -4674,7 +4619,52 @@
               "🔥 Last km ngebut — enak banget lari"
             ]
           ]
-        },
+        }
+      ],
+      "key_value": {
+        "Target": "13km @ HR 145-155",
+        "Ringkasan": "",
+        "Split": "",
+        "Perbandingan Long Run": "",
+        "Overshoot pattern": "Km 6 (156), Km 8 (156) — pas di bukit atau pas lu \"enak banget lari\" (kata lu). Tapi HR gak pernah tembus 160 lebih dari sebentar. Max 160 cuma sekilas di km 8. Bukan drift — cuma momentary spike dari overexcitement.",
+        "Yang bagus": "Km 9-12 HR turun 155→152→150→152. Finishing controlled, gak bonk. Adaptasi Z2 udah solid buat 13km.",
+        "Progresi 6 minggu": "",
+        "Besok Senin": "Strength Full (Minggu 7) 💪"
+      },
+      "iso_date": "2026-07-19",
+      "week_number": 6
+    },
+    {
+      "day_name": "Senin",
+      "date_str": "20 Juli 2026",
+      "title": "Strength Full (Minggu 7)",
+      "date": "2026-07-20",
+      "assessment": "",
+      "catatan_audit": "Reverse lunge pulse per-kaki (versi yt: angkat kaki ke belakang → lunge → pulse → angkat, kaki tdk mendarat) cuma kuat 1 set. Progres nyata vs versi bergantian (easy mode) yg sblmnya. Belum adaptasi ke load per-kaki. Next: pertahankan 1 set per-kaki di awal, sisa set bergantian sampai adaptasi.",
+      "log_text": [
+        "",
+        "**Tipe:** Bodyweight Full Body (3 set)",
+        "**Pemanasan:** -",
+        "",
+        "| Gerakan | Target | Realisasi | Catatan |",
+        "|---------|--------|-----------|---------|",
+        "| Squat | 3×20 | 3×20 | Aman |",
+        "| Reverse Lunge Pulse | 3×10/kaki | 1×10/kaki (per-kaki) + 2 set bergantian | Set-1 pakai teknik pulse per-kaki (kaki tdk turun), terlalu berat → set 2-3 revert ke bergantian kanan-kiri |",
+        "| Push Up | 3×11 | 3×11 (3 regular + 8 knee) | Aman |",
+        "| Plank with Lift | 3×30dtk | 3×30dtk | Aman |",
+        "| Single Leg Calf Raise | 3×12/kaki | 3×12/kaki | Aman |",
+        "| Side Plank | 3×20dtk | 3×20dtk | Aman |",
+        "",
+        "**HR Data:** Peak 140",
+        "**RPE:** 8",
+        "**Keluhan:** -",
+        "**Catatan audit:** Reverse lunge pulse per-kaki (versi yt: angkat kaki ke belakang → lunge → pulse → angkat, kaki tdk mendarat) cuma kuat 1 set. Progres nyata vs versi bergantian (easy mode) yg sblmnya. Belum adaptasi ke load per-kaki. Next: pertahankan 1 set per-kaki di awal, sisa set bergantian sampai adaptasi.",
+        "",
+        "---",
+        "",
+        ""
+      ],
+      "tables": [
         {
           "header": [
             "Gerakan",
@@ -4720,162 +4710,27 @@
               "Aman"
             ]
           ]
-        },
-        {
-          "header": [
-            "Km",
-            "Pace",
-            "EG",
-            "HR"
-          ],
-          "rows": [
-            [
-              "1",
-              "6:32/km",
-              "+7",
-              "151"
-            ],
-            [
-              "2",
-              "6:25/km",
-              "+17",
-              "166"
-            ],
-            [
-              "3",
-              "7:21/km",
-              "-2",
-              "154"
-            ],
-            [
-              "4",
-              "6:00/km",
-              "-10",
-              "164"
-            ],
-            [
-              "5",
-              "5:50/km",
-              "-15",
-              "164"
-            ],
-            [
-              "0.14",
-              "6:25/km",
-              "+1",
-              "168"
-            ]
-          ]
         }
       ],
       "key_value": {
-        "Target": "13km @ HR 145-155",
-        "Ringkasan": "",
-        "Split": "",
-        "Perbandingan Long Run": "",
-        "Overshoot pattern": "Km 6 (156), Km 8 (156) — pas di bukit atau pas lu \"enak banget lari\" (kata lu). Tapi HR gak pernah tembus 160 lebih dari sebentar. Max 160 cuma sekilas di km 8. Bukan drift — cuma momentary spike dari overexcitement.",
-        "Yang bagus": "Km 9-12 HR turun 155→152→150→152. Finishing controlled, gak bonk. Adaptasi Z2 udah solid buat 13km.",
-        "Progresi 6 minggu": "",
-        "Besok Senin": "Strength Full (Minggu 7) 💪",
-        "Tipe": "Tempo Run (Broken: 2×15' + 3' recovery)",
+        "Tipe": "Bodyweight Full Body (3 set)",
         "Pemanasan": "-",
-        "HR Data": "Avg 160, Max 169",
+        "HR Data": "Peak 140",
         "RPE": "8",
-        "Keluhan": "-",
-        "Durasi": "42:55 total (33:00 tempo)",
-        "Jarak": "5.14km (tempo)",
-        "Pace": "6:25/km (overall tempo)",
-        "Split Tempo (per km)": "",
-        "Tempo Segments": ""
+        "Keluhan": "-"
       },
-      "iso_date": "2026-07-19",
-      "week_number": 6
-    },
-    {
-      "day_name": "Senin",
-      "date_str": "20 Juli 2026",
-      "title": "Strength Full (Minggu 7)",
-      "date": "2026-07-20",
-      "assessment": "RPE 8, solid full-body session. Reverse lunge pulse per-kaki = progres nyata walau cuma 1 set.",
-      "catatan_audit": "Pulse per-kaki (kaki tdk mendarat) jauh lebih berat dari versi bergantian. Cuma 1 set kuat, sisa revert. Adaptasi butuh waktu.",
-      "log_text": [
-        "**Tipe:** Bodyweight Full Body (3 set)",
-        "**Pemanasan:** -",
-        "",
-        "| Gerakan | Target | Realisasi | Catatan |",
-        "|---------|--------|-----------|---------|",
-        "| Squat | 3×20 | 3×20 | Aman |",
-        "| Reverse Lunge Pulse | 3×10/kaki | 1×10/kaki (per-kaki) + 2 set bergantian | Set-1 pakai teknik pulse per-kaki (kaki tdk turun), terlalu berat → set 2-3 revert ke bergantian kanan-kiri |",
-        "| Push Up | 3×11 | 3×11 (3 regular + 8 knee) | Aman |",
-        "| Plank with Lift | 3×30dtk | 3×30dtk | Aman |",
-        "| Single Leg Calf Raise | 3×12/kaki | 3×12/kaki | Aman |",
-        "| Side Plank | 3×20dtk | 3×20dtk | Aman |",
-        "",
-        "**HR Data:** Peak 140",
-        "**RPE:** 8",
-        "**Keluhan:** -",
-        "**Catatan audit:** Reverse lunge pulse per-kaki (versi yt: angkat kaki ke belakang → lunge → pulse → angkat, kaki tdk mendarat) cuma kuat 1 set. Progres nyata vs versi bergantian (easy mode) yg sblmnya. Belum adaptasi ke load per-kaki. Next: pertahankan 1 set per-kaki di awal, sisa set bergantian sampai adaptasi.",
-        "",
-        "---",
-        ""
-      ],
-      "tables": [
-        {
-          "header": [
-            "Gerakan",
-            "Target",
-            "Realisasi",
-            "Catatan"
-          ],
-          "rows": [
-            [
-              "Squat",
-              "3×20",
-              "3×20",
-              "Aman"
-            ],
-            [
-              "Reverse Lunge Pulse",
-              "3×10/kaki",
-              "1×10/kaki (per-kaki) + 2 set bergantian",
-              "Set-1 pulse per-kaki, terlalu berat → revert"
-            ],
-            [
-              "Push Up",
-              "3×11",
-              "3×11 (3 reg + 8 knee)",
-              "Aman"
-            ],
-            [
-              "Plank with Lift",
-              "3×30dtk",
-              "3×30dtk",
-              "Aman"
-            ],
-            [
-              "Single Leg Calf Raise",
-              "3×12/kaki",
-              "3×12/kaki",
-              "Aman"
-            ],
-            [
-              "Side Plank",
-              "3×20dtk",
-              "3×20dtk",
-              "Aman"
-            ]
-          ]
-        }
-      ]
+      "iso_date": "2026-07-20",
+      "week_number": 7
     },
     {
       "day_name": "Selasa",
       "date_str": "21 Juli 2026",
       "title": "Tempo Run 5km (Minggu 7)",
       "date": "2026-07-21",
-      "assessment": "Broken tempo 2×15' dengan negative split segmen tempo (6:29 → 5:58). Segmen-2 partly terrain-aided (net downhill). HR avg 160, max 169. Solid tempo day.",
-      "catatan_audit": "Broken format jaga form di pace lebih cepat. Segmen-2 5:58 di downhill, flat-estimated ~6:10-6:15. Max HR 169 di tail = sprint finish, acceptable.",
+      "assessment": "Broken tempo dengan negative split di segmen tempo. Segmen-2 lebih cepat (5:58 vs 6:29) — sebagian karena net downhill (EG negatif), tapi HR juga naik proper (162 vs 158) jadi effort beneran lebih tinggi. Km 3 (recovery) jelas keliatan di pace turun + HR drop ke 154. Segmen-2 uphill-adjusted pace kemungkinan ~6:10-6:15, masih faster dari segmen-1.",
+      "catatan_audit": "Tempo broken jadi bagus buat jaga form di pace lebih cepat. Segmen-2 di 5:58 di terrain net downhill = effort tempo moderat-keras. Kalo flat, estimasi pace ~6:10-6:15. HR 169 max di tail 0.14km = sprint finish, fine buat tempo day.",
       "log_text": [
+        "",
         "**Tipe:** Tempo Run (Broken: 2×15' + 3' recovery)",
         "**Durasi:** 42:55 total (33:00 tempo)",
         "**Jarak:** 5.14km (tempo)",
@@ -4954,40 +4809,19 @@
               "168"
             ]
           ]
-        },
-        {
-          "header": [
-            "Segmen",
-            "Durasi",
-            "Jarak",
-            "Pace",
-            "HR"
-          ],
-          "rows": [
-            [
-              "1",
-              "15:04",
-              "2.32km",
-              "6:29",
-              "158"
-            ],
-            [
-              "Recovery",
-              "03:00",
-              "0.28km",
-              "10:35",
-              "142"
-            ],
-            [
-              "2",
-              "15:01",
-              "2.53km",
-              "5:58",
-              "162"
-            ]
-          ]
         }
-      ]
+      ],
+      "key_value": {
+        "Tipe": "Tempo Run (Broken: 2×15' + 3' recovery)",
+        "Durasi": "42:55 total (33:00 tempo)",
+        "Jarak": "5.14km (tempo)",
+        "HR Data": "Avg 160, Max 169",
+        "Pace": "6:25/km (overall tempo)",
+        "Split Tempo (per km)": "",
+        "Tempo Segments": ""
+      },
+      "iso_date": "2026-07-21",
+      "week_number": 7
     }
   ]
 }
