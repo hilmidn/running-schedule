@@ -4761,6 +4761,7 @@
         "**Catatan audit:** Tempo broken jadi bagus buat jaga form di pace lebih cepat. Segmen-2 di 5:58 di terrain net downhill = effort tempo moderat-keras. Kalo flat, estimasi pace ~6:10-6:15. HR 169 max di tail 0.14km = sprint finish, fine buat tempo day.",
         "",
         "---",
+        "",
         ""
       ],
       "tables": [
@@ -4821,6 +4822,105 @@
         "Tempo Segments": ""
       },
       "iso_date": "2026-07-21",
+      "week_number": 7
+    },
+    {
+      "day_name": "Rabu",
+      "date_str": "22 Juli 2026",
+      "title": "Easy 7km (Minggu 7)",
+      "date": "2026-07-22",
+      "assessment": "Easy run solid. HR stabil di 147-153 setelah warmup (km 1-2). Pace variasi wajar ngikutin terrain — km 2 uphill (+16 EG) pace turun ke 8:05, km 5 downhill (-16 EG) pace naik ke 6:50. Yang penting: HR konsisten di zona easy meski pace beda jauh (8:05 vs 6:50), artinya effort beneran terkontrol.",
+      "catatan_audit": "Km 1 warmup 8:44 HR 135 = proper easy start. Max HR 159 kemungkinan spike sesaat di uphill km 2 (EG +16). Km 4-7 stabil di 151-153 = aerobic steady state. Pace 7:32 avg di easy day sejalan dengan Z2 training. Terrain-adjusted effort konsisten sepanjang run.",
+      "log_text": [
+        "",
+        "**Tipe:** Easy Run",
+        "**Durasi:** 52:44",
+        "**Jarak:** 7km",
+        "",
+        "**HR Data:** Avg 148, Max 159",
+        "**Pace:** 7:32/km",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | EG | HR |",
+        "|----|------|----|----|",
+        "| 1 | 8:44/km | +8 | 135 |",
+        "| 2 | 8:05/km | +16 | 147 |",
+        "| 3 | 7:41/km | +2 | 147 |",
+        "| 4 | 7:19/km | -4 | 151 |",
+        "| 5 | 6:50/km | -16 | 152 |",
+        "| 6 | 7:04/km | -7 | 153 |",
+        "| 7 | 7:02/km | -6 | 153 |",
+        "",
+        "**Assessment:** Easy run solid. HR stabil di 147-153 setelah warmup (km 1-2). Pace variasi wajar ngikutin terrain — km 2 uphill (+16 EG) pace turun ke 8:05, km 5 downhill (-16 EG) pace naik ke 6:50. Yang penting: HR konsisten di zona easy meski pace beda jauh (8:05 vs 6:50), artinya effort beneran terkontrol.",
+        "**Catatan audit:** Km 1 warmup 8:44 HR 135 = proper easy start. Max HR 159 kemungkinan spike sesaat di uphill km 2 (EG +16). Km 4-7 stabil di 151-153 = aerobic steady state. Pace 7:32 avg di easy day sejalan dengan Z2 training. Terrain-adjusted effort konsisten sepanjang run.",
+        "",
+        "---",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "EG",
+            "HR"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:44/km",
+              "+8",
+              "135"
+            ],
+            [
+              "2",
+              "8:05/km",
+              "+16",
+              "147"
+            ],
+            [
+              "3",
+              "7:41/km",
+              "+2",
+              "147"
+            ],
+            [
+              "4",
+              "7:19/km",
+              "-4",
+              "151"
+            ],
+            [
+              "5",
+              "6:50/km",
+              "-16",
+              "152"
+            ],
+            [
+              "6",
+              "7:04/km",
+              "-7",
+              "153"
+            ],
+            [
+              "7",
+              "7:02/km",
+              "-6",
+              "153"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Easy Run",
+        "Durasi": "52:44",
+        "Jarak": "7km",
+        "HR Data": "Avg 148, Max 159",
+        "Pace": "7:32/km",
+        "Split": ""
+      },
+      "iso_date": "2026-07-22",
       "week_number": 7
     }
   ]
