@@ -4856,6 +4856,7 @@
         "**Catatan audit:** Km 1 warmup 8:44 HR 135 = proper easy start. Max HR 159 kemungkinan spike sesaat di uphill km 2 (EG +16). Km 4-7 stabil di 151-153 = aerobic steady state. Pace 7:32 avg di easy day sejalan dengan Z2 training. Terrain-adjusted effort konsisten sepanjang run.",
         "",
         "---",
+        "",
         ""
       ],
       "tables": [
@@ -4921,6 +4922,193 @@
         "Split": ""
       },
       "iso_date": "2026-07-22",
+      "week_number": 7
+    },
+    {
+      "day_name": "Kamis",
+      "date_str": "23 Juli 2026",
+      "title": "Strength Full (Minggu 7)",
+      "date": "2026-07-23",
+      "assessment": "",
+      "catatan_audit": "Reverse lunge FULL 3 set per-kaki (kaki tdk turun) = big jump dari Monday yg cuma 1 set. Push up regular naik 3→4 reps (progress!), tapi total reps turun 11→10. Overall volume slightly down tapi regular ratio membaik = progres di push up. Peak HR 146 vs Monday 146 — konsisten.",
+      "log_text": [
+        "",
+        "**Tipe:** Bodyweight Full Body (3 set)",
+        "**Pemanasan:** -",
+        "",
+        "| Gerakan | Target | Realisasi | Catatan |",
+        "|---------|--------|-----------|---------| ",
+        "| Squat | 3×20 | 3×20 | Aman |",
+        "| Reverse Lunge Pulse | 3×10/kaki | 3×10/kaki (per-kaki) | Full 3 set per-kaki (kaki tdk turun) — progres dari Senin yg cuma 1 set! |",
+        "| Push Up | 3×10 | 3×10 (4 regular + 6 knee) | Naik regular (3→4), turun total (11→10) |",
+        "| Plank with Lift | 3×30dtk | 3×30dtk | Aman |",
+        "| Single Leg Calf Raise | 3×12/kaki | 3×12/kaki | Aman |",
+        "| Side Plank | 3×20dtk | 3×20dtk | Aman |",
+        "",
+        "**HR Data:** Peak 146",
+        "**RPE:** 8",
+        "**Keluhan:** -",
+        "**Catatan audit:** Reverse lunge FULL 3 set per-kaki (kaki tdk turun) = big jump dari Monday yg cuma 1 set. Push up regular naik 3→4 reps (progress!), tapi total reps turun 11→10. Overall volume slightly down tapi regular ratio membaik = progres di push up. Peak HR 146 vs Monday 146 — konsisten.",
+        "",
+        "---",
+        "",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Gerakan",
+            "Target",
+            "Realisasi",
+            "Catatan"
+          ],
+          "rows": [
+            [
+              "Squat",
+              "3×20",
+              "3×20",
+              "Aman"
+            ],
+            [
+              "Reverse Lunge Pulse",
+              "3×10/kaki",
+              "3×10/kaki (per-kaki)",
+              "Full 3 set per-kaki (kaki tdk turun) — progres dari Senin yg cuma 1 set!"
+            ],
+            [
+              "Push Up",
+              "3×10",
+              "3×10 (4 regular + 6 knee)",
+              "Naik regular (3→4), turun total (11→10)"
+            ],
+            [
+              "Plank with Lift",
+              "3×30dtk",
+              "3×30dtk",
+              "Aman"
+            ],
+            [
+              "Single Leg Calf Raise",
+              "3×12/kaki",
+              "3×12/kaki",
+              "Aman"
+            ],
+            [
+              "Side Plank",
+              "3×20dtk",
+              "3×20dtk",
+              "Aman"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Bodyweight Full Body (3 set)",
+        "Pemanasan": "-",
+        "HR Data": "Peak 146",
+        "RPE": "8",
+        "Keluhan": "-"
+      },
+      "iso_date": "2026-07-23",
+      "week_number": 7
+    },
+    {
+      "day_name": "Jumat",
+      "date_str": "24 Juli 2026",
+      "title": "Easy 7km (Minggu 7)",
+      "date": "2026-07-24",
+      "assessment": "Easy run konsisten — hampir identik sama Rabu (7:32 vs 7:33, avg HR 148 sama). Route yang sama (EG pattern match). HR stabil di 150-154 setelah warmup. Strength kemarin (full 3 set per-kaki lunge) nggak impact easy run hari ini.",
+      "catatan_audit": "Kamis strength berat (RPE 8) tapi easy run Jumat tetap on-point. Accumulated fatigue week 7 terkontrol. Max HR 158 vs Rabu 159 — turun dikit, fine. Km 5 downhill 6:40 (gravity assist, HR tetap 152 = bukan push). Overall: week 7 easy runs super konsisten.",
+      "log_text": [
+        "",
+        "**Tipe:** Easy Run",
+        "**Durasi:** 53:16",
+        "**Jarak:** 7km",
+        "",
+        "**HR Data:** Avg 148, Max 158",
+        "**Pace:** 7:33/km",
+        "",
+        "**Split:**",
+        "",
+        "| Km | Pace | EG | HR |",
+        "|----|------|----|----|",
+        "| 1 | 8:46/km | +8 | 134 |",
+        "| 2 | 8:20/km | +16 | 146 |",
+        "| 3 | 7:30/km | +2 | 150 |",
+        "| 4 | 7:19/km | -4 | 152 |",
+        "| 5 | 6:40/km | -16 | 152 |",
+        "| 6 | 6:58/km | -7 | 154 |",
+        "| 7 | 7:15/km | -5 | 152 |",
+        "",
+        "**Assessment:** Easy run konsisten — hampir identik sama Rabu (7:32 vs 7:33, avg HR 148 sama). Route yang sama (EG pattern match). HR stabil di 150-154 setelah warmup. Strength kemarin (full 3 set per-kaki lunge) nggak impact easy run hari ini.",
+        "**Catatan audit:** Kamis strength berat (RPE 8) tapi easy run Jumat tetap on-point. Accumulated fatigue week 7 terkontrol. Max HR 158 vs Rabu 159 — turun dikit, fine. Km 5 downhill 6:40 (gravity assist, HR tetap 152 = bukan push). Overall: week 7 easy runs super konsisten.",
+        "",
+        "---",
+        ""
+      ],
+      "tables": [
+        {
+          "header": [
+            "Km",
+            "Pace",
+            "EG",
+            "HR"
+          ],
+          "rows": [
+            [
+              "1",
+              "8:46/km",
+              "+8",
+              "134"
+            ],
+            [
+              "2",
+              "8:20/km",
+              "+16",
+              "146"
+            ],
+            [
+              "3",
+              "7:30/km",
+              "+2",
+              "150"
+            ],
+            [
+              "4",
+              "7:19/km",
+              "-4",
+              "152"
+            ],
+            [
+              "5",
+              "6:40/km",
+              "-16",
+              "152"
+            ],
+            [
+              "6",
+              "6:58/km",
+              "-7",
+              "154"
+            ],
+            [
+              "7",
+              "7:15/km",
+              "-5",
+              "152"
+            ]
+          ]
+        }
+      ],
+      "key_value": {
+        "Tipe": "Easy Run",
+        "Durasi": "53:16",
+        "Jarak": "7km",
+        "HR Data": "Avg 148, Max 158",
+        "Pace": "7:33/km",
+        "Split": ""
+      },
+      "iso_date": "2026-07-24",
       "week_number": 7
     }
   ]
